@@ -1,0 +1,15 @@
+error: pathspec '**/node_modules/**/*.*' did not match any file(s) known to git
+error: pathspec '**/reftest/**' did not match any file(s) known to git
+error: pathspec 'obj*/**' did not match any file(s) known to git
+error: pathspec 'browser/branding/**/firefox-branding.js' did not match any file(s) known to git
+error: pathspec 'browser/base/content/test/urlbar/file_blank_but_not_blank.html' did not match any file(s) known to git
+error: pathspec 'browser/extensions/mortar/**' did not match any file(s) known to git
+error: pathspec 'devtools/shared/pretty-fast/*' did not match any file(s) known to git
+error: pathspec 'devtools/shared/sourcemap/*' did not match any file(s) known to git
+error: pathspec 'devtools/server/actors/utils/automation-timeline.js' did not match any file(s) known to git
+error: pathspec 'devtools/client/debugger/test/mochitest/code_*.js' did not match any file(s) known to git
+error: pathspec 'devtools/server/tests/unit/babel_and_browserify_script_with_source_map.js' did not match any file(s) known to git
+error: pathspec 'dom/tests/html/**' did not match any file(s) known to git
+error: pathspec 'remote/server/HTTPD.jsm' did not match any file(s) known to git
+error: pathspec 'testing/talos/talos/tests/tp5n/**' did not match any file(s) known to git
+error: pathspec 'browser/components/payments/res/vendor/*' did not match any file(s) known to git

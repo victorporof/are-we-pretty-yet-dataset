@@ -1,0 +1,309 @@
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/tabbrowser.js
+  4180:35  error  Parsing error: Unexpected token
+
+  4178 |           )
+  4179 |                                   )
+> 4180 |                                   )
+       |                                   ^
+  4181 |                                                                       )
+  4182 |                                       )
+  4183 |                                                       )
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabclose.js
+  70:23  error  Parsing error: Unexpected token, expected ","
+
+  68 |              inRange(gBrowser.selectedTab.clientWidth - r.w, 0, 2)
+  69 |                       )
+> 70 |                       ),
+     |                       ^
+  71 |           },
+  72 |           {name: "bug 1446449 - spurious tab switch spinner",
+  73 |            condition: r => (
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabopen.js
+  83:23  error  Parsing error: Unexpected token, expected ","
+
+  81 |                      firstTabRect.width)
+  82 |                       )
+> 83 |                       )
+     |                       ^
+  84 |                       ),
+  85 |           },
+  86 |           {name: "the urlbar placeolder moves up and down by a few pixels",
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabswitch.js
+  69:23  error  Parsing error: Unexpected token, expected ","
+
+  67 |              r.w == 1 && r.x1 == firstTabRect.right - 1
+  68 |                       )
+> 69 |                       ),
+     |                       ^
+  70 |           },
+  71 |           {name: "bug 1446449 - spurious tab switch spinner",
+  72 |            condition: r => (
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_contentblocking.js
+  72:7  error  Parsing error: Unexpected reserved word 'private'
+
+  70 |   let menu = doc.querySelector("#trackingProtectionMenu");
+  71 |   let always = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=always]");
+> 72 |   let private = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=private]");
+     |       ^
+  73 |   menu.selectedItem = always;
+  74 |   ok(!private.selected, "The Only in private windows item should not be selected");
+  75 |   ok(always.selected, "The Always item should be selected");
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/privatebrowsing/test/browser/browser_privatebrowsing_windowtitle.js
+  67:20  error  Parsing error: Unexpected reserved word 'private'
+
+  65 |   }
+  66 | 
+> 67 |   function openWin(private) {
+     |                    ^
+  68 |     return BrowserTestUtils.openNewBrowserWindow({ private });
+  69 |   }
+  70 |   await testTabTitle((await openWin(false)), "about:blank", false, page_without_title);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_354894_perwindowpb.js
+  140:7  error  Parsing error: Unexpected reserved word 'private'
+
+  138 |   }
+  139 | 
+> 140 |   let private = options.private || false;
+      |       ^
+  141 |   let newWin = await promiseNewWindowLoaded({ private });
+  142 | 
+  143 |   await injectTestTabs(newWin);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/reducers/messages.js
+  933:26  error  Parsing error: Unexpected token
+
+  931 |                                    )
+  932 |                                              )
+> 933 |                          )
+      |                          ^
+  934 |                                   )
+  935 |                     )
+  936 |   );
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-03.js
+  71:7  error  Parsing error: 'with' in strict mode
+
+  69 |       var a;
+  70 |       var r = number;
+> 71 |       with (Math) {
+     |       ^
+  72 |         a = PI * r * r;
+  73 |         debugger;
+  74 |       }
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-04.js
+  83:7  error  Parsing error: 'with' in strict mode
+
+  81 |       var a, obj = { one: 1, two: 2 };
+  82 |       var r = number;
+> 83 |       with (Math) {
+     |       ^
+  84 |         a = PI * r * r;
+  85 |         with (obj) {
+  86 |           var foo = two * PI;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_noopener.js
+  29:24  error  Parsing error: Unexpected reserved word 'private'
+
+  27 | const NOOPENER_NEWPROC_PREF = "dom.noopener.newprocess.enabled";
+  28 | 
+> 29 | async function doTests(private, container) {
+     |                        ^
+  30 |   let alwaysNewWindow = SpecialPowers.getIntPref(OPEN_NEWWINDOW_PREF) == OPEN_NEWWINDOW;
+  31 | 
+  32 |   let window = await BrowserTestUtils.openNewBrowserWindow({ private });
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Array.js
+  935:1  error  Parsing error: Unexpected character '#'
+
+  933 |         R = "";
+  934 |     } else {
+> 935 | #if EXPOSE_INTL_API
+      | ^
+  936 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  937 | #else
+  938 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/intl/CommonFunctions.js
+  7:1  error  Parsing error: Unexpected character '#'
+
+   5 | /* Portions Copyright Norbert Lindenberg 2011-2012. */
+   6 | 
+>  7 | #ifdef DEBUG
+     | ^
+   8 | #define assertIsValidAndCanonicalLanguageTag(locale, desc) \
+   9 |     do { \
+  10 |         let localeObj = parseLanguageTag(locale); \
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExp.js
+  590:1  error  Parsing error: Unexpected character '#'
+
+  588 | //   * global flag is true
+  589 | //   * replaceValue is a string without "$"
+> 590 | #define FUNC_NAME RegExpGlobalReplaceOpt
+      | ^
+  591 | #include "RegExpGlobalReplaceOpt.h.js"
+  592 | #undef FUNC_NAME
+  593 |
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpGlobalReplaceOpt.h.js
+  22:1  error  Parsing error: Unexpected character '#'
+
+  20 | //   * global flag is true
+  21 | function FUNC_NAME(rx, S, lengthS, replaceValue, flags
+> 22 | #ifdef SUBSTITUTION
+     | ^
+  23 |                    , firstDollarIndex
+  24 | #endif
+  25 | #ifdef ELEMBASE
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpLocalReplaceOpt.h.js
+  20:1  error  Parsing error: Unexpected character '#'
+
+  18 | //   * global flag is false
+  19 | function FUNC_NAME(rx, S, lengthS, replaceValue
+> 20 | #ifdef SUBSTITUTION
+     | ^
+  21 |                    , firstDollarIndex
+  22 | #endif
+  23 |                   )
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/String.js
+  795:1  error  Parsing error: Unexpected character '#'
+
+  793 |     var options = arguments.length > 3 ? arguments[3] : undefined;
+  794 | /* eslint-disable no-unreachable */
+> 795 | #if EXPOSE_INTL_API
+      | ^
+  796 |     return callFunction(String_localeCompare, str1, str2, locales, options);
+  797 | #else
+  798 |     return callFunction(std_String_localeCompare, str1, str2, locales, options);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedArray.js
+  1328:1  error  Parsing error: Unexpected character '#'
+
+  1326 |     // Omit the 'if' clause in step 6, since typed arrays can't have undefined
+  1327 |     // or null elements.
+> 1328 | #if EXPOSE_INTL_API
+       | ^
+  1329 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  1330 | #else
+  1331 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedObject.js
+  1:2  error  Parsing error: Unexpected character '#'
+
+> 1 | #include "TypedObjectConstants.h"
+    |  ^
+  2 | 
+  3 | ///////////////////////////////////////////////////////////////////////////
+  4 | // Getters and setters for various slots
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Utilities.js
+  25:1  error  Parsing error: Unexpected character '#'
+
+  23 | */
+  24 | 
+> 25 | #include "SelfHostingDefines.h"
+     | ^
+  26 | #include "TypedObjectConstants.h"
+  27 | 
+  28 | // Assertions and debug printing, defined here instead of in the header above
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/shell/ModuleLoader.js
+  57:1  error  Parsing error: Unexpected token
+
+  55 |         let isRelative = ReflectApply(StringPrototypeStartsWith, name, ["./"])
+  56 |                       || ReflectApply(StringPrototypeStartsWith, name, ["../"])
+> 57 | #ifdef XP_WIN
+     | ^
+  58 |                       || ReflectApply(StringPrototypeStartsWith, name, [".\\"])
+  59 |                       || ReflectApply(StringPrototypeStartsWith, name, ["..\\"])
+  60 | #endif
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines.js
+  723:43  error  Parsing error: Unexpected token
+
+  721 |                                )
+  722 |                                                    )
+> 723 |                                           )
+      |                                           ^
+  724 |                                       )
+  725 |                                     )
+  726 |                                         )
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/antitracking/test/browser/browser_referrerDefaultPolicy.js
+  5:29  error  Parsing error: Unexpected reserved word 'private'
+
+  3 | /* import-globals-from ../../../../../browser/base/content/test/general/head.js */
+  4 | 
+> 5 | async function testOnWindow(private, expectedReferrer) {
+    |                             ^
+  6 |   info("Creating a new " + (private ? "private" : "normal") + " window");
+  7 |   let win = await BrowserTestUtils.openNewBrowserWindow({private});
+  8 |   let browser = win.gBrowser;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/asyncshutdown/AsyncShutdown.jsm
+  124:28  error  Parsing error: Unexpected token
+
+  122 |         )
+  123 |                              )
+> 124 |                            )
+      |                            ^
+  125 |                     )
+  126 |                              )
+  127 |                    )
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_search_engine_alias.js
+  145:12  error  Parsing error: Unexpected reserved word 'private'
+
+  143 | 
+  144 |   // Search in both a non-private and private context.
+> 145 |   for (let private of [false, true]) {
+      |            ^
+  146 |     let searchParam = "enable-actions";
+  147 |     if (private) {
+  148 |       searchParam += " private-window";
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/pings/HealthPing.jsm
+  170:25  error  Parsing error: Unexpected token, expected ";"
+
+  168 |                                      )
+  169 |                                        )
+> 170 |                        ));
+      |                         ^
+  171 |   },
+  172 | 
+  173 |   /**
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/sessionstore/SessionHistory.jsm
+  212:75  error  Parsing error: Unexpected token
+
+  210 |                                  )
+  211 |                                                                                                      )
+> 212 |                                                                           ));
+      |                                                                           ^
+  213 | 
+  214 |         if (presStates.length > 0) {
+  215 |           entry.presState = presStates;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_Services.js
+  10:32  error  Parsing error: Unexpected reserved word 'interface'
+
+   8 | // Globals
+   9 | 
+> 10 | function checkService(service, interface) {
+     |                                ^
+  11 |   info("Checking that Services." + service + " is an " + interface);
+  12 |   Assert.ok(service in Services);
+  13 |   Assert.ok(Services[service] instanceof interface);
+
+✖ 28 problems (28 errors, 0 warnings)
+

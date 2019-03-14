@@ -1,0 +1,22 @@
+ browser/base/content/browser-ctrlTab.js                                      |  4 ++--
+ browser/base/content/browser-media.js                                        |  2 +-
+ browser/base/content/pageinfo/pageInfo.js                                    |  4 ++--
+ browser/base/content/tabbrowser.js                                           |  2 +-
+ browser/components/extensions/test/browser/browser_ext_windows_create_url.js |  2 +-
+ browser/modules/TransientPrefs.jsm                                           |  2 +-
+ devtools/client/shared/build/babel.js                                        | 34 +++++++++++++++++-----------------
+ devtools/server/tests/browser/browser_memory_allocations_01.js               |  2 +-
+ dom/plugins/test/mochitest/dialog_watcher.js                                 |  2 +-
+ dom/url/tests/urlSearchParams_commons.js                                     |  2 +-
+ mobile/android/chrome/content/CastingApps.js                                 |  4 ++--
+ netwerk/protocol/http/UserAgentOverrides.jsm                                 |  6 +++---
+ testing/marionette/test/unit/test_element.js                                 |  2 +-
+ toolkit/components/normandy/vendor/React.js                                  |  2 +-
+ toolkit/components/normandy/vendor/ReactDOM.js                               |  4 ++--
+ toolkit/components/osfile/modules/osfile_unix_front.jsm                      |  2 +-
+ toolkit/components/passwordmgr/test/unit/test_storage_mozStorage.js          | 14 +++++++-------
+ toolkit/components/url-classifier/tests/mochitest/head.js                    |  2 +-
+ toolkit/components/utils/mozjexl.js                                          |  2 +-
+ toolkit/modules/PopupNotifications.jsm                                       |  2 +-
+ toolkit/mozapps/handling/ContentDispatchChooser.jsm                          |  2 +-
+ 21 files changed, 49 insertions(+), 49 deletions(-)

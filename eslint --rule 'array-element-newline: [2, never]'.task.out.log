@@ -1,0 +1,2664 @@
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/tests/browser/e10s/browser_treeupdate_ariaowns.js
+   35:54  error  There should be no linebreak here  array-element-newline
+   36:61  error  There should be no linebreak here  array-element-newline
+   66:40  error  There should be no linebreak here  array-element-newline
+   67:61  error  There should be no linebreak here  array-element-newline
+   83:43  error  There should be no linebreak here  array-element-newline
+   84:48  error  There should be no linebreak here  array-element-newline
+   85:62  error  There should be no linebreak here  array-element-newline
+  105:62  error  There should be no linebreak here  array-element-newline
+  106:55  error  There should be no linebreak here  array-element-newline
+  107:52  error  There should be no linebreak here  array-element-newline
+  108:49  error  There should be no linebreak here  array-element-newline
+  123:53  error  There should be no linebreak here  array-element-newline
+  124:51  error  There should be no linebreak here  array-element-newline
+  125:52  error  There should be no linebreak here  array-element-newline
+  150:96  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/tests/browser/e10s/browser_treeupdate_gencontent.js
+  54:41  error  There should be no linebreak here  array-element-newline
+  55:45  error  There should be no linebreak here  array-element-newline
+  70:41  error  There should be no linebreak here  array-element-newline
+  71:45  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/aboutNetError.js
+  265:84  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/browser-contentblocking.js
+  449:83  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/captivePortal/browser_CaptivePortalWatcher_1.js
+  32:6  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/captivePortal/browser_CaptivePortalWatcher.js
+   37:6  error  There should be no linebreak here  array-element-newline
+   73:6  error  There should be no linebreak here  array-element-newline
+   87:6  error  There should be no linebreak here  array-element-newline
+  104:6  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/general/browser_contentAreaClick.js
+  40:50  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/general/browser_contextmenu_input.js
+   23:177  error  There should be no linebreak here  array-element-newline
+   29:177  error  There should be no linebreak here  array-element-newline
+   50:57   error  There should be no linebreak here  array-element-newline
+   51:239  error  There should be no linebreak here  array-element-newline
+   59:177  error  There should be no linebreak here  array-element-newline
+   67:177  error  There should be no linebreak here  array-element-newline
+   77:177  error  There should be no linebreak here  array-element-newline
+  109:179  error  There should be no linebreak here  array-element-newline
+  133:177  error  There should be no linebreak here  array-element-newline
+  144:177  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/general/browser_contextmenu.js
+   38:43  error  There should be no linebreak here  array-element-newline
+   93:43  error  There should be no linebreak here  array-element-newline
+  103:43  error  There should be no linebreak here  array-element-newline
+  421:43  error  There should be no linebreak here  array-element-newline
+  444:43  error  There should be no linebreak here  array-element-newline
+  577:43  error  There should be no linebreak here  array-element-newline
+  585:43  error  There should be no linebreak here  array-element-newline
+  593:43  error  There should be no linebreak here  array-element-newline
+  603:43  error  There should be no linebreak here  array-element-newline
+  611:43  error  There should be no linebreak here  array-element-newline
+  619:43  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/general/browser_e10s_chrome_process.js
+  112:15  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/general/browser_offlineQuotaNotification.js
+  46:33  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_startup_content.js
+  24:25   error  There should be no linebreak here  array-element-newline
+  25:231  error  There should be no linebreak here  array-element-newline
+  28:23   error  There should be no linebreak here  array-element-newline
+  31:21   error  There should be no linebreak here  array-element-newline
+  34:25   error  There should be no linebreak here  array-element-newline
+  37:17   error  There should be no linebreak here  array-element-newline
+  38:69   error  There should be no linebreak here  array-element-newline
+  41:18   error  There should be no linebreak here  array-element-newline
+  48:25   error  There should be no linebreak here  array-element-newline
+  51:13   error  There should be no linebreak here  array-element-newline
+  54:18   error  There should be no linebreak here  array-element-newline
+  70:77   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_startup.js
+  31:84   error  There should be no linebreak here  array-element-newline
+  52:495  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_urlbar_search_legacy.js
+  75:17  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_2.js
+   32:28  error  There should be no linebreak here  array-element-newline
+   56:77  error  There should be no linebreak here  array-element-newline
+   82:75  error  There should be no linebreak here  array-element-newline
+  111:37  error  There should be no linebreak here  array-element-newline
+  139:59  error  There should be no linebreak here  array-element-newline
+  172:73  error  There should be no linebreak here  array-element-newline
+  186:44  error  There should be no linebreak here  array-element-newline
+  200:36  error  There should be no linebreak here  array-element-newline
+  218:45  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_3.js
+   34:48   error  There should be no linebreak here  array-element-newline
+   67:75   error  There should be no linebreak here  array-element-newline
+  104:37   error  There should be no linebreak here  array-element-newline
+  127:39   error  There should be no linebreak here  array-element-newline
+  150:33   error  There should be no linebreak here  array-element-newline
+  167:60   error  There should be no linebreak here  array-element-newline
+  192:120  error  There should be no linebreak here  array-element-newline
+  227:75   error  There should be no linebreak here  array-element-newline
+  265:64   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_4.js
+   29:82  error  There should be no linebreak here  array-element-newline
+   43:90  error  There should be no linebreak here  array-element-newline
+   75:53  error  There should be no linebreak here  array-element-newline
+   97:77  error  There should be no linebreak here  array-element-newline
+  125:75  error  There should be no linebreak here  array-element-newline
+  166:57  error  There should be no linebreak here  array-element-newline
+  183:60  error  There should be no linebreak here  array-element-newline
+  200:77  error  There should be no linebreak here  array-element-newline
+  217:74  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_5.js
+   40:94  error  There should be no linebreak here  array-element-newline
+   65:78  error  There should be no linebreak here  array-element-newline
+   86:17  error  There should be no linebreak here  array-element-newline
+  117:16  error  There should be no linebreak here  array-element-newline
+  148:15  error  There should be no linebreak here  array-element-newline
+  166:77  error  There should be no linebreak here  array-element-newline
+  178:22  error  There should be no linebreak here  array-element-newline
+  232:73  error  There should be no linebreak here  array-element-newline
+  256:78  error  There should be no linebreak here  array-element-newline
+  293:65  error  There should be no linebreak here  array-element-newline
+  342:63  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_checkbox.js
+   56:44  error  There should be no linebreak here  array-element-newline
+   75:60  error  There should be no linebreak here  array-element-newline
+  100:65  error  There should be no linebreak here  array-element-newline
+  129:74  error  There should be no linebreak here  array-element-newline
+  164:42  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_keyboard.js
+   37:92  error  There should be no linebreak here  array-element-newline
+   58:81  error  There should be no linebreak here  array-element-newline
+   80:56  error  There should be no linebreak here  array-element-newline
+  137:79  error  There should be no linebreak here  array-element-newline
+  179:84  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_learnmore.js
+  32:64  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_no_anchors.js
+   41:32  error  There should be no linebreak here  array-element-newline
+   71:37  error  There should be no linebreak here  array-element-newline
+  107:67  error  There should be no linebreak here  array-element-newline
+  160:65  error  There should be no linebreak here  array-element-newline
+  193:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification.js
+  109:36  error  There should be no linebreak here  array-element-newline
+  126:76  error  There should be no linebreak here  array-element-newline
+  147:73  error  There should be no linebreak here  array-element-newline
+  159:19  error  There should be no linebreak here  array-element-newline
+  176:66  error  There should be no linebreak here  array-element-newline
+  207:86  error  There should be no linebreak here  array-element-newline
+  228:45  error  There should be no linebreak here  array-element-newline
+  247:51  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/referrer/head.js
+  38:60  error  There should be no linebreak here  array-element-newline
+  54:55  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/siteIdentity/browser_insecureLoginForms.js
+   23:94  error  There should be no linebreak here  array-element-newline
+   36:75  error  There should be no linebreak here  array-element-newline
+  117:75  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/static/browser_all_files_referenced.js
+   23:74  error  There should be no linebreak here  array-element-newline
+   26:60  error  There should be no linebreak here  array-element-newline
+   28:60  error  There should be no linebreak here  array-element-newline
+   31:56  error  There should be no linebreak here  array-element-newline
+   35:92  error  There should be no linebreak here  array-element-newline
+   38:75  error  There should be no linebreak here  array-element-newline
+   56:62  error  There should be no linebreak here  array-element-newline
+   60:50  error  There should be no linebreak here  array-element-newline
+   65:77  error  There should be no linebreak here  array-element-newline
+   68:49  error  There should be no linebreak here  array-element-newline
+   72:72  error  There should be no linebreak here  array-element-newline
+   75:53  error  There should be no linebreak here  array-element-newline
+   78:37  error  There should be no linebreak here  array-element-newline
+   81:52  error  There should be no linebreak here  array-element-newline
+   84:36  error  There should be no linebreak here  array-element-newline
+   87:64  error  There should be no linebreak here  array-element-newline
+   90:79  error  There should be no linebreak here  array-element-newline
+  102:57  error  There should be no linebreak here  array-element-newline
+  105:70  error  There should be no linebreak here  array-element-newline
+  109:28  error  There should be no linebreak here  array-element-newline
+  112:41  error  There should be no linebreak here  array-element-newline
+  114:17  error  There should be no linebreak here  array-element-newline
+  116:17  error  There should be no linebreak here  array-element-newline
+  118:17  error  There should be no linebreak here  array-element-newline
+  121:17  error  There should be no linebreak here  array-element-newline
+  123:17  error  There should be no linebreak here  array-element-newline
+  125:17  error  There should be no linebreak here  array-element-newline
+  127:17  error  There should be no linebreak here  array-element-newline
+  129:17  error  There should be no linebreak here  array-element-newline
+  131:51  error  There should be no linebreak here  array-element-newline
+  133:70  error  There should be no linebreak here  array-element-newline
+  135:44  error  There should be no linebreak here  array-element-newline
+  140:26  error  There should be no linebreak here  array-element-newline
+  146:72  error  There should be no linebreak here  array-element-newline
+  149:17  error  There should be no linebreak here  array-element-newline
+  152:63  error  There should be no linebreak here  array-element-newline
+  169:33  error  There should be no linebreak here  array-element-newline
+  172:38  error  There should be no linebreak here  array-element-newline
+  175:17  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/static/browser_parsable_css.js
+   16:42  error  There should be no linebreak here  array-element-newline
+   19:35  error  There should be no linebreak here  array-element-newline
+   22:51  error  There should be no linebreak here  array-element-newline
+   26:66  error  There should be no linebreak here  array-element-newline
+   30:29  error  There should be no linebreak here  array-element-newline
+   38:88  error  There should be no linebreak here  array-element-newline
+   44:38  error  There should be no linebreak here  array-element-newline
+   50:54  error  There should be no linebreak here  array-element-newline
+  118:88  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/sync/browser_contextmenu_sendpage.js
+  7:190  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/sync/browser_contextmenu_sendtab.js
+  11:190  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/tabs/browser_tabSpinnerProbe.js
+  90:16  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webextensions/browser_extension_update_background_noprompt.js
+  23:49  error  There should be no linebreak here  array-element-newline
+  45:51  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webextensions/browser_extension_update_background.js
+   67:51  error  There should be no linebreak here  array-element-newline
+  194:34  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webextensions/browser_update_interactive_noprompt.js
+   8:49  error  There should be no linebreak here  array-element-newline
+  11:51  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webextensions/head.js
+  314:76  error  There should be no linebreak here  array-element-newline
+  388:51  error  There should be no linebreak here  array-element-newline
+  482:50  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/attribution/test/xpcshell/test_AttributionCode.js
+  27:17  error  There should be no linebreak here  array-element-newline
+  29:14  error  There should be no linebreak here  array-element-newline
+  31:22  error  There should be no linebreak here  array-element-newline
+  33:20  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/BrowserContentHandler.jsm
+  246:45  error  There should be no linebreak here  array-element-newline
+  247:35  error  There should be no linebreak here  array-element-newline
+  249:80  error  There should be no linebreak here  array-element-newline
+  250:44  error  There should be no linebreak here  array-element-newline
+  251:40  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/contextualidentity/test/browser/browser_aboutURLs.js
+  15:32  error  There should be no linebreak here  array-element-newline
+  17:78  error  There should be no linebreak here  array-element-newline
+  19:86  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/customizableui/test/browser_panelUINotifications_fullscreen_noAutoHideToolbar.js
+  31:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/enterprisepolicies/Policies.jsm
+  161:102  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/enterprisepolicies/tests/browser/browser_policies_simple_pref_policies.js
+   41:35  error  There should be no linebreak here  array-element-newline
+   55:37  error  There should be no linebreak here  array-element-newline
+   61:32  error  There should be no linebreak here  array-element-newline
+   67:38  error  There should be no linebreak here  array-element-newline
+   91:34  error  There should be no linebreak here  array-element-newline
+   97:28  error  There should be no linebreak here  array-element-newline
+  119:33  error  There should be no linebreak here  array-element-newline
+  131:34  error  There should be no linebreak here  array-element-newline
+  143:58  error  There should be no linebreak here  array-element-newline
+  157:32  error  There should be no linebreak here  array-element-newline
+  175:33  error  There should be no linebreak here  array-element-newline
+  190:35  error  There should be no linebreak here  array-element-newline
+  204:45  error  There should be no linebreak here  array-element-newline
+  216:45  error  There should be no linebreak here  array-element-newline
+  228:27  error  There should be no linebreak here  array-element-newline
+  238:31  error  There should be no linebreak here  array-element-newline
+  249:29  error  There should be no linebreak here  array-element-newline
+  259:27  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_browserAction_pageAction_icon.js
+   51:53  error  There should be no linebreak here  array-element-newline
+   57:33  error  There should be no linebreak here  array-element-newline
+   77:53  error  There should be no linebreak here  array-element-newline
+   90:73  error  There should be no linebreak here  array-element-newline
+  103:29  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_commands_onCommand.js
+   25:21  error  There should be no linebreak here  array-element-newline
+   41:21  error  There should be no linebreak here  array-element-newline
+   60:28  error  There should be no linebreak here  array-element-newline
+   78:27  error  There should be no linebreak here  array-element-newline
+  104:21  error  There should be no linebreak here  array-element-newline
+  122:22  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_devtools_inspectedWindow.js
+  180:33  error  There should be no linebreak here  array-element-newline
+  196:37  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_devtools_panel.js
+  509:86  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_menus_errors.js
+  15:63  error  There should be no linebreak here  array-element-newline
+  17:67  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_tabs_cookieStoreId.js
+  19:22  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_tabs_move_array.js
+  44:57  error  There should be no linebreak here  array-element-newline
+  46:56  error  There should be no linebreak here  array-element-newline
+  48:56  error  There should be no linebreak here  array-element-newline
+  50:56  error  There should be no linebreak here  array-element-newline
+  52:56  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_tabs_removeCSS.js
+  20:26  error  There should be no linebreak here  array-element-newline
+  30:32  error  There should be no linebreak here  array-element-newline
+  40:32  error  There should be no linebreak here  array-element-newline
+  50:26  error  There should be no linebreak here  array-element-newline
+  61:32  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/xpcshell/test_ext_history.js
+  405:46  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/360seProfileMigrator.jsm
+  188:28  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/ESEDBReader.jsm
+  82:197  error  There should be no linebreak here  array-element-newline
+  83:124  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/IEProfileMigrator.jsm
+  237:39  error  There should be no linebreak here  array-element-newline
+  239:38  error  There should be no linebreak here  array-element-newline
+  241:55  error  There should be no linebreak here  array-element-newline
+  243:92  error  There should be no linebreak here  array-element-newline
+  245:55  error  There should be no linebreak here  array-element-newline
+  253:33  error  There should be no linebreak here  array-element-newline
+  255:55  error  There should be no linebreak here  array-element-newline
+  257:52  error  There should be no linebreak here  array-element-newline
+  259:55  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/MSMigrationUtils.jsm
+  134:22  error  There should be no linebreak here  array-element-newline
+  136:18  error  There should be no linebreak here  array-element-newline
+  138:22  error  There should be no linebreak here  array-element-newline
+  140:25  error  There should be no linebreak here  array-element-newline
+  142:22  error  There should be no linebreak here  array-element-newline
+  149:63  error  There should be no linebreak here  array-element-newline
+  151:47  error  There should be no linebreak here  array-element-newline
+  153:52  error  There should be no linebreak here  array-element-newline
+  155:22  error  There should be no linebreak here  array-element-newline
+  157:22  error  There should be no linebreak here  array-element-newline
+  159:34  error  There should be no linebreak here  array-element-newline
+  161:22  error  There should be no linebreak here  array-element-newline
+  163:22  error  There should be no linebreak here  array-element-newline
+  165:22  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/places/tests/browser/browser_bookmark_titles.js
+  10:15  error  There should be no linebreak here  array-element-newline
+  12:20  error  There should be no linebreak here  array-element-newline
+  14:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/places/tests/browser/browser_bookmarkProperties_no_user_actions.js
+  64:66  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/main.js
+   78:15  error  There should be no linebreak here  array-element-newline
+   99:5   error  There should be no linebreak here  array-element-newline
+  103:9   error  There should be no linebreak here  array-element-newline
+  106:11  error  There should be no linebreak here  array-element-newline
+  109:15  error  There should be no linebreak here  array-element-newline
+  121:64  error  There should be no linebreak here  array-element-newline
+  133:51  error  There should be no linebreak here  array-element-newline
+  136:28  error  There should be no linebreak here  array-element-newline
+  139:17  error  There should be no linebreak here  array-element-newline
+  142:12  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/privacy.js
+  47:18  error  There should be no linebreak here  array-element-newline
+  50:18  error  There should be no linebreak here  array-element-newline
+  53:18  error  There should be no linebreak here  array-element-newline
+  56:13  error  There should be no linebreak here  array-element-newline
+  58:13  error  There should be no linebreak here  array-element-newline
+  60:24  error  There should be no linebreak here  array-element-newline
+  62:18  error  There should be no linebreak here  array-element-newline
+  65:11  error  There should be no linebreak here  array-element-newline
+  68:12  error  There should be no linebreak here  array-element-newline
+  70:15  error  There should be no linebreak here  array-element-newline
+  73:13  error  There should be no linebreak here  array-element-newline
+  84:6   error  There should be no linebreak here  array-element-newline
+  87:32  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_browser_languages_subdialog.js
+  283:50  error  There should be no linebreak here  array-element-newline
+  428:66  error  There should be no linebreak here  array-element-newline
+  542:52  error  There should be no linebreak here  array-element-newline
+  544:68  error  There should be no linebreak here  array-element-newline
+  547:75  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_connection_dnsoverhttps.js
+  141:64  error  There should be no linebreak here  array-element-newline
+  143:74  error  There should be no linebreak here  array-element-newline
+  146:59  error  There should be no linebreak here  array-element-newline
+  151:77  error  There should be no linebreak here  array-element-newline
+  161:35  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_contentblocking.js
+  72:7  error  Parsing error: Unexpected reserved word 'private'
+
+  70 |   let menu = doc.querySelector("#trackingProtectionMenu");
+  71 |   let always = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=always]");
+> 72 |   let private = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=private]");
+     |       ^
+  73 |   menu.selectedItem = always;
+  74 |   ok(!private.selected, "The Only in private windows item should not be selected");
+  75 |   ok(always.selected, "The Always item should be selected");
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_hometab_restore_defaults.js
+  7:83  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/privatebrowsing/test/browser/browser_privatebrowsing_windowtitle.js
+  67:20  error  Parsing error: Unexpected reserved word 'private'
+
+  65 |   }
+  66 | 
+> 67 |   function openWin(private) {
+     |                    ^
+  68 |     return BrowserTestUtils.openNewBrowserWindow({ private });
+  69 |   }
+  70 |   await testTabTitle((await openWin(false)), "about:blank", false, page_without_title);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/SessionStore.jsm
+   65:81  error  There should be no linebreak here  array-element-newline
+   69:61  error  There should be no linebreak here  array-element-newline
+   75:33  error  There should be no linebreak here  array-element-newline
+   79:78  error  There should be no linebreak here  array-element-newline
+   82:46  error  There should be no linebreak here  array-element-newline
+   94:34  error  There should be no linebreak here  array-element-newline
+   97:34  error  There should be no linebreak here  array-element-newline
+  107:34  error  There should be no linebreak here  array-element-newline
+  118:34  error  There should be no linebreak here  array-element-newline
+  121:34  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_354894_perwindowpb.js
+  140:7  error  Parsing error: Unexpected reserved word 'private'
+
+  138 |   }
+  139 | 
+> 140 |   let private = options.private || false;
+      |       ^
+  141 |   let newWin = await promiseNewWindowLoaded({ private });
+  142 | 
+  143 |   await injectTestTabs(newWin);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_394759_purge.js
+  49:27  error  There should be no linebreak here  array-element-newline
+  57:27  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_491577.js
+  21:27  error  There should be no linebreak here  array-element-newline
+  30:27  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_607016.js
+  16:223  error  There should be no linebreak here  array-element-newline
+  17:116  error  There should be no linebreak here  array-element-newline
+  18:116  error  There should be no linebreak here  array-element-newline
+  19:118  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_662743.js
+  21:70  error  There should be no linebreak here  array-element-newline
+  23:60  error  There should be no linebreak here  array-element-newline
+  25:60  error  There should be no linebreak here  array-element-newline
+  27:43  error  There should be no linebreak here  array-element-newline
+  29:67  error  There should be no linebreak here  array-element-newline
+  31:81  error  There should be no linebreak here  array-element-newline
+  33:67  error  There should be no linebreak here  array-element-newline
+  38:29  error  There should be no linebreak here  array-element-newline
+  39:53  error  There should be no linebreak here  array-element-newline
+  40:67  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_formdata_cc.js
+  17:17  error  There should be no linebreak here  array-element-newline
+  24:17  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_formdata_format.js
+  12:18  error  There should be no linebreak here  array-element-newline
+  14:18  error  There should be no linebreak here  array-element-newline
+  16:20  error  There should be no linebreak here  array-element-newline
+  21:18  error  There should be no linebreak here  array-element-newline
+  23:18  error  There should be no linebreak here  array-element-newline
+  25:20  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_remoteness_flip_on_restore.js
+  178:46  error  There should be no linebreak here  array-element-newline
+  190:41  error  There should be no linebreak here  array-element-newline
+  202:19  error  There should be no linebreak here  array-element-newline
+  213:32  error  There should be no linebreak here  array-element-newline
+  223:48  error  There should be no linebreak here  array-element-newline
+  235:19  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_tabs_in_urlbar.js
+  21:34  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/syncedtabs/test/browser/browser_sidebar_syncedtabslist.js
+  313:76  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/tests/startupRecorder.js
+  88:77  error  There should be no linebreak here  array-element-newline
+  89:72  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/translation/test/unit/test_cld2.js
+  263:46   error  There should be no linebreak here  array-element-newline
+  264:675  error  There should be no linebreak here  array-element-newline
+  267:45   error  There should be no linebreak here  array-element-newline
+  270:60   error  There should be no linebreak here  array-element-newline
+  271:299  error  There should be no linebreak here  array-element-newline
+  274:62   error  There should be no linebreak here  array-element-newline
+  276:30   error  There should be no linebreak here  array-element-newline
+  279:35   error  There should be no linebreak here  array-element-newline
+  282:41   error  There should be no linebreak here  array-element-newline
+  286:56   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/uitour/test/browser_UITour_observe.js
+  62:76  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/uitour/test/browser_UITour.js
+  400:115  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/browser/browser_canonizeURL.js
+  14:79  error  There should be no linebreak here  array-element-newline
+  91:79  error  There should be no linebreak here  array-element-newline
+  93:20  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/browser/browser_removeUnsafeProtocolsFromURLBarPaste.js
+  13:74  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/browser/browser_urlbar_speculative_connect_not_with_client_cert.js
+   97:94  error  There should be no linebreak here  array-element-newline
+   99:81  error  There should be no linebreak here  array-element-newline
+  102:33  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/browser/browser_urlbar_speculative_connect.js
+  24:77  error  There should be no linebreak here  array-element-newline
+  27:35  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/browser/browser_urlbarCopying.js
+   55:65  error  There should be no linebreak here  array-element-newline
+   87:40  error  There should be no linebreak here  array-element-newline
+   94:19  error  There should be no linebreak here  array-element-newline
+  157:53  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/browser/browser_urlbarOneOffs_contextMenu.js
+  25:60  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/unit/test_tokenizer.js
+  69:75  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/unit/test_UrlbarUtils_getShortcutOrURIAndPostData.js
+  56:39  error  There should be no linebreak here  array-element-newline
+  60:19  error  There should be no linebreak here  array-element-newline
+  62:35  error  There should be no linebreak here  array-element-newline
+  66:19  error  There should be no linebreak here  array-element-newline
+  68:35  error  There should be no linebreak here  array-element-newline
+  73:28  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/UrlbarPrefs.jsm
+   34:63  error  There should be no linebreak here  array-element-newline
+   39:39  error  There should be no linebreak here  array-element-newline
+   44:33  error  There should be no linebreak here  array-element-newline
+   50:17  error  There should be no linebreak here  array-element-newline
+   54:54  error  There should be no linebreak here  array-element-newline
+   59:60  error  There should be no linebreak here  array-element-newline
+   64:43  error  There should be no linebreak here  array-element-newline
+   67:71  error  There should be no linebreak here  array-element-newline
+   70:81  error  There should be no linebreak here  array-element-newline
+   74:26  error  There should be no linebreak here  array-element-newline
+   77:49  error  There should be no linebreak here  array-element-newline
+   81:19  error  There should be no linebreak here  array-element-newline
+   85:51  error  There should be no linebreak here  array-element-newline
+   90:70  error  There should be no linebreak here  array-element-newline
+   93:56  error  There should be no linebreak here  array-element-newline
+   96:44  error  There should be no linebreak here  array-element-newline
+  100:46  error  There should be no linebreak here  array-element-newline
+  103:41  error  There should be no linebreak here  array-element-newline
+  106:56  error  There should be no linebreak here  array-element-newline
+  109:66  error  There should be no linebreak here  array-element-newline
+  112:64  error  There should be no linebreak here  array-element-newline
+  115:67  error  There should be no linebreak here  array-element-newline
+  118:64  error  There should be no linebreak here  array-element-newline
+  122:20  error  There should be no linebreak here  array-element-newline
+  125:42  error  There should be no linebreak here  array-element-newline
+  128:79  error  There should be no linebreak here  array-element-newline
+  132:64  error  There should be no linebreak here  array-element-newline
+  137:14  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/FormAutofillHeuristics.jsm
+  1044:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/FormAutofillNameUtils.jsm
+   33:50  error  There should be no linebreak here  array-element-newline
+   35:43  error  There should be no linebreak here  array-element-newline
+   48:38  error  There should be no linebreak here  array-element-newline
+   49:32  error  There should be no linebreak here  array-element-newline
+   50:33  error  There should be no linebreak here  array-element-newline
+   51:32  error  There should be no linebreak here  array-element-newline
+   52:38  error  There should be no linebreak here  array-element-newline
+   53:23  error  There should be no linebreak here  array-element-newline
+   54:33  error  There should be no linebreak here  array-element-newline
+   55:32  error  There should be no linebreak here  array-element-newline
+   56:34  error  There should be no linebreak here  array-element-newline
+   57:25  error  There should be no linebreak here  array-element-newline
+   58:25  error  There should be no linebreak here  array-element-newline
+   59:26  error  There should be no linebreak here  array-element-newline
+   60:26  error  There should be no linebreak here  array-element-newline
+   61:36  error  There should be no linebreak here  array-element-newline
+   62:35  error  There should be no linebreak here  array-element-newline
+   63:34  error  There should be no linebreak here  array-element-newline
+   64:30  error  There should be no linebreak here  array-element-newline
+   65:35  error  There should be no linebreak here  array-element-newline
+   66:28  error  There should be no linebreak here  array-element-newline
+   67:28  error  There should be no linebreak here  array-element-newline
+   68:32  error  There should be no linebreak here  array-element-newline
+   69:37  error  There should be no linebreak here  array-element-newline
+   70:39  error  There should be no linebreak here  array-element-newline
+   71:43  error  There should be no linebreak here  array-element-newline
+   77:37  error  There should be no linebreak here  array-element-newline
+   86:36  error  There should be no linebreak here  array-element-newline
+   87:33  error  There should be no linebreak here  array-element-newline
+   88:33  error  There should be no linebreak here  array-element-newline
+   89:33  error  There should be no linebreak here  array-element-newline
+   90:50  error  There should be no linebreak here  array-element-newline
+   91:53  error  There should be no linebreak here  array-element-newline
+   92:56  error  There should be no linebreak here  array-element-newline
+   93:59  error  There should be no linebreak here  array-element-newline
+   94:47  error  There should be no linebreak here  array-element-newline
+   95:47  error  There should be no linebreak here  array-element-newline
+   96:41  error  There should be no linebreak here  array-element-newline
+   97:47  error  There should be no linebreak here  array-element-newline
+  102:36  error  There should be no linebreak here  array-element-newline
+  103:50  error  There should be no linebreak here  array-element-newline
+  104:47  error  There should be no linebreak here  array-element-newline
+  105:41  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/FormAutofillUtils.jsm
+  274:65  error  There should be no linebreak here  array-element-newline
+  275:62  error  There should be no linebreak here  array-element-newline
+  276:38  error  There should be no linebreak here  array-element-newline
+  277:57  error  There should be no linebreak here  array-element-newline
+  278:75  error  There should be no linebreak here  array-element-newline
+  279:41  error  There should be no linebreak here  array-element-newline
+  280:40  error  There should be no linebreak here  array-element-newline
+  281:41  error  There should be no linebreak here  array-element-newline
+  797:58  error  There should be no linebreak here  array-element-newline
+  798:60  error  There should be no linebreak here  array-element-newline
+  799:59  error  There should be no linebreak here  array-element-newline
+  800:61  error  There should be no linebreak here  array-element-newline
+  801:58  error  There should be no linebreak here  array-element-newline
+  802:60  error  There should be no linebreak here  array-element-newline
+  803:59  error  There should be no linebreak here  array-element-newline
+  804:61  error  There should be no linebreak here  array-element-newline
+  805:59  error  There should be no linebreak here  array-element-newline
+  806:61  error  There should be no linebreak here  array-element-newline
+  807:60  error  There should be no linebreak here  array-element-newline
+  808:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/ProfileAutoCompleteResult.jsm
+  208:43  error  There should be no linebreak here  array-element-newline
+  209:38  error  There should be no linebreak here  array-element-newline
+  210:62  error  There should be no linebreak here  array-element-newline
+  211:38  error  There should be no linebreak here  array-element-newline
+  212:57  error  There should be no linebreak here  array-element-newline
+  213:75  error  There should be no linebreak here  array-element-newline
+  214:41  error  There should be no linebreak here  array-element-newline
+  215:40  error  There should be no linebreak here  array-element-newline
+  216:41  error  There should be no linebreak here  array-element-newline
+  251:54  error  There should be no linebreak here  array-element-newline
+  303:47  error  There should be no linebreak here  array-element-newline
+  304:38  error  There should be no linebreak here  array-element-newline
+  348:54  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/browser/browser_editAddressDialog.js
+   63:58  error  There should be no linebreak here  array-element-newline
+  177:70  error  There should be no linebreak here  array-element-newline
+  208:70  error  There should be no linebreak here  array-element-newline
+  255:70  error  There should be no linebreak here  array-element-newline
+  287:70  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_BestBuy.js
+   9:25   error  There should be no linebreak here  array-element-newline
+  11:352  error  There should be no linebreak here  array-element-newline
+  12:103  error  There should be no linebreak here  array-element-newline
+  23:25   error  There should be no linebreak here  array-element-newline
+  27:352  error  There should be no linebreak here  array-element-newline
+  28:103  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_CDW.js
+  10:521  error  There should be no linebreak here  array-element-newline
+  11:103  error  There should be no linebreak here  array-element-newline
+  19:521  error  There should be no linebreak here  array-element-newline
+  20:103  error  There should be no linebreak here  array-element-newline
+  24:99   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_CostCo.js
+  10:200  error  There should be no linebreak here  array-element-newline
+  11:518  error  There should be no linebreak here  array-element-newline
+  12:103  error  There should be no linebreak here  array-element-newline
+  15:200  error  There should be no linebreak here  array-element-newline
+  16:518  error  There should be no linebreak here  array-element-newline
+  17:103  error  There should be no linebreak here  array-element-newline
+  28:99   error  There should be no linebreak here  array-element-newline
+  30:96   error  There should be no linebreak here  array-element-newline
+  35:200  error  There should be no linebreak here  array-element-newline
+  36:518  error  There should be no linebreak here  array-element-newline
+  37:103  error  There should be no linebreak here  array-element-newline
+  40:200  error  There should be no linebreak here  array-element-newline
+  41:605  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_Macys.js
+  10:437  error  There should be no linebreak here  array-element-newline
+  11:103  error  There should be no linebreak here  array-element-newline
+  19:437  error  There should be no linebreak here  array-element-newline
+  20:103  error  There should be no linebreak here  array-element-newline
+  24:99   error  There should be no linebreak here  array-element-newline
+  25:102  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_NewEgg.js
+  10:603  error  There should be no linebreak here  array-element-newline
+  20:438  error  There should be no linebreak here  array-element-newline
+  23:178  error  There should be no linebreak here  array-element-newline
+  27:178  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_OfficeDepot.js
+  10:691  error  There should be no linebreak here  array-element-newline
+  19:691  error  There should be no linebreak here  array-element-newline
+  25:25   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_QVC.js
+  36:99  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_Sears.js
+   9:37   error  There should be no linebreak here  array-element-newline
+  48:24   error  There should be no linebreak here  array-element-newline
+  53:86   error  There should be no linebreak here  array-element-newline
+  56:437  error  There should be no linebreak here  array-element-newline
+  57:103  error  There should be no linebreak here  array-element-newline
+  63:62   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_Staples.js
+  24:93  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_Walmart.js
+  39:512  error  There should be no linebreak here  array-element-newline
+  40:103  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/test_autofillFormFields.js
+  370:13  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/test_collectFormFields.js
+  219:26  error  There should be no linebreak here  array-element-newline
+  269:72  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/test_nameUtils.js
+   67:80  error  There should be no linebreak here  array-element-newline
+  108:56  error  There should be no linebreak here  array-element-newline
+  120:76  error  There should be no linebreak here  array-element-newline
+  133:62  error  There should be no linebreak here  array-element-newline
+  160:79  error  There should be no linebreak here  array-element-newline
+  189:77  error  There should be no linebreak here  array-element-newline
+  208:68  error  There should be no linebreak here  array-element-newline
+  227:56  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/test_sync.js
+  511:53  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/test_transformFields.js
+   42:13  error  There should be no linebreak here  array-element-newline
+   98:13  error  There should be no linebreak here  array-element-newline
+  110:9   error  There should be no linebreak here  array-element-newline
+  222:13  error  There should be no linebreak here  array-element-newline
+  300:13  error  There should be no linebreak here  array-element-newline
+  398:9   error  There should be no linebreak here  array-element-newline
+  507:17  error  There should be no linebreak here  array-element-newline
+  518:21  error  There should be no linebreak here  array-element-newline
+  584:17  error  There should be no linebreak here  array-element-newline
+  611:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/PageActions.jsm
+  1111:13  error  There should be no linebreak here  array-element-newline
+  1145:15  error  There should be no linebreak here  array-element-newline
+  1151:14  error  There should be no linebreak here  array-element-newline
+  1164:16  error  There should be no linebreak here  array-element-newline
+  1177:23  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/test/browser/browser_UsageTelemetry_urlbar_extension.js
+  65:16  error  There should be no linebreak here  array-element-newline
+  67:56  error  There should be no linebreak here  array-element-newline
+  69:28  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/test/browser/browser_UsageTelemetry_urlbar_places.js
+  73:16  error  There should be no linebreak here  array-element-newline
+  75:56  error  There should be no linebreak here  array-element-newline
+  77:28  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/test/browser/browser_UsageTelemetry_urlbar_remotetab.js
+  67:16  error  There should be no linebreak here  array-element-newline
+  69:56  error  There should be no linebreak here  array-element-newline
+  71:28  error  There should be no linebreak here  array-element-newline
+  73:40  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/test/unit/test_LiveBookmarkMigrator.js
+  34:92  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/webrtcUI.jsm
+  444:53  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/WindowsJumpLists.jsm
+  112:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/caps/tests/mochitest/browser_checkloaduri.js
+  41:84  error  There should be no linebreak here  array-element-newline
+  45:84  error  There should be no linebreak here  array-element-newline
+  48:27  error  There should be no linebreak here  array-element-newline
+  54:30  error  There should be no linebreak here  array-element-newline
+  56:75  error  There should be no linebreak here  array-element-newline
+  59:84  error  There should be no linebreak here  array-element-newline
+  64:75  error  There should be no linebreak here  array-element-newline
+  69:58  error  There should be no linebreak here  array-element-newline
+  72:54  error  There should be no linebreak here  array-element-newline
+  75:30  error  There should be no linebreak here  array-element-newline
+  78:84  error  There should be no linebreak here  array-element-newline
+  83:58  error  There should be no linebreak here  array-element-newline
+  86:65  error  There should be no linebreak here  array-element-newline
+  89:84  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/chrome/test/unit/test_no_remote_registration.js
+  48:28  error  There should be no linebreak here  array-element-newline
+  54:31  error  There should be no linebreak here  array-element-newline
+  60:71  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_addons_debug_popup.js
+  196:81  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_real_usb_runtime_page_runtime_info.js
+  25:57  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging/components/addons/Target.js
+  42:33  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging/test/browser_addons_debug_webextension_popup.js
+  190:86  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging/test/head.js
+  349:33  error  There should be no linebreak here  array-element-newline
+  351:71  error  There should be no linebreak here  array-element-newline
+  400:45  error  There should be no linebreak here  array-element-newline
+  402:37  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/framework/gDevTools.jsm
+   53:37  error  There should be no linebreak here  array-element-newline
+   56:43  error  There should be no linebreak here  array-element-newline
+   59:30  error  There should be no linebreak here  array-element-newline
+   62:40  error  There should be no linebreak here  array-element-newline
+   65:32  error  There should be no linebreak here  array-element-newline
+   68:23  error  There should be no linebreak here  array-element-newline
+   71:19  error  There should be no linebreak here  array-element-newline
+   97:65  error  There should be no linebreak here  array-element-newline
+  100:39  error  There should be no linebreak here  array-element-newline
+  103:39  error  There should be no linebreak here  array-element-newline
+  107:35  error  There should be no linebreak here  array-element-newline
+  110:39  error  There should be no linebreak here  array-element-newline
+  113:24  error  There should be no linebreak here  array-element-newline
+  116:63  error  There should be no linebreak here  array-element-newline
+  119:24  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/framework/test/browser_browser_toolbox_debugger.js
+  30:17  error  There should be no linebreak here  array-element-newline
+  33:38  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/framework/test/browser_browser_toolbox.js
+  18:17  error  There should be no linebreak here  array-element-newline
+  21:38  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/animation/actions/index.js
+  14:39  error  There should be no linebreak here  array-element-newline
+  17:41  error  There should be no linebreak here  array-element-newline
+  20:30  error  There should be no linebreak here  array-element-newline
+  23:27  error  There should be no linebreak here  array-element-newline
+  26:32  error  There should be no linebreak here  array-element-newline
+  29:26  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/boxmodel/actions/index.js
+  14:65  error  There should be no linebreak here  array-element-newline
+  17:60  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/changes/actions/index.js
+  14:26  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/changes/test/browser_changes_declaration_edit_value.js
+  32:64  error  There should be no linebreak here  array-element-newline
+  38:79  error  There should be no linebreak here  array-element-newline
+  44:64  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/extensions/actions/index.js
+  14:69  error  There should be no linebreak here  array-element-newline
+  17:68  error  There should be no linebreak here  array-element-newline
+  20:59  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/flexbox/actions/index.js
+  14:64  error  There should be no linebreak here  array-element-newline
+  17:58  error  There should be no linebreak here  array-element-newline
+  20:44  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/fonts/actions/index.js
+  13:91  error  There should be no linebreak here  array-element-newline
+  16:54  error  There should be no linebreak here  array-element-newline
+  19:77  error  There should be no linebreak here  array-element-newline
+  22:47  error  There should be no linebreak here  array-element-newline
+  25:84  error  There should be no linebreak here  array-element-newline
+  28:31  error  There should be no linebreak here  array-element-newline
+  31:30  error  There should be no linebreak here  array-element-newline
+  34:45  error  There should be no linebreak here  array-element-newline
+  37:80  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/grids/actions/index.js
+  14:41  error  There should be no linebreak here  array-element-newline
+  17:64  error  There should be no linebreak here  array-element-newline
+  20:59  error  There should be no linebreak here  array-element-newline
+  23:66  error  There should be no linebreak here  array-element-newline
+  26:63  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/markup.js
+  738:59  error  There should be no linebreak here  array-element-newline
+  740:72  error  There should be no linebreak here  array-element-newline
+  742:76  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/test/browser_markup_events_01.js
+  74:23  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/actions/index.js
+  16:12  error  There should be no linebreak here  array-element-newline
+  19:86  error  There should be no linebreak here  array-element-newline
+  22:71  error  There should be no linebreak here  array-element-newline
+  25:71  error  There should be no linebreak here  array-element-newline
+  28:62  error  There should be no linebreak here  array-element-newline
+  31:39  error  There should be no linebreak here  array-element-newline
+  34:86  error  There should be no linebreak here  array-element-newline
+  37:58  error  There should be no linebreak here  array-element-newline
+  40:59  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/test/browser_rules_authored_color.js
+  18:29  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/test/browser_rules_completion-existing-property_01.js
+  22:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/test/browser_rules_highlight-used-fonts.js
+  62:58   error  There should be no linebreak here  array-element-newline
+  63:53   error  There should be no linebreak here  array-element-newline
+  64:57   error  There should be no linebreak here  array-element-newline
+  65:100  error  There should be no linebreak here  array-element-newline
+  66:53   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/test/browser_rules_livepreview.js
+  26:79  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/test/browser_rules_user-agent-styles.js
+  46:29  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/test/browser_inspector_highlighter-eyedropper-events.js
+  18:52  error  There should be no linebreak here  array-element-newline
+  20:19  error  There should be no linebreak here  array-element-newline
+  23:18  error  There should be no linebreak here  array-element-newline
+  26:45  error  There should be no linebreak here  array-element-newline
+  36:20  error  There should be no linebreak here  array-element-newline
+  47:46  error  There should be no linebreak here  array-element-newline
+  57:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/test/browser_inspector_highlighter-inline.js
+  15:60  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/test/browser_inspector_search-01.js
+  20:42  error  There should be no linebreak here  array-element-newline
+  21:43  error  There should be no linebreak here  array-element-newline
+  22:44  error  There should be no linebreak here  array-element-newline
+  23:44  error  There should be no linebreak here  array-element-newline
+  24:43  error  There should be no linebreak here  array-element-newline
+  25:44  error  There should be no linebreak here  array-element-newline
+  26:44  error  There should be no linebreak here  array-element-newline
+  27:45  error  There should be no linebreak here  array-element-newline
+  28:45  error  There should be no linebreak here  array-element-newline
+  29:44  error  There should be no linebreak here  array-element-newline
+  30:44  error  There should be no linebreak here  array-element-newline
+  31:43  error  There should be no linebreak here  array-element-newline
+  32:44  error  There should be no linebreak here  array-element-newline
+  33:44  error  There should be no linebreak here  array-element-newline
+  34:43  error  There should be no linebreak here  array-element-newline
+  35:42  error  There should be no linebreak here  array-element-newline
+  36:40  error  There should be no linebreak here  array-element-newline
+  37:42  error  There should be no linebreak here  array-element-newline
+  38:43  error  There should be no linebreak here  array-element-newline
+  39:44  error  There should be no linebreak here  array-element-newline
+  40:45  error  There should be no linebreak here  array-element-newline
+  41:46  error  There should be no linebreak here  array-element-newline
+  42:47  error  There should be no linebreak here  array-element-newline
+  43:47  error  There should be no linebreak here  array-element-newline
+  44:47  error  There should be no linebreak here  array-element-newline
+  45:46  error  There should be no linebreak here  array-element-newline
+  46:45  error  There should be no linebreak here  array-element-newline
+  47:44  error  There should be no linebreak here  array-element-newline
+  48:43  error  There should be no linebreak here  array-element-newline
+  49:42  error  There should be no linebreak here  array-element-newline
+  50:40  error  There should be no linebreak here  array-element-newline
+  51:42  error  There should be no linebreak here  array-element-newline
+  52:43  error  There should be no linebreak here  array-element-newline
+  53:44  error  There should be no linebreak here  array-element-newline
+  54:44  error  There should be no linebreak here  array-element-newline
+  55:44  error  There should be no linebreak here  array-element-newline
+  56:44  error  There should be no linebreak here  array-element-newline
+  57:45  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/test/browser_inspector_search-suggests-ids-and-classes.js
+  18:65  error  There should be no linebreak here  array-element-newline
+  21:34  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/test/browser_net_cause_redirect.js
+  16:63  error  There should be no linebreak here  array-element-newline
+  18:60  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/webpack.config.js
+  37:74  error  There should be no linebreak here  array-element-newline
+  39:73  error  There should be no linebreak here  array-element-newline
+  41:72  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_frame-utils-01.js
+  13:50  error  There should be no linebreak here  array-element-newline
+  16:10  error  There should be no linebreak here  array-element-newline
+  20:76  error  There should be no linebreak here  array-element-newline
+  23:17  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_jit-graph-data.js
+   91:13  error  There should be no linebreak here  array-element-newline
+   93:13  error  There should be no linebreak here  array-element-newline
+   95:13  error  There should be no linebreak here  array-element-newline
+   97:13  error  There should be no linebreak here  array-element-newline
+  101:37  error  There should be no linebreak here  array-element-newline
+  105:31  error  There should be no linebreak here  array-element-newline
+  109:55  error  There should be no linebreak here  array-element-newline
+  112:13  error  There should be no linebreak here  array-element-newline
+  114:13  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_perf-utils-allocations-to-samples.js
+  62:38  error  There should be no linebreak here  array-element-newline
+  63:44  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_waterfall-utils-collapse-01.js
+  36:76  error  There should be no linebreak here  array-element-newline
+  38:48  error  There should be no linebreak here  array-element-newline
+  40:77  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_waterfall-utils-collapse-02.js
+  37:49  error  There should be no linebreak here  array-element-newline
+  40:56  error  There should be no linebreak here  array-element-newline
+  43:42  error  There should be no linebreak here  array-element-newline
+  46:44  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_waterfall-utils-collapse-04.js
+  42:76  error  There should be no linebreak here  array-element-newline
+  44:48  error  There should be no linebreak here  array-element-newline
+  46:77  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_waterfall-utils-collapse-05.js
+  37:43  error  There should be no linebreak here  array-element-newline
+  39:33  error  There should be no linebreak here  array-element-newline
+  41:43  error  There should be no linebreak here  array-element-newline
+  43:33  error  There should be no linebreak here  array-element-newline
+  45:43  error  There should be no linebreak here  array-element-newline
+  47:33  error  There should be no linebreak here  array-element-newline
+  49:43  error  There should be no linebreak here  array-element-newline
+  51:33  error  There should be no linebreak here  array-element-newline
+  54:74  error  There should be no linebreak here  array-element-newline
+  57:33  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/responsive.html/actions/index.js
+  22:28  error  There should be no linebreak here  array-element-newline
+  25:57  error  There should be no linebreak here  array-element-newline
+  28:50  error  There should be no linebreak here  array-element-newline
+  32:62  error  There should be no linebreak here  array-element-newline
+  37:43  error  There should be no linebreak here  array-element-newline
+  40:44  error  There should be no linebreak here  array-element-newline
+  43:44  error  There should be no linebreak here  array-element-newline
+  48:52  error  There should be no linebreak here  array-element-newline
+  51:53  error  There should be no linebreak here  array-element-newline
+  54:67  error  There should be no linebreak here  array-element-newline
+  57:66  error  There should be no linebreak here  array-element-newline
+  60:22  error  There should be no linebreak here  array-element-newline
+  63:46  error  There should be no linebreak here  array-element-newline
+  66:26  error  There should be no linebreak here  array-element-newline
+  69:26  error  There should be no linebreak here  array-element-newline
+  72:40  error  There should be no linebreak here  array-element-newline
+  75:48  error  There should be no linebreak here  array-element-newline
+  78:50  error  There should be no linebreak here  array-element-newline
+  81:53  error  There should be no linebreak here  array-element-newline
+  84:47  error  There should be no linebreak here  array-element-newline
+  87:58  error  There should be no linebreak here  array-element-newline
+  90:60  error  There should be no linebreak here  array-element-newline
+  93:61  error  There should be no linebreak here  array-element-newline
+  96:36  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/responsive.html/browser/tunnel.js
+   41:71  error  There should be no linebreak here  array-element-newline
+   44:30  error  There should be no linebreak here  array-element-newline
+  383:37  error  There should be no linebreak here  array-element-newline
+  385:49  error  There should be no linebreak here  array-element-newline
+  387:43  error  There should be no linebreak here  array-element-newline
+  394:46  error  There should be no linebreak here  array-element-newline
+  396:35  error  There should be no linebreak here  array-element-newline
+  398:39  error  There should be no linebreak here  array-element-newline
+  400:47  error  There should be no linebreak here  array-element-newline
+  402:41  error  There should be no linebreak here  array-element-newline
+  404:45  error  There should be no linebreak here  array-element-newline
+  411:43  error  There should be no linebreak here  array-element-newline
+  413:35  error  There should be no linebreak here  array-element-newline
+  415:38  error  There should be no linebreak here  array-element-newline
+  417:43  error  There should be no linebreak here  array-element-newline
+  419:49  error  There should be no linebreak here  array-element-newline
+  421:45  error  There should be no linebreak here  array-element-newline
+  423:38  error  There should be no linebreak here  array-element-newline
+  425:40  error  There should be no linebreak here  array-element-newline
+  427:45  error  There should be no linebreak here  array-element-newline
+  434:41  error  There should be no linebreak here  array-element-newline
+  436:33  error  There should be no linebreak here  array-element-newline
+  438:36  error  There should be no linebreak here  array-element-newline
+  440:41  error  There should be no linebreak here  array-element-newline
+  442:43  error  There should be no linebreak here  array-element-newline
+  444:36  error  There should be no linebreak here  array-element-newline
+  446:38  error  There should be no linebreak here  array-element-newline
+  448:43  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/inplace-editor.js
+  1676:27  error  There should be no linebreak here  array-element-newline
+  1678:27  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/redux/create-store.js
+  33:43  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/sourceeditor/test/browser_css_autocompletion.js
+  19:32  error  There should be no linebreak here  array-element-newline
+  21:31  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/sourceeditor/test/browser_editor_find_again.js
+  171:25  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/sourceeditor/test/browser_editor_goto_line.js
+  32:25  error  There should be no linebreak here  array-element-newline
+  34:40  error  There should be no linebreak here  array-element-newline
+  36:38  error  There should be no linebreak here  array-element-newline
+  38:60  error  There should be no linebreak here  array-element-newline
+  40:73  error  There should be no linebreak here  array-element-newline
+  42:52  error  There should be no linebreak here  array-element-newline
+  44:67  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/test/browser_outputparser.js
+   87:47  error  There should be no linebreak here  array-element-newline
+   93:59  error  There should be no linebreak here  array-element-newline
+   98:34  error  There should be no linebreak here  array-element-newline
+  105:55  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/test/unit/test_parseDeclarations.js
+   22:17  error  There should be no linebreak here  array-element-newline
+   29:47  error  There should be no linebreak here  array-element-newline
+   34:50  error  There should be no linebreak here  array-element-newline
+   40:22  error  There should be no linebreak here  array-element-newline
+   47:26  error  There should be no linebreak here  array-element-newline
+   54:26  error  There should be no linebreak here  array-element-newline
+   61:26  error  There should be no linebreak here  array-element-newline
+   68:26  error  There should be no linebreak here  array-element-newline
+   75:44  error  There should be no linebreak here  array-element-newline
+   82:48  error  There should be no linebreak here  array-element-newline
+   89:27  error  There should be no linebreak here  array-element-newline
+   97:22  error  There should be no linebreak here  array-element-newline
+  119:49  error  There should be no linebreak here  array-element-newline
+  145:70  error  There should be no linebreak here  array-element-newline
+  157:57  error  There should be no linebreak here  array-element-newline
+  159:80  error  There should be no linebreak here  array-element-newline
+  161:48  error  There should be no linebreak here  array-element-newline
+  163:53  error  There should be no linebreak here  array-element-newline
+  166:18  error  There should be no linebreak here  array-element-newline
+  177:73  error  There should be no linebreak here  array-element-newline
+  184:29  error  There should be no linebreak here  array-element-newline
+  200:20  error  There should be no linebreak here  array-element-newline
+  204:34  error  There should be no linebreak here  array-element-newline
+  208:31  error  There should be no linebreak here  array-element-newline
+  212:24  error  There should be no linebreak here  array-element-newline
+  216:21  error  There should be no linebreak here  array-element-newline
+  228:37  error  There should be no linebreak here  array-element-newline
+  273:39  error  There should be no linebreak here  array-element-newline
+  280:35  error  There should be no linebreak here  array-element-newline
+  289:57  error  There should be no linebreak here  array-element-newline
+  297:66  error  There should be no linebreak here  array-element-newline
+  307:42  error  There should be no linebreak here  array-element-newline
+  317:52  error  There should be no linebreak here  array-element-newline
+  327:34  error  There should be no linebreak here  array-element-newline
+  335:62  error  There should be no linebreak here  array-element-newline
+  343:69  error  There should be no linebreak here  array-element-newline
+  353:38  error  There should be no linebreak here  array-element-newline
+  360:66  error  There should be no linebreak here  array-element-newline
+  368:38  error  There should be no linebreak here  array-element-newline
+  375:59  error  There should be no linebreak here  array-element-newline
+  383:17  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/test/unit/test_parsePseudoClassesAndAttributes.js
+  22:53  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/test/unit/test_rewriteDeclarations.js
+   37:54  error  There should be no linebreak here  array-element-newline
+   51:66  error  There should be no linebreak here  array-element-newline
+   71:66  error  There should be no linebreak here  array-element-newline
+  128:24  error  There should be no linebreak here  array-element-newline
+  136:24  error  There should be no linebreak here  array-element-newline
+  145:24  error  There should be no linebreak here  array-element-newline
+  155:40  error  There should be no linebreak here  array-element-newline
+  163:40  error  There should be no linebreak here  array-element-newline
+  187:40  error  There should be no linebreak here  array-element-newline
+  196:26  error  There should be no linebreak here  array-element-newline
+  205:41  error  There should be no linebreak here  array-element-newline
+  212:41  error  There should be no linebreak here  array-element-newline
+  219:41  error  There should be no linebreak here  array-element-newline
+  226:41  error  There should be no linebreak here  array-element-newline
+  233:41  error  There should be no linebreak here  array-element-newline
+  240:41  error  There should be no linebreak here  array-element-newline
+  248:40  error  There should be no linebreak here  array-element-newline
+  256:40  error  There should be no linebreak here  array-element-newline
+  266:40  error  There should be no linebreak here  array-element-newline
+  274:40  error  There should be no linebreak here  array-element-newline
+  284:40  error  There should be no linebreak here  array-element-newline
+  293:40  error  There should be no linebreak here  array-element-newline
+  303:40  error  There should be no linebreak here  array-element-newline
+  312:40  error  There should be no linebreak here  array-element-newline
+  322:40  error  There should be no linebreak here  array-element-newline
+  331:40  error  There should be no linebreak here  array-element-newline
+  341:40  error  There should be no linebreak here  array-element-newline
+  353:40  error  There should be no linebreak here  array-element-newline
+  370:40  error  There should be no linebreak here  array-element-newline
+  379:45  error  There should be no linebreak here  array-element-newline
+  387:27  error  There should be no linebreak here  array-element-newline
+  396:27  error  There should be no linebreak here  array-element-newline
+  405:27  error  There should be no linebreak here  array-element-newline
+  415:49  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/test/unit/test_unicode-url.js
+   52:36  error  There should be no linebreak here  array-element-newline
+   84:44  error  There should be no linebreak here  array-element-newline
+  102:44  error  There should be no linebreak here  array-element-newline
+  130:65  error  There should be no linebreak here  array-element-newline
+  162:66  error  There should be no linebreak here  array-element-newline
+  184:44  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/storage/test/browser_storage_search.js
+  29:20  error  There should be no linebreak here  array-element-newline
+  40:31  error  There should be no linebreak here  array-element-newline
+  51:34  error  There should be no linebreak here  array-element-newline
+  56:28  error  There should be no linebreak here  array-element-newline
+  61:39  error  There should be no linebreak here  array-element-newline
+  83:31  error  There should be no linebreak here  array-element-newline
+  94:34  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/components/GripMessageBody.js
+  95:27  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/test/mochitest/browser_jsterm_await_paused.js
+  70:89  error  There should be no linebreak here  array-element-newline
+  72:23  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/test/mochitest/browser_jsterm_multiline.js
+  18:59  error  There should be no linebreak here  array-element-newline
+  23:12  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/test/store/filters.test.js
+  367:42  error  There should be no linebreak here  array-element-newline
+  369:17  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/test/store/hidden-messages.test.js
+  145:13  error  There should be no linebreak here  array-element-newline
+  147:9   error  There should be no linebreak here  array-element-newline
+  149:10  error  There should be no linebreak here  array-element-newline
+  151:11  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/inspector/walker.js
+  850:20  error  There should be no linebreak here  array-element-newline
+  852:39  error  There should be no linebreak here  array-element-newline
+  854:51  error  There should be no linebreak here  array-element-newline
+  857:19  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/storage.js
+  74:37  error  There should be no linebreak here  array-element-newline
+  76:24  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/utils/event-breakpoints.js
+  50:39  error  There should be no linebreak here  array-element-newline
+  53:26  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/browser/browser_storage_updates.js
+   36:13  error  There should be no linebreak here  array-element-newline
+   62:13  error  There should be no linebreak here  array-element-newline
+   94:13  error  There should be no linebreak here  array-element-newline
+  146:13  error  There should be no linebreak here  array-element-newline
+  161:13  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_frameactor-04.js
+  36:44  error  There should be no linebreak here  array-element-newline
+  39:22  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-03.js
+  71:7  error  Parsing error: 'with' in strict mode
+
+  69 |       var a;
+  70 |       var r = number;
+> 71 |       with (Math) {
+     |       ^
+  72 |         a = PI * r * r;
+  73 |         debugger;
+  74 |       }
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-04.js
+  83:7  error  Parsing error: 'with' in strict mode
+
+  81 |       var a, obj = { one: 1, two: 2 };
+  82 |       var r = number;
+> 83 |       with (Math) {
+     |       ^
+  84 |         a = PI * r * r;
+  85 |         with (obj) {
+  86 |           var foo = two * PI;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/css/lexer.js
+  203:48  error  There should be no linebreak here  array-element-newline
+  205:48  error  There should be no linebreak here  array-element-newline
+  207:48  error  There should be no linebreak here  array-element-newline
+  209:48  error  There should be no linebreak here  array-element-newline
+  211:48  error  There should be no linebreak here  array-element-newline
+  213:48  error  There should be no linebreak here  array-element-newline
+  215:48  error  There should be no linebreak here  array-element-newline
+  217:48  error  There should be no linebreak here  array-element-newline
+  219:48  error  There should be no linebreak here  array-element-newline
+  221:48  error  There should be no linebreak here  array-element-newline
+  223:48  error  There should be no linebreak here  array-element-newline
+  225:48  error  There should be no linebreak here  array-element-newline
+  227:48  error  There should be no linebreak here  array-element-newline
+  229:48  error  There should be no linebreak here  array-element-newline
+  231:48  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/Loader.jsm
+  17:90  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/performance/recording-utils.js
+  571:33  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/performance/test/test_perf-utils-allocations-to-samples.js
+  65:19  error  There should be no linebreak here  array-element-newline
+  68:31  error  There should be no linebreak here  array-element-newline
+  71:39  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/plural-form.js
+  51:16  error  There should be no linebreak here  array-element-newline
+  53:15  error  There should be no linebreak here  array-element-newline
+  55:16  error  There should be no linebreak here  array-element-newline
+  57:24  error  There should be no linebreak here  array-element-newline
+  59:17  error  There should be no linebreak here  array-element-newline
+  61:19  error  There should be no linebreak here  array-element-newline
+  63:16  error  There should be no linebreak here  array-element-newline
+  65:15  error  There should be no linebreak here  array-element-newline
+  67:15  error  There should be no linebreak here  array-element-newline
+  69:19  error  There should be no linebreak here  array-element-newline
+  71:23  error  There should be no linebreak here  array-element-newline
+  73:16  error  There should be no linebreak here  array-element-newline
+  75:17  error  There should be no linebreak here  array-element-newline
+  77:16  error  There should be no linebreak here  array-element-newline
+  79:31  error  There should be no linebreak here  array-element-newline
+  81:16  error  There should be no linebreak here  array-element-newline
+  83:15  error  There should be no linebreak here  array-element-newline
+  85:15  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/specs/index.js
+   60:56  error  There should be no linebreak here  array-element-newline
+   66:50  error  There should be no linebreak here  array-element-newline
+   76:58  error  There should be no linebreak here  array-element-newline
+  102:53  error  There should be no linebreak here  array-element-newline
+  148:63  error  There should be no linebreak here  array-element-newline
+  162:74  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/tests/unit/test_csslexer.js
+  39:61  error  There should be no linebreak here  array-element-newline
+  43:20  error  There should be no linebreak here  array-element-newline
+  48:46  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/startup/DevToolsStartup.jsm
+   84:33  error  There should be no linebreak here  array-element-newline
+   90:26  error  There should be no linebreak here  array-element-newline
+   96:32  error  There should be no linebreak here  array-element-newline
+  102:32  error  There should be no linebreak here  array-element-newline
+  108:41  error  There should be no linebreak here  array-element-newline
+  114:30  error  There should be no linebreak here  array-element-newline
+  124:37  error  There should be no linebreak here  array-element-newline
+  130:39  error  There should be no linebreak here  array-element-newline
+  136:43  error  There should be no linebreak here  array-element-newline
+  142:40  error  There should be no linebreak here  array-element-newline
+  148:45  error  There should be no linebreak here  array-element-newline
+  154:41  error  There should be no linebreak here  array-element-newline
+  160:37  error  There should be no linebreak here  array-element-newline
+  166:47  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/docshell/test/unit/test_nsDefaultURIFixup_search.js
+  21:36  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/base/test/unit/test_js_dev_error_interceptor.js
+  13:50  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_cursor_mutation.js
+  14:38  error  There should be no linebreak here  array-element-newline
+  17:31  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_defaultStorageUpgrade.js
+  19:64   error  There should be no linebreak here  array-element-newline
+  22:69   error  There should be no linebreak here  array-element-newline
+  25:65   error  There should be no linebreak here  array-element-newline
+  28:70   error  There should be no linebreak here  array-element-newline
+  31:67   error  There should be no linebreak here  array-element-newline
+  35:63   error  There should be no linebreak here  array-element-newline
+  39:60   error  There should be no linebreak here  array-element-newline
+  42:70   error  There should be no linebreak here  array-element-newline
+  45:63   error  There should be no linebreak here  array-element-newline
+  48:73   error  There should be no linebreak here  array-element-newline
+  51:50   error  There should be no linebreak here  array-element-newline
+  54:58   error  There should be no linebreak here  array-element-newline
+  57:50   error  There should be no linebreak here  array-element-newline
+  60:53   error  There should be no linebreak here  array-element-newline
+  63:74   error  There should be no linebreak here  array-element-newline
+  66:74   error  There should be no linebreak here  array-element-newline
+  69:62   error  There should be no linebreak here  array-element-newline
+  72:62   error  There should be no linebreak here  array-element-newline
+  75:108  error  There should be no linebreak here  array-element-newline
+  81:41   error  There should be no linebreak here  array-element-newline
+  87:41   error  There should be no linebreak here  array-element-newline
+  91:60   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_metadata2Restore.js
+   24:26  error  There should be no linebreak here  array-element-newline
+   30:26  error  There should be no linebreak here  array-element-newline
+   36:26  error  There should be no linebreak here  array-element-newline
+   43:52  error  There should be no linebreak here  array-element-newline
+   50:52  error  There should be no linebreak here  array-element-newline
+   58:52  error  There should be no linebreak here  array-element-newline
+   67:52  error  There should be no linebreak here  array-element-newline
+   76:52  error  There should be no linebreak here  array-element-newline
+   86:52  error  There should be no linebreak here  array-element-newline
+   96:52  error  There should be no linebreak here  array-element-newline
+  107:52  error  There should be no linebreak here  array-element-newline
+  119:52  error  There should be no linebreak here  array-element-newline
+  131:52  error  There should be no linebreak here  array-element-newline
+  144:52  error  There should be no linebreak here  array-element-newline
+  158:52  error  There should be no linebreak here  array-element-newline
+  172:52  error  There should be no linebreak here  array-element-newline
+  187:52  error  There should be no linebreak here  array-element-newline
+  203:52  error  There should be no linebreak here  array-element-newline
+  219:52  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_metadataRestore.js
+  20:60  error  There should be no linebreak here  array-element-newline
+  24:61  error  There should be no linebreak here  array-element-newline
+  28:61  error  There should be no linebreak here  array-element-newline
+  32:61  error  There should be no linebreak here  array-element-newline
+  36:61  error  There should be no linebreak here  array-element-newline
+  40:61  error  There should be no linebreak here  array-element-newline
+  44:61  error  There should be no linebreak here  array-element-newline
+  48:61  error  There should be no linebreak here  array-element-newline
+  52:61  error  There should be no linebreak here  array-element-newline
+  56:61  error  There should be no linebreak here  array-element-newline
+  60:61  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/localstorage/test/unit/test_snapshotting.js
+  23:39  error  There should be no linebreak here  array-element-newline
+  24:44  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/manifest/test/browser_ManifestObtainer_obtain.js
+  34:17  error  There should be no linebreak here  array-element-newline
+  75:23  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/presentation/tests/mochitest/test_presentation_1ua_sender_and_receiver.js
+  349:93  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_ConsoleAPITests.js
+  34:13  error  There should be no linebreak here  array-element-newline
+  37:30  error  There should be no linebreak here  array-element-newline
+  40:23  error  There should be no linebreak here  array-element-newline
+  43:31  error  There should be no linebreak here  array-element-newline
+  46:30  error  There should be no linebreak here  array-element-newline
+  48:53  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_largeAllocation_non_win32.js
+  13:45  error  There should be no linebreak here  array-element-newline
+  16:59  error  There should be no linebreak here  array-element-newline
+  31:45  error  There should be no linebreak here  array-element-newline
+  34:59  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_largeAllocation_win32.js
+  11:59  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_localStorage_e10s.js
+  266:22  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_localStorage_snapshotting_e10s.js
+  142:39  error  There should be no linebreak here  array-element-newline
+  143:44  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_noopener.js
+  29:24  error  Parsing error: Unexpected reserved word 'private'
+
+  27 | const NOOPENER_NEWPROC_PREF = "dom.noopener.newprocess.enabled";
+  28 | 
+> 29 | async function doTests(private, container) {
+     |                        ^
+  30 |   let alwaysNewWindow = SpecialPowers.getIntPref(OPEN_NEWWINDOW_PREF) == OPEN_NEWWINDOW;
+  31 | 
+  32 |   let window = await BrowserTestUtils.openNewBrowserWindow({ private });
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/helper_largeAllocation.js
+  65:45  error  There should be no linebreak here  array-element-newline
+  68:59  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/gfx/layers/apz/test/mochitest/apz_test_utils.js
+  743:50  error  There should be no linebreak here  array-element-newline
+  747:57  error  There should be no linebreak here  array-element-newline
+  752:35  error  There should be no linebreak here  array-element-newline
+  754:62  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Array.js
+  935:1  error  Parsing error: Unexpected character '#'
+
+  933 |         R = "";
+  934 |     } else {
+> 935 | #if EXPOSE_INTL_API
+      | ^
+  936 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  937 | #else
+  938 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/intl/CommonFunctions.js
+  7:1  error  Parsing error: Unexpected character '#'
+
+   5 | /* Portions Copyright Norbert Lindenberg 2011-2012. */
+   6 | 
+>  7 | #ifdef DEBUG
+     | ^
+   8 | #define assertIsValidAndCanonicalLanguageTag(locale, desc) \
+   9 |     do { \
+  10 |         let localeObj = parseLanguageTag(locale); \
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExp.js
+  590:1  error  Parsing error: Unexpected character '#'
+
+  588 | //   * global flag is true
+  589 | //   * replaceValue is a string without "$"
+> 590 | #define FUNC_NAME RegExpGlobalReplaceOpt
+      | ^
+  591 | #include "RegExpGlobalReplaceOpt.h.js"
+  592 | #undef FUNC_NAME
+  593 |
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpGlobalReplaceOpt.h.js
+  22:1  error  Parsing error: Unexpected character '#'
+
+  20 | //   * global flag is true
+  21 | function FUNC_NAME(rx, S, lengthS, replaceValue, flags
+> 22 | #ifdef SUBSTITUTION
+     | ^
+  23 |                    , firstDollarIndex
+  24 | #endif
+  25 | #ifdef ELEMBASE
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpLocalReplaceOpt.h.js
+  20:1  error  Parsing error: Unexpected character '#'
+
+  18 | //   * global flag is false
+  19 | function FUNC_NAME(rx, S, lengthS, replaceValue
+> 20 | #ifdef SUBSTITUTION
+     | ^
+  21 |                    , firstDollarIndex
+  22 | #endif
+  23 |                   )
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/String.js
+  795:1  error  Parsing error: Unexpected character '#'
+
+  793 |     var options = arguments.length > 3 ? arguments[3] : undefined;
+  794 | /* eslint-disable no-unreachable */
+> 795 | #if EXPOSE_INTL_API
+      | ^
+  796 |     return callFunction(String_localeCompare, str1, str2, locales, options);
+  797 | #else
+  798 |     return callFunction(std_String_localeCompare, str1, str2, locales, options);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedArray.js
+  1328:1  error  Parsing error: Unexpected character '#'
+
+  1326 |     // Omit the 'if' clause in step 6, since typed arrays can't have undefined
+  1327 |     // or null elements.
+> 1328 | #if EXPOSE_INTL_API
+       | ^
+  1329 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  1330 | #else
+  1331 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedObject.js
+  1:2  error  Parsing error: Unexpected character '#'
+
+> 1 | #include "TypedObjectConstants.h"
+    |  ^
+  2 | 
+  3 | ///////////////////////////////////////////////////////////////////////////
+  4 | // Getters and setters for various slots
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Utilities.js
+  25:1  error  Parsing error: Unexpected character '#'
+
+  23 | */
+  24 | 
+> 25 | #include "SelfHostingDefines.h"
+     | ^
+  26 | #include "TypedObjectConstants.h"
+  27 | 
+  28 | // Assertions and debug printing, defined here instead of in the header above
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/shell/ModuleLoader.js
+  57:1  error  Parsing error: Unexpected token
+
+  55 |         let isRelative = ReflectApply(StringPrototypeStartsWith, name, ["./"])
+  56 |                       || ReflectApply(StringPrototypeStartsWith, name, ["../"])
+> 57 | #ifdef XP_WIN
+     | ^
+  58 |                       || ReflectApply(StringPrototypeStartsWith, name, [".\\"])
+  59 |                       || ReflectApply(StringPrototypeStartsWith, name, ["..\\"])
+  60 | #endif
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/mobile/android/chrome/content/aboutDownloads.js
+  61:48  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/dns/mdns/libmdns/fallback/DNSPacket.jsm
+  25:20  error  There should be no linebreak here  array-element-newline
+  26:18  error  There should be no linebreak here  array-element-newline
+  27:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/test/httpserver/httpd.js
+  3140:34  error  There should be no linebreak here  array-element-newline
+  3141:34  error  There should be no linebreak here  array-element-newline
+  3142:34  error  There should be no linebreak here  array-element-newline
+  3143:34  error  There should be no linebreak here  array-element-newline
+  3145:34  error  There should be no linebreak here  array-element-newline
+  3146:34  error  There should be no linebreak here  array-element-newline
+  3147:34  error  There should be no linebreak here  array-element-newline
+  3148:34  error  There should be no linebreak here  array-element-newline
+  3150:34  error  There should be no linebreak here  array-element-newline
+  3151:34  error  There should be no linebreak here  array-element-newline
+  3152:34  error  There should be no linebreak here  array-element-newline
+  3153:34  error  There should be no linebreak here  array-element-newline
+  3155:34  error  There should be no linebreak here  array-element-newline
+  3156:34  error  There should be no linebreak here  array-element-newline
+  3157:34  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/test/httpserver/test/test_registerdirectory.js
+   58:23  error  There should be no linebreak here  array-element-newline
+   70:32  error  There should be no linebreak here  array-element-newline
+   82:30  error  There should be no linebreak here  array-element-newline
+   94:27  error  There should be no linebreak here  array-element-newline
+  105:23  error  There should be no linebreak here  array-element-newline
+  119:28  error  There should be no linebreak here  array-element-newline
+  131:27  error  There should be no linebreak here  array-element-newline
+  143:27  error  There should be no linebreak here  array-element-newline
+  154:28  error  There should be no linebreak here  array-element-newline
+  166:24  error  There should be no linebreak here  array-element-newline
+  174:21  error  There should be no linebreak here  array-element-newline
+  186:39  error  There should be no linebreak here  array-element-newline
+  192:29  error  There should be no linebreak here  array-element-newline
+  203:41  error  There should be no linebreak here  array-element-newline
+  209:22  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_cert_dbKey.js
+  119:90  error  There should be no linebreak here  array-element-newline
+  120:59  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_certDB_import_pkcs12.js
+  34:67  error  There should be no linebreak here  array-element-newline
+  46:36  error  There should be no linebreak here  array-element-newline
+  55:57  error  There should be no linebreak here  array-element-newline
+  64:47  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_constructX509FromBase64.js
+  46:18  error  There should be no linebreak here  array-element-newline
+  48:18  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_content_signing.js
+  229:27  error  There should be no linebreak here  array-element-newline
+  232:25  error  There should be no linebreak here  array-element-newline
+  235:32  error  There should be no linebreak here  array-element-newline
+  254:29  error  There should be no linebreak here  array-element-newline
+  261:60  error  There should be no linebreak here  array-element-newline
+  263:49  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_der.js
+  158:52  error  There should be no linebreak here  array-element-newline
+  159:53  error  There should be no linebreak here  array-element-newline
+  160:63  error  There should be no linebreak here  array-element-newline
+  161:54  error  There should be no linebreak here  array-element-newline
+  162:52  error  There should be no linebreak here  array-element-newline
+  163:55  error  There should be no linebreak here  array-element-newline
+  164:54  error  There should be no linebreak here  array-element-newline
+  165:55  error  There should be no linebreak here  array-element-newline
+  198:34  error  There should be no linebreak here  array-element-newline
+  199:36  error  There should be no linebreak here  array-element-newline
+  200:52  error  There should be no linebreak here  array-element-newline
+  201:32  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_hmac.js
+  75:39  error  There should be no linebreak here  array-element-newline
+  81:29  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sdr_preexisting_with_password.js
+  67:26  error  There should be no linebreak here  array-element-newline
+  70:26  error  There should be no linebreak here  array-element-newline
+  73:25  error  There should be no linebreak here  array-element-newline
+  76:26  error  There should be no linebreak here  array-element-newline
+  79:53  error  There should be no linebreak here  array-element-newline
+  83:67  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sdr_preexisting.js
+  188:26  error  There should be no linebreak here  array-element-newline
+  191:26  error  There should be no linebreak here  array-element-newline
+  194:25  error  There should be no linebreak here  array-element-newline
+  197:26  error  There should be no linebreak here  array-element-newline
+  200:53  error  There should be no linebreak here  array-element-newline
+  204:67  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sdr_upgraded_with_password.js
+  79:26  error  There should be no linebreak here  array-element-newline
+  82:26  error  There should be no linebreak here  array-element-newline
+  85:25  error  There should be no linebreak here  array-element-newline
+  88:26  error  There should be no linebreak here  array-element-newline
+  91:53  error  There should be no linebreak here  array-element-newline
+  95:67  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sdr.js
+  30:66   error  There should be no linebreak here  array-element-newline
+  31:128  error  There should be no linebreak here  array-element-newline
+  86:66   error  There should be no linebreak here  array-element-newline
+  87:128  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_signed_apps.js
+  138:53  error  There should be no linebreak here  array-element-newline
+  145:66  error  There should be no linebreak here  array-element-newline
+  158:62  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sss_readstate_child.js
+  26:52  error  There should be no linebreak here  array-element-newline
+  28:52  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sss_readstate_garbage.js
+  84:48  error  There should be no linebreak here  array-element-newline
+  86:48  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sss_readstate.js
+  81:52  error  There should be no linebreak here  array-element-newline
+  83:52  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/common/tests/unit/test_hawkrequest.js
+   42:71  error  There should be no linebreak here  array-element-newline
+  149:48  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/crypto/modules/jwcrypto.jsm
+  285:62  error  There should be no linebreak here  array-element-newline
+  286:45  error  There should be no linebreak here  array-element-newline
+  287:45  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/crypto/tests/unit/test_crypto_service.js
+  16:81  error  There should be no linebreak here  array-element-newline
+  19:35  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/fxaccounts/FxAccounts.jsm
+  41:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules-testing/utils.js
+  8:278  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/passwords.js
+  19:32  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/UIState.jsm
+  24:308  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/tps/test_addon_reconciling.js
+  30:44  error  There should be no linebreak here  array-element-newline
+  33:69  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/tps/test_bookmarks_in_same_named_folder.js
+  59:50  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/tps/test_formdata.js
+  66:68  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_addons_store.js
+  407:54  error  There should be no linebreak here  array-element-newline
+  408:54  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_bookmark_duping.js
+  554:44  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_bookmark_repair_responder.js
+  346:19  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/storage/test/unit/test_statement_wrapper_automatically.js
+  141:23  error  There should be no linebreak here  array-element-newline
+  142:26  error  There should be no linebreak here  array-element-newline
+  143:26  error  There should be no linebreak here  array-element-newline
+  144:27  error  There should be no linebreak here  array-element-newline
+  145:24  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/storage/test/unit/test_vacuum.js
+  248:5  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/taskcluster/docker/periodic-updates/scripts/getHSTSPreloadList.js
+  296:28  error  There should be no linebreak here  array-element-newline
+  297:51  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/capabilities.js
+  392:18  error  There should be no linebreak here  array-element-newline
+  395:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/components/marionette.js
+   71:69  error  There should be no linebreak here  array-element-newline
+   80:45  error  There should be no linebreak here  array-element-newline
+   84:68  error  There should be no linebreak here  array-element-newline
+   89:21  error  There should be no linebreak here  array-element-newline
+   92:33  error  There should be no linebreak here  array-element-newline
+   96:39  error  There should be no linebreak here  array-element-newline
+  102:36  error  There should be no linebreak here  array-element-newline
+  107:31  error  There should be no linebreak here  array-element-newline
+  110:73  error  There should be no linebreak here  array-element-newline
+  116:36  error  There should be no linebreak here  array-element-newline
+  119:73  error  There should be no linebreak here  array-element-newline
+  122:59  error  There should be no linebreak here  array-element-newline
+  127:14  error  There should be no linebreak here  array-element-newline
+  130:44  error  There should be no linebreak here  array-element-newline
+  133:50  error  There should be no linebreak here  array-element-newline
+  136:51  error  There should be no linebreak here  array-element-newline
+  139:49  error  There should be no linebreak here  array-element-newline
+  144:31  error  There should be no linebreak here  array-element-newline
+  148:26  error  There should be no linebreak here  array-element-newline
+  151:37  error  There should be no linebreak here  array-element-newline
+  155:26  error  There should be no linebreak here  array-element-newline
+  160:46  error  There should be no linebreak here  array-element-newline
+  163:27  error  There should be no linebreak here  array-element-newline
+  166:74  error  There should be no linebreak here  array-element-newline
+  169:36  error  There should be no linebreak here  array-element-newline
+  172:35  error  There should be no linebreak here  array-element-newline
+  178:31  error  There should be no linebreak here  array-element-newline
+  181:63  error  There should be no linebreak here  array-element-newline
+  185:31  error  There should be no linebreak here  array-element-newline
+  188:60  error  There should be no linebreak here  array-element-newline
+  191:61  error  There should be no linebreak here  array-element-newline
+  196:72  error  There should be no linebreak here  array-element-newline
+  199:31  error  There should be no linebreak here  array-element-newline
+  203:54  error  There should be no linebreak here  array-element-newline
+  206:22  error  There should be no linebreak here  array-element-newline
+  209:58  error  There should be no linebreak here  array-element-newline
+  212:60  error  There should be no linebreak here  array-element-newline
+  215:43  error  There should be no linebreak here  array-element-newline
+  219:34  error  There should be no linebreak here  array-element-newline
+  222:60  error  There should be no linebreak here  array-element-newline
+  225:52  error  There should be no linebreak here  array-element-newline
+  228:51  error  There should be no linebreak here  array-element-newline
+  232:34  error  There should be no linebreak here  array-element-newline
+  235:66  error  There should be no linebreak here  array-element-newline
+  238:53  error  There should be no linebreak here  array-element-newline
+  242:15  error  There should be no linebreak here  array-element-newline
+  246:74  error  There should be no linebreak here  array-element-newline
+  249:36  error  There should be no linebreak here  array-element-newline
+  252:67  error  There should be no linebreak here  array-element-newline
+  255:63  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/test/unit/test_action.js
+  580:88  error  There should be no linebreak here  array-element-newline
+  596:36  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/mochitest/browser-test.js
+  506:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/talos/talos/tests/devtools/addon/content/damp-tests.js
+  29:45  error  There should be no linebreak here  array-element-newline
+  51:50  error  There should be no linebreak here  array-element-newline
+  73:60  error  There should be no linebreak here  array-element-newline
+  84:64  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/talos/talos/tests/tart/addon/content/tart.js
+  558:132  error  There should be no linebreak here  array-element-newline
+  561:135  error  There should be no linebreak here  array-element-newline
+  564:80   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/antitracking/test/browser/browser_addonHostPermissionIgnoredInTP.js
+  9:86  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/antitracking/test/browser/browser_onBeforeRequestNotificationForTrackingResources.js
+  54:88  error  There should be no linebreak here  array-element-newline
+  56:74  error  There should be no linebreak here  array-element-newline
+  58:86  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/antitracking/test/browser/browser_onModifyRequestNotificationForTrackingResources.js
+  49:88  error  There should be no linebreak here  array-element-newline
+  51:74  error  There should be no linebreak here  array-element-newline
+  53:86  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/antitracking/test/browser/browser_referrerDefaultPolicy.js
+  5:29  error  Parsing error: Unexpected reserved word 'private'
+
+  3 | /* import-globals-from ../../../../../browser/base/content/test/general/head.js */
+  4 | 
+> 5 | async function testOnWindow(private, expectedReferrer) {
+    |                             ^
+  6 |   info("Creating a new " + (private ? "private" : "normal") + " window");
+  7 |   let win = await BrowserTestUtils.openNewBrowserWindow({private});
+  8 |   let browser = win.gBrowser;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/asyncshutdown/nsAsyncShutdown.jsm
+  216:23  error  There should be no linebreak here  array-element-newline
+  219:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/asyncshutdown/tests/xpcshell/test_converters.js
+  34:15  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/contextualidentity/ContextualIdentityService.jsm
+  109:93  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/downloads/test/unit/test_DownloadHistory.js
+  115:38  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/parent/ext-cookies.js
+  13:62  error  There should be no linebreak here  array-element-newline
+  14:60  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/Schemas.jsm
+  2393:66  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/mochitest/test_ext_all_apis.js
+  21:73  error  There should be no linebreak here  array-element-newline
+  31:52  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_background_runtime_connect_params.js
+  35:29  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_contentscript_triggeringPrincipal.js
+  934:64  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_contentScripts_register.js
+  317:25  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_permission_warnings.js
+  173:68  error  There should be no linebreak here  array-element-newline
+  176:57  error  There should be no linebreak here  array-element-newline
+  260:81  error  There should be no linebreak here  array-element-newline
+  263:48  error  There should be no linebreak here  array-element-newline
+  265:79  error  There should be no linebreak here  array-element-newline
+  267:54  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_runtime_sendMessage_errors.js
+  14:49  error  There should be no linebreak here  array-element-newline
+  17:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_startup_perf.js
+  13:11  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_storage_sync_crypto.js
+  72:36  error  There should be no linebreak here  array-element-newline
+  73:25  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_storage_telemetry.js
+  213:62  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_userScripts.js
+  504:16  error  There should be no linebreak here  array-element-newline
+  507:16  error  There should be no linebreak here  array-element-newline
+  510:17  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/mediasniffer/test/unit/test_mediasniffer_ext.js
+  24:43  error  There should be no linebreak here  array-element-newline
+  26:23  error  There should be no linebreak here  array-element-newline
+  28:68  error  There should be no linebreak here  array-element-newline
+  30:50  error  There should be no linebreak here  array-element-newline
+  32:64  error  There should be no linebreak here  array-element-newline
+  34:58  error  There should be no linebreak here  array-element-newline
+  36:60  error  There should be no linebreak here  array-element-newline
+  38:47  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/mediasniffer/test/unit/test_mediasniffer.js
+  29:66  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/normandy/test/browser/browser_actions_PreferenceRolloutAction.js
+  102:24  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/normandy/test/browser/browser_actions_ShowHeartbeatAction.js
+  92:56  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/normandy/test/browser/browser_RecipeRunner.js
+  265:80  error  There should be no linebreak here  array-element-newline
+  282:80  error  There should be no linebreak here  array-element-newline
+  299:80  error  There should be no linebreak here  array-element-newline
+  327:80  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/osfile/tests/xpcshell/test_file_URL_conversion.js
+  17:56   error  There should be no linebreak here  array-element-newline
+  26:55   error  There should be no linebreak here  array-element-newline
+  27:106  error  There should be no linebreak here  array-element-newline
+  28:54   error  There should be no linebreak here  array-element-newline
+  29:53   error  There should be no linebreak here  array-element-newline
+  32:116  error  There should be no linebreak here  array-element-newline
+  33:97   error  There should be no linebreak here  array-element-newline
+  34:51   error  There should be no linebreak here  array-element-newline
+  35:50   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/browser/browser_context_menu_iframe.js
+  160:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/browser/browser_context_menu.js
+  412:58  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/browser/browser_hasInsecureLoginForms_streamConverter.js
+  88:73  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/browser/browser_hasInsecureLoginForms.js
+  28:75  error  There should be no linebreak here  array-element-newline
+  59:75  error  There should be no linebreak here  array-element-newline
+  68:73  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/browser/browser_insecurePasswordConsoleWarning.js
+  41:66  error  There should be no linebreak here  array-element-newline
+  44:66  error  There should be no linebreak here  array-element-newline
+  47:64  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/browser/browser_passwordmgrdlg.js
+  43:100  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/LoginTestUtils.jsm
+  143:70  error  There should be no linebreak here  array-element-newline
+  148:63  error  There should be no linebreak here  array-element-newline
+  154:56  error  There should be no linebreak here  array-element-newline
+  165:74  error  There should be no linebreak here  array-element-newline
+  174:78  error  There should be no linebreak here  array-element-newline
+  178:77  error  There should be no linebreak here  array-element-newline
+  184:43  error  There should be no linebreak here  array-element-newline
+  188:42  error  There should be no linebreak here  array-element-newline
+  192:81  error  There should be no linebreak here  array-element-newline
+  197:67  error  There should be no linebreak here  array-element-newline
+  210:72  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/unit/test_doLoginsMatch.js
+  22:33  error  There should be no linebreak here  array-element-newline
+  25:32  error  There should be no linebreak here  array-element-newline
+  28:26  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/unit/test_isOriginMatching.js
+  10:1194  error  There should be no linebreak here  array-element-newline
+  11:106   error  There should be no linebreak here  array-element-newline
+  12:106   error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/unit/test_logins_change.js
+  166:311  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/PlacesDBUtils.jsm
+  309:62  error  There should be no linebreak here  array-element-newline
+  319:63  error  There should be no linebreak here  array-element-newline
+  330:39  error  There should be no linebreak here  array-element-newline
+  342:52  error  There should be no linebreak here  array-element-newline
+  352:33  error  There should be no linebreak here  array-element-newline
+  362:42  error  There should be no linebreak here  array-element-newline
+  381:73  error  There should be no linebreak here  array-element-newline
+  402:31  error  There should be no linebreak here  array-element-newline
+  423:50  error  There should be no linebreak here  array-element-newline
+  446:60  error  There should be no linebreak here  array-element-newline
+  472:18  error  There should be no linebreak here  array-element-newline
+  497:77  error  There should be no linebreak here  array-element-newline
+  528:35  error  There should be no linebreak here  array-element-newline
+  566:48  error  There should be no linebreak here  array-element-newline
+  589:41  error  There should be no linebreak here  array-element-newline
+  596:77  error  There should be no linebreak here  array-element-newline
+  611:34  error  There should be no linebreak here  array-element-newline
+  621:41  error  There should be no linebreak here  array-element-newline
+  631:57  error  There should be no linebreak here  array-element-newline
+  641:38  error  There should be no linebreak here  array-element-newline
+  651:36  error  There should be no linebreak here  array-element-newline
+  661:57  error  There should be no linebreak here  array-element-newline
+  677:47  error  There should be no linebreak here  array-element-newline
+  690:40  error  There should be no linebreak here  array-element-newline
+  697:41  error  There should be no linebreak here  array-element-newline
+  700:38  error  There should be no linebreak here  array-element-newline
+  717:66  error  There should be no linebreak here  array-element-newline
+  740:64  error  There should be no linebreak here  array-element-newline
+  746:56  error  There should be no linebreak here  array-element-newline
+  761:70  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/expiration/test_debug_expiration.js
+  163:29  error  There should be no linebreak here  array-element-newline
+  173:32  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/expiration/test_pref_maxpages.js
+  36:17  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/history/test_async_history_api.js
+  1036:60  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/migration/test_current_from_v43.js
+  12:32  error  There should be no linebreak here  array-element-newline
+  13:29  error  There should be no linebreak here  array-element-newline
+  14:31  error  There should be no linebreak here  array-element-newline
+  15:26  error  There should be no linebreak here  array-element-newline
+  17:73  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/migration/test_current_from_v45.js
+  20:46  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_abstime-annotation-domain.js
+   51:38  error  There should be no linebreak here  array-element-newline
+   56:71  error  There should be no linebreak here  array-element-newline
+   61:53  error  There should be no linebreak here  array-element-newline
+   65:57  error  There should be no linebreak here  array-element-newline
+   70:25  error  There should be no linebreak here  array-element-newline
+   74:29  error  There should be no linebreak here  array-element-newline
+   78:27  error  There should be no linebreak here  array-element-newline
+   82:42  error  There should be no linebreak here  array-element-newline
+   87:47  error  There should be no linebreak here  array-element-newline
+   91:25  error  There should be no linebreak here  array-element-newline
+   96:18  error  There should be no linebreak here  array-element-newline
+  100:35  error  There should be no linebreak here  array-element-newline
+  104:24  error  There should be no linebreak here  array-element-newline
+  108:33  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_abstime-annotation-uri.js
+  52:61  error  There should be no linebreak here  array-element-newline
+  57:58  error  There should be no linebreak here  array-element-newline
+  61:25  error  There should be no linebreak here  array-element-newline
+  65:24  error  There should be no linebreak here  array-element-newline
+  70:20  error  There should be no linebreak here  array-element-newline
+  74:25  error  There should be no linebreak here  array-element-newline
+  79:35  error  There should be no linebreak here  array-element-newline
+  83:24  error  There should be no linebreak here  array-element-newline
+  87:33  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_onlyBookmarked.js
+  28:54  error  There should be no linebreak here  array-element-newline
+  36:32  error  There should be no linebreak here  array-element-newline
+  79:46  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_querySerialization.js
+   98:16  error  There should be no linebreak here  array-element-newline
+  114:20  error  There should be no linebreak here  array-element-newline
+  128:15  error  There should be no linebreak here  array-element-newline
+  146:12  error  There should be no linebreak here  array-element-newline
+  158:19  error  There should be no linebreak here  array-element-newline
+  174:15  error  There should be no linebreak here  array-element-newline
+  186:15  error  There should be no linebreak here  array-element-newline
+  197:20  error  There should be no linebreak here  array-element-newline
+  208:16  error  There should be no linebreak here  array-element-newline
+  236:10  error  There should be no linebreak here  array-element-newline
+  273:17  error  There should be no linebreak here  array-element-newline
+  321:16  error  There should be no linebreak here  array-element-newline
+  333:18  error  There should be no linebreak here  array-element-newline
+  344:20  error  There should be no linebreak here  array-element-newline
+  355:19  error  There should be no linebreak here  array-element-newline
+  366:19  error  There should be no linebreak here  array-element-newline
+  377:16  error  There should be no linebreak here  array-element-newline
+  388:15  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_redirects.js
+  197:49  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_searchterms-domain.js
+  16:64  error  There should be no linebreak here  array-element-newline
+  21:72  error  There should be no linebreak here  array-element-newline
+  26:49  error  There should be no linebreak here  array-element-newline
+  30:50  error  There should be no linebreak here  array-element-newline
+  35:26  error  There should be no linebreak here  array-element-newline
+  39:51  error  There should be no linebreak here  array-element-newline
+  43:19  error  There should be no linebreak here  array-element-newline
+  47:46  error  There should be no linebreak here  array-element-newline
+  51:54  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_searchterms-uri.js
+  16:27  error  There should be no linebreak here  array-element-newline
+  20:52  error  There should be no linebreak here  array-element-newline
+  24:51  error  There should be no linebreak here  array-element-newline
+  28:69  error  There should be no linebreak here  array-element-newline
+  33:47  error  There should be no linebreak here  array-element-newline
+  37:55  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_sort-date-site-grouping.js
+  63:54  error  There should be no linebreak here  array-element-newline
+  65:48  error  There should be no linebreak here  array-element-newline
+  66:70  error  There should be no linebreak here  array-element-newline
+  67:71  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_sorting.js
+   87:54  error  There should be no linebreak here  array-element-newline
+  163:55  error  There should be no linebreak here  array-element-newline
+  174:74  error  There should be no linebreak here  array-element-newline
+  246:53  error  There should be no linebreak here  array-element-newline
+  256:71  error  There should be no linebreak here  array-element-newline
+  263:73  error  There should be no linebreak here  array-element-newline
+  273:76  error  There should be no linebreak here  array-element-newline
+  341:60  error  There should be no linebreak here  array-element-newline
+  350:80  error  There should be no linebreak here  array-element-newline
+  425:60  error  There should be no linebreak here  array-element-newline
+  434:80  error  There should be no linebreak here  array-element-newline
+  510:63  error  There should be no linebreak here  array-element-newline
+  521:15  error  There should be no linebreak here  array-element-newline
+  600:54  error  There should be no linebreak here  array-element-newline
+  610:54  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/sync/test_bookmark_observer_recorder.js
+  173:37  error  There should be no linebreak here  array-element-newline
+  176:46  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/sync/test_sync_utils.js
+   434:40  error  There should be no linebreak here  array-element-newline
+   465:50  error  There should be no linebreak here  array-element-newline
+   466:60  error  There should be no linebreak here  array-element-newline
+   492:50  error  There should be no linebreak here  array-element-newline
+  2196:29  error  There should be no linebreak here  array-element-newline
+  2211:49  error  There should be no linebreak here  array-element-newline
+  2214:19  error  There should be no linebreak here  array-element-newline
+  2220:40  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_adaptive.js
+  192:70  error  There should be no linebreak here  array-element-newline
+  213:56  error  There should be no linebreak here  array-element-newline
+  234:58  error  There should be no linebreak here  array-element-newline
+  274:70  error  There should be no linebreak here  array-element-newline
+  288:64  error  There should be no linebreak here  array-element-newline
+  302:77  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_casing.js
+  156:151  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_keyword_search_actions.js
+  93:61  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_search_engine_alias.js
+  145:12  error  Parsing error: Unexpected reserved word 'private'
+
+  143 | 
+  144 |   // Search in both a non-private and private context.
+> 145 |   for (let private of [false, true]) {
+      |            ^
+  146 |     let searchParam = "enable-actions";
+  147 |     if (private) {
+  148 |       searchParam += " private-window";
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_search_suggestions.js
+  100:72  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unit/test_bookmarks_html.js
+  51:52  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unit/test_frecency.js
+  176:34  error  There should be no linebreak here  array-element-newline
+  203:22  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/search/tests/xpcshell/test_notifications.js
+  20:38  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/search/tests/xpcshell/test_parseSubmissionURL.js
+  24:67  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/tests/unit/test_TelemetryEvents.js
+  438:57  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/tests/unit/test_UntrustedModulesPing.js
+  55:71  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/thumbnails/test/browser_thumbnails_bg_queueing.js
+  7:72  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/thumbnails/test/browser_thumbnails_privacy.js
+  17:57  error  There should be no linebreak here  array-element-newline
+  20:68  error  There should be no linebreak here  array-element-newline
+  28:45  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/tests/mochitest/features.js
+  11:23  error  There should be no linebreak here  array-element-newline
+  14:23  error  There should be no linebreak here  array-element-newline
+  17:45  error  There should be no linebreak here  array-element-newline
+  20:34  error  There should be no linebreak here  array-element-newline
+  23:36  error  There should be no linebreak here  array-element-newline
+  26:49  error  There should be no linebreak here  array-element-newline
+  29:77  error  There should be no linebreak here  array-element-newline
+  32:31  error  There should be no linebreak here  array-element-newline
+  35:35  error  There should be no linebreak here  array-element-newline
+  38:32  error  There should be no linebreak here  array-element-newline
+  41:64  error  There should be no linebreak here  array-element-newline
+  44:39  error  There should be no linebreak here  array-element-newline
+  47:54  error  There should be no linebreak here  array-element-newline
+  50:36  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/tests/unit/test_addsub.js
+  387:70  error  There should be no linebreak here  array-element-newline
+  395:71  error  There should be no linebreak here  array-element-newline
+  429:71  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/tests/unit/test_listmanager.js
+   14:8   error  There should be no linebreak here  array-element-newline
+   22:8   error  There should be no linebreak here  array-element-newline
+  112:46  error  There should be no linebreak here  array-element-newline
+  130:36  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/aboutSupport.js
+  235:76  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/aboutTelemetry.js
+  165:38  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/tests/browser/browser_autoplay_policy_user_gestures.js
+  14:19  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/tests/browser/browser_bug295977_autoscroll_overflow.js
+  31:79   error  There should be no linebreak here  array-element-newline
+  35:80   error  There should be no linebreak here  array-element-newline
+  41:116  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/tests/chrome/file_autocomplete_with_composition.js
+  124:39  error  There should be no linebreak here  array-element-newline
+  161:68  error  There should be no linebreak here  array-element-newline
+  214:42  error  There should be no linebreak here  array-element-newline
+  268:66  error  There should be no linebreak here  array-element-newline
+  276:72  error  There should be no linebreak here  array-element-newline
+  328:67  error  There should be no linebreak here  array-element-newline
+  336:33  error  There should be no linebreak here  array-element-newline
+  388:66  error  There should be no linebreak here  array-element-newline
+  399:79  error  There should be no linebreak here  array-element-newline
+  451:24  error  There should be no linebreak here  array-element-newline
+  459:73  error  There should be no linebreak here  array-element-newline
+  496:24  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/tests/chrome/file_editor_with_autocomplete.js
+  243:73  error  There should be no linebreak here  array-element-newline
+  366:56  error  There should be no linebreak here  array-element-newline
+  410:64  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/tests/widgets/tree_shared.js
+  939:38  error  There should be no linebreak here  array-element-newline
+  940:38  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/widgets/videocontrols.js
+  1165:82  error  There should be no linebreak here  array-element-newline
+  2012:81  error  There should be no linebreak here  array-element-newline
+  2015:94  error  There should be no linebreak here  array-element-newline
+  2018:61  error  There should be no linebreak here  array-element-newline
+  2021:96  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/crashreporter/test/unit/test_crash_win64cfi_unknown_op.js
+  10:42  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/forgetaboutsite/test/unit/test_removeDataFromDomain.js
+  475:20  error  There should be no linebreak here  array-element-newline
+  478:19  error  There should be no linebreak here  array-element-newline
+  481:24  error  There should be no linebreak here  array-element-newline
+  484:25  error  There should be no linebreak here  array-element-newline
+  487:10  error  There should be no linebreak here  array-element-newline
+  490:13  error  There should be no linebreak here  array-element-newline
+  493:11  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/CharsetMenu.jsm
+  32:12  error  There should be no linebreak here  array-element-newline
+  34:12  error  There should be no linebreak here  array-element-newline
+  37:22  error  There should be no linebreak here  array-element-newline
+  39:25  error  There should be no linebreak here  array-element-newline
+  41:26  error  There should be no linebreak here  array-element-newline
+  43:14  error  There should be no linebreak here  array-element-newline
+  46:11  error  There should be no linebreak here  array-element-newline
+  48:12  error  There should be no linebreak here  array-element-newline
+  50:14  error  There should be no linebreak here  array-element-newline
+  52:12  error  There should be no linebreak here  array-element-newline
+  54:10  error  There should be no linebreak here  array-element-newline
+  56:13  error  There should be no linebreak here  array-element-newline
+  58:16  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/subprocess/subprocess_shared_unix.js
+   57:61  error  There should be no linebreak here  array-element-newline
+   58:26  error  There should be no linebreak here  array-element-newline
+   63:68  error  There should be no linebreak here  array-element-newline
+   68:58  error  There should be no linebreak here  array-element-newline
+   77:67  error  There should be no linebreak here  array-element-newline
+   78:36  error  There should be no linebreak here  array-element-newline
+   83:62  error  There should be no linebreak here  array-element-newline
+   84:32  error  There should be no linebreak here  array-element-newline
+   85:60  error  There should be no linebreak here  array-element-newline
+   86:34  error  There should be no linebreak here  array-element-newline
+   87:36  error  There should be no linebreak here  array-element-newline
+   92:92  error  There should be no linebreak here  array-element-newline
+   97:92  error  There should be no linebreak here  array-element-newline
+   98:29  error  There should be no linebreak here  array-element-newline
+  111:65  error  There should be no linebreak here  array-element-newline
+  112:31  error  There should be no linebreak here  array-element-newline
+  117:58  error  There should be no linebreak here  array-element-newline
+  118:33  error  There should be no linebreak here  array-element-newline
+  123:65  error  There should be no linebreak here  array-element-newline
+  124:31  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/subprocess/subprocess_shared_win.js
+  162:55  error  There should be no linebreak here  array-element-newline
+  171:91  error  There should be no linebreak here  array-element-newline
+  172:35  error  There should be no linebreak here  array-element-newline
+  173:36  error  There should be no linebreak here  array-element-newline
+  178:63  error  There should be no linebreak here  array-element-newline
+  179:39  error  There should be no linebreak here  array-element-newline
+  180:35  error  There should be no linebreak here  array-element-newline
+  181:66  error  There should be no linebreak here  array-element-newline
+  182:45  error  There should be no linebreak here  array-element-newline
+  183:44  error  There should be no linebreak here  array-element-newline
+  188:89  error  There should be no linebreak here  array-element-newline
+  193:59  error  There should be no linebreak here  array-element-newline
+  194:34  error  There should be no linebreak here  array-element-newline
+  195:34  error  There should be no linebreak here  array-element-newline
+  196:37  error  There should be no linebreak here  array-element-newline
+  197:38  error  There should be no linebreak here  array-element-newline
+  198:37  error  There should be no linebreak here  array-element-newline
+  199:39  error  There should be no linebreak here  array-element-newline
+  204:66  error  There should be no linebreak here  array-element-newline
+  205:41  error  There should be no linebreak here  array-element-newline
+  206:62  error  There should be no linebreak here  array-element-newline
+  211:69  error  There should be no linebreak here  array-element-newline
+  212:38  error  There should be no linebreak here  array-element-newline
+  213:61  error  There should be no linebreak here  array-element-newline
+  214:60  error  There should be no linebreak here  array-element-newline
+  215:37  error  There should be no linebreak here  array-element-newline
+  216:39  error  There should be no linebreak here  array-element-newline
+  217:42  error  There should be no linebreak here  array-element-newline
+  218:48  error  There should be no linebreak here  array-element-newline
+  219:48  error  There should be no linebreak here  array-element-newline
+  224:95  error  There should be no linebreak here  array-element-newline
+  225:36  error  There should be no linebreak here  array-element-newline
+  226:36  error  There should be no linebreak here  array-element-newline
+  235:71  error  There should be no linebreak here  array-element-newline
+  236:38  error  There should be no linebreak here  array-element-newline
+  237:45  error  There should be no linebreak here  array-element-newline
+  238:45  error  There should be no linebreak here  array-element-newline
+  239:39  error  There should be no linebreak here  array-element-newline
+  240:37  error  There should be no linebreak here  array-element-newline
+  261:59  error  There should be no linebreak here  array-element-newline
+  266:56  error  There should be no linebreak here  array-element-newline
+  267:45  error  There should be no linebreak here  array-element-newline
+  268:52  error  There should be no linebreak here  array-element-newline
+  277:96  error  There should be no linebreak here  array-element-newline
+  278:40  error  There should be no linebreak here  array-element-newline
+  279:31  error  There should be no linebreak here  array-element-newline
+  284:56  error  There should be no linebreak here  array-element-newline
+  285:37  error  There should be no linebreak here  array-element-newline
+  286:44  error  There should be no linebreak here  array-element-newline
+  287:53  error  There should be no linebreak here  array-element-newline
+  292:61  error  There should be no linebreak here  array-element-newline
+  293:36  error  There should be no linebreak here  array-element-newline
+  302:55  error  There should be no linebreak here  array-element-newline
+  303:41  error  There should be no linebreak here  array-element-newline
+  304:40  error  There should be no linebreak here  array-element-newline
+  309:55  error  There should be no linebreak here  array-element-newline
+  314:59  error  There should be no linebreak here  array-element-newline
+  319:95  error  There should be no linebreak here  array-element-newline
+  320:31  error  There should be no linebreak here  array-element-newline
+  321:37  error  There should be no linebreak here  array-element-newline
+  322:31  error  There should be no linebreak here  array-element-newline
+  323:31  error  There should be no linebreak here  array-element-newline
+  324:47  error  There should be no linebreak here  array-element-newline
+  329:57  error  There should be no linebreak here  array-element-newline
+  330:37  error  There should be no linebreak here  array-element-newline
+  331:31  error  There should be no linebreak here  array-element-newline
+  336:59  error  There should be no linebreak here  array-element-newline
+  337:31  error  There should be no linebreak here  array-element-newline
+  342:56  error  There should be no linebreak here  array-element-newline
+  343:34  error  There should be no linebreak here  array-element-newline
+  344:44  error  There should be no linebreak here  array-element-newline
+  345:56  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/browser/browser_Deprecated.js
+  44:66  error  There should be no linebreak here  array-element-newline
+  56:42  error  There should be no linebreak here  array-element-newline
+  65:66  error  There should be no linebreak here  array-element-newline
+  72:73  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_MatchURLFilters.js
+   47:93  error  There should be no linebreak here  array-element-newline
+   52:48  error  There should be no linebreak here  array-element-newline
+   55:64  error  There should be no linebreak here  array-element-newline
+   58:47  error  There should be no linebreak here  array-element-newline
+   61:52  error  There should be no linebreak here  array-element-newline
+   64:94  error  There should be no linebreak here  array-element-newline
+   66:58  error  There should be no linebreak here  array-element-newline
+   68:61  error  There should be no linebreak here  array-element-newline
+   73:24  error  There should be no linebreak here  array-element-newline
+   76:72  error  There should be no linebreak here  array-element-newline
+   78:57  error  There should be no linebreak here  array-element-newline
+   81:77  error  There should be no linebreak here  array-element-newline
+   84:59  error  There should be no linebreak here  array-element-newline
+   87:67  error  There should be no linebreak here  array-element-newline
+   93:37  error  There should be no linebreak here  array-element-newline
+   95:66  error  There should be no linebreak here  array-element-newline
+   98:47  error  There should be no linebreak here  array-element-newline
+  102:80  error  There should be no linebreak here  array-element-newline
+  110:20  error  There should be no linebreak here  array-element-newline
+  135:21  error  There should be no linebreak here  array-element-newline
+  160:20  error  There should be no linebreak here  array-element-newline
+  188:20  error  There should be no linebreak here  array-element-newline
+  193:21  error  There should be no linebreak here  array-element-newline
+  198:21  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_NewTabUtils.js
+  810:33  error  There should be no linebreak here  array-element-newline
+  812:45  error  There should be no linebreak here  array-element-newline
+  814:37  error  There should be no linebreak here  array-element-newline
+  862:33  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_Services.js
+  10:32  error  Parsing error: Unexpected reserved word 'interface'
+
+   8 | // Globals
+   9 | 
+> 10 | function checkService(service, interface) {
+     |                                ^
+  11 |   info("Checking that Services." + service + " is an " + interface);
+  12 |   Assert.ok(service in Services);
+  13 |   Assert.ok(Services[service] instanceof interface);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/AddonManager.jsm
+  3002:40  error  There should be no linebreak here  array-element-newline
+  3004:62  error  There should be no linebreak here  array-element-newline
+  3006:55  error  There should be no linebreak here  array-element-newline
+  3008:28  error  There should be no linebreak here  array-element-newline
+  3010:67  error  There should be no linebreak here  array-element-newline
+  3012:28  error  There should be no linebreak here  array-element-newline
+  3014:39  error  There should be no linebreak here  array-element-newline
+  3016:43  error  There should be no linebreak here  array-element-newline
+  3018:38  error  There should be no linebreak here  array-element-newline
+  3020:38  error  There should be no linebreak here  array-element-newline
+  3022:27  error  There should be no linebreak here  array-element-newline
+  3024:39  error  There should be no linebreak here  array-element-newline
+  3034:60  error  There should be no linebreak here  array-element-newline
+  3036:62  error  There should be no linebreak here  array-element-newline
+  3038:60  error  There should be no linebreak here  array-element-newline
+  3040:44  error  There should be no linebreak here  array-element-newline
+  3042:65  error  There should be no linebreak here  array-element-newline
+  3044:46  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/content/shortcuts.js
+  95:50  error  There should be no linebreak here  array-element-newline
+  96:42  error  There should be no linebreak here  array-element-newline
+  97:56  error  There should be no linebreak here  array-element-newline
+  98:55  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/browser/browser_theme_previews.js
+  132:45  error  There should be no linebreak here  array-element-newline
+  133:65  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_addon_manager_telemetry_events.js
+  108:37  error  There should be no linebreak here  array-element-newline
+  110:66  error  There should be no linebreak here  array-element-newline
+  311:48  error  There should be no linebreak here  array-element-newline
+  321:70  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_AddonRepository_langpacks.js
+  47:52  error  There should be no linebreak here  array-element-newline
+  65:44  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_blocklist_severities.js
+  85:55  error  There should be no linebreak here  array-element-newline
+  87:91  error  There should be no linebreak here  array-element-newline
+  89:85  error  There should be no linebreak here  array-element-newline
+  91:85  error  There should be no linebreak here  array-element-newline
+  93:63  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_compatoverrides.js
+  189:26  error  There should be no linebreak here  array-element-newline
+  203:31  error  There should be no linebreak here  array-element-newline
+  218:58  error  There should be no linebreak here  array-element-newline
+  232:46  error  There should be no linebreak here  array-element-newline
+  247:59  error  There should be no linebreak here  array-element-newline
+  261:57  error  There should be no linebreak here  array-element-newline
+  275:32  error  There should be no linebreak here  array-element-newline
+  289:35  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_pluginchange.js
+  18:42  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_strictcompatibility.js
+   28:47  error  There should be no linebreak here  array-element-newline
+   44:58  error  There should be no linebreak here  array-element-newline
+   62:51  error  There should be no linebreak here  array-element-newline
+   78:63  error  There should be no linebreak here  array-element-newline
+  155:14  error  There should be no linebreak here  array-element-newline
+  169:35  error  There should be no linebreak here  array-element-newline
+  182:35  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_system_update_empty.js
+  92:91  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_update_strictcompat.js
+  64:63  error  There should be no linebreak here  array-element-newline
+  76:56  error  There should be no linebreak here  array-element-newline
+  88:45  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/lib/rules/no-useless-run-test.js
+  58:24  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/tests/no-useless-removeEventListener.js
+  30:43  error  There should be no linebreak here  array-element-newline
+  33:69  error  There should be no linebreak here  array-element-newline
+  39:28  error  There should be no linebreak here  array-element-newline
+  45:54  error  There should be no linebreak here  array-element-newline
+  50:63  error  There should be no linebreak here  array-element-newline
+  55:60  error  There should be no linebreak here  array-element-newline
+  60:79  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/tests/no-useless-run-test.js
+  34:27  error  There should be no linebreak here  array-element-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/xpcom/tests/unit/test_bug364285-1.js
+  4:61  error  There should be no linebreak here  array-element-newline
+  5:63  error  There should be no linebreak here  array-element-newline
+  6:64  error  There should be no linebreak here  array-element-newline
+  7:64  error  There should be no linebreak here  array-element-newline
+  8:63  error  There should be no linebreak here  array-element-newline
+  9:62  error  There should be no linebreak here  array-element-newline
+
+✖ 1805 problems (1805 errors, 0 warnings)
+

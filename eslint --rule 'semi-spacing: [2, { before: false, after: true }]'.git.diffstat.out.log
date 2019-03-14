@@ -1,0 +1,23 @@
+ accessible/tests/mochitest/attributes.js                                          |  2 +-
+ browser/base/content/test/plugins/browser_CTP_hide_overlay.js                     |  2 +-
+ browser/components/places/tests/browser/browser_bug631374_tags_selector_scroll.js |  2 +-
+ browser/components/sessionstore/content/aboutSessionRestore.js                    |  2 +-
+ devtools/client/shared/build/babel.js                                             | 48 ++++++++++++++++++++++++------------------------
+ services/sync/modules/policies.js                                                 |  2 +-
+ toolkit/components/normandy/vendor/PropTypes.js                                   |  2 +-
+ toolkit/components/normandy/vendor/React.js                                       |  4 ++--
+ toolkit/components/normandy/vendor/ReactDOM.js                                    |  6 +++---
+ toolkit/components/normandy/vendor/classnames.js                                  |  2 +-
+ toolkit/components/osfile/modules/osfile_unix_front.jsm                           |  2 +-
+ toolkit/components/osfile/modules/osfile_win_front.jsm                            |  2 +-
+ toolkit/components/places/tests/PlacesTestUtils.jsm                               |  2 +-
+ toolkit/components/places/tests/bookmarks/test_393498.js                          |  2 +-
+ toolkit/components/places/tests/bookmarks/test_bookmarks_moveToFolder.js          |  4 ++--
+ toolkit/components/places/tests/bookmarks/test_bookmarks_update.js                |  8 ++++----
+ toolkit/components/thumbnails/test/browser_thumbnails_update.js                   |  4 ++--
+ toolkit/components/utils/mozjexl.js                                               |  2 +-
+ toolkit/content/aboutUrlClassifier.js                                             |  2 +-
+ toolkit/modules/sessionstore/PrivacyFilter.jsm                                    |  2 +-
+ toolkit/modules/tests/xpcshell/test_sqlite.js                                     |  2 +-
+ toolkit/mozapps/extensions/test/xpcshell/test_AddonRepository_cache.js            |  2 +-
+ 22 files changed, 53 insertions(+), 53 deletions(-)

@@ -1,0 +1,13 @@
+ browser/base/content/blockedSite.js                                                  |  8 ++++----
+ browser/base/content/browser.js                                                      | 10 +++++-----
+ browser/modules/Sanitizer.jsm                                                        | 12 ++++++------
+ devtools/client/inspector/animation/components/keyframes-graph/KeyframesGraphPath.js |  6 +++---
+ devtools/client/inspector/markup/markup.js                                           |  6 +++---
+ devtools/client/inspector/shared/style-inspector-menu.js                             |  8 ++++----
+ devtools/client/shared/build/babel.js                                                | 36 ++++++++++++++++++------------------
+ intl/l10n/FluentSyntax.jsm                                                           |  2 +-
+ mobile/android/components/PromptService.js                                           | 16 ++++++++--------
+ mobile/android/components/geckoview/GeckoViewPrompt.js                               | 16 ++++++++--------
+ toolkit/components/normandy/vendor/React.js                                          |  2 +-
+ toolkit/components/normandy/vendor/ReactDOM.js                                       |  4 ++--
+ 12 files changed, 63 insertions(+), 63 deletions(-)

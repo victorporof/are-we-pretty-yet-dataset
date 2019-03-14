@@ -1,0 +1,807 @@
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/jsat/EventManager.jsm
+  77:101  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/actors/ContextMenuChild.jsm
+  687:47  error  There should be no line break before or after '||'  operator-linebreak
+  931:31  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/actors/NetErrorChild.jsm
+  391:106  error  There should be no line break before or after '&&'  operator-linebreak
+  640:38   error  There should be no line break before or after '&&'  operator-linebreak
+  642:55   error  There should be no line break before or after '&&'  operator-linebreak
+  644:24   error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/actors/PageStyleChild.jsm
+  106:44  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/aboutDialog-appUpdater.js
+  157:98  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/browser-fullScreenAndPointerLock.js
+  437:61  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/browser.js
+  5682:139  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/nsContextMenu.js
+  433:41  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/general/contextmenu_common.js
+  65:386  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabclose_grow.js
+  54:137  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabclose.js
+  49:98   error  There should be no line break before or after '||'  operator-linebreak
+  53:60   error  There should be no line break before or after '||'  operator-linebreak
+  61:143  error  There should be no line break before or after '&&'  operator-linebreak
+  67:35   error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabopen_squeeze.js
+  49:137  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabopen.js
+  54:108  error  There should be no line break before or after '||'  operator-linebreak
+  57:146  error  There should be no line break before or after '||'  operator-linebreak
+  61:60   error  There should be no line break before or after '||'  operator-linebreak
+  63:36   error  There should be no line break before or after '||'  operator-linebreak
+  71:72   error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabstrip_overflow_underflow.js
+  58:31  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_tabswitch.js
+  52:137  error  There should be no line break before or after '&&'  operator-linebreak
+  63:72   error  There should be no line break before or after '&&'  operator-linebreak
+  69:35   error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_windowopen.js
+  60:73  error  There should be no line break before or after '&&'  operator-linebreak
+  61:50  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/head.js
+  721:128  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/static/browser_all_files_referenced.js
+  705:34  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/customizableui/CustomizableUI.jsm
+  4664:133  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/parent/ext-menus.js
+  372:29  error  There should be no line break before or after '&&'  operator-linebreak
+  405:50  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/originattributes/test/browser/browser_firstPartyIsolation_aboutPages.js
+  165:179  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/payments/test/browser/browser_address_edit.js
+  486:18  error  There should be no line break before or after '='  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/payments/test/browser/browser_onboarding_wizard.js
+  517:53  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/places/content/browserPlacesViews.js
+  1625:69  error  There should be no line break before or after '&&'  operator-linebreak
+  2010:73  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/places/PlacesUIUtils.jsm
+  1145:60  error  There should be no line break before or after '&&'  operator-linebreak
+  1148:77  error  There should be no line break before or after '&&'  operator-linebreak
+  1151:16  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/main.js
+  1698:90  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_contentblocking.js
+  72:7  error  Parsing error: Unexpected reserved word 'private'
+
+  70 |   let menu = doc.querySelector("#trackingProtectionMenu");
+  71 |   let always = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=always]");
+> 72 |   let private = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=private]");
+     |       ^
+  73 |   menu.selectedItem = always;
+  74 |   ok(!private.selected, "The Only in private windows item should not be selected");
+  75 |   ok(always.selected, "The Always item should be selected");
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/privatebrowsing/test/browser/browser_privatebrowsing_windowtitle.js
+  67:20  error  Parsing error: Unexpected reserved word 'private'
+
+  65 |   }
+  66 | 
+> 67 |   function openWin(private) {
+     |                    ^
+  68 |     return BrowserTestUtils.openNewBrowserWindow({ private });
+  69 |   }
+  70 |   await testTabTitle((await openWin(false)), "about:blank", false, page_without_title);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_354894_perwindowpb.js
+  140:7  error  Parsing error: Unexpected reserved word 'private'
+
+  138 |   }
+  139 | 
+> 140 |   let private = options.private || false;
+      |       ^
+  141 |   let newWin = await promiseNewWindowLoaded({ private });
+  142 | 
+  143 |   await injectTestTabs(newWin);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/translation/TranslationDocument.jsm
+  570:37  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/content/heuristicsRegexp.js
+   21:37   error  There should be no line break before or after '+'  operator-linebreak
+   22:19   error  There should be no line break before or after '+'  operator-linebreak
+   23:30   error  There should be no line break before or after '+'  operator-linebreak
+   24:17   error  There should be no line break before or after '+'  operator-linebreak
+   25:16   error  There should be no line break before or after '+'  operator-linebreak
+   32:63   error  There should be no line break before or after '+'  operator-linebreak
+   33:29   error  There should be no line break before or after '+'  operator-linebreak
+   34:19   error  There should be no line break before or after '+'  operator-linebreak
+   35:14   error  There should be no line break before or after '+'  operator-linebreak
+   36:30   error  There should be no line break before or after '+'  operator-linebreak
+   37:19   error  There should be no line break before or after '+'  operator-linebreak
+   38:14   error  There should be no line break before or after '+'  operator-linebreak
+   45:80   error  There should be no line break before or after '+'  operator-linebreak
+   46:19   error  There should be no line break before or after '+'  operator-linebreak
+   47:27   error  There should be no line break before or after '+'  operator-linebreak
+   48:28   error  There should be no line break before or after '+'  operator-linebreak
+   49:14   error  There should be no line break before or after '+'  operator-linebreak
+   50:30   error  There should be no line break before or after '+'  operator-linebreak
+   51:17   error  There should be no line break before or after '+'  operator-linebreak
+   60:95   error  There should be no line break before or after '+'  operator-linebreak
+   61:88   error  There should be no line break before or after '+'  operator-linebreak
+   62:23   error  There should be no line break before or after '+'  operator-linebreak
+   63:31   error  There should be no line break before or after '+'  operator-linebreak
+   64:19   error  There should be no line break before or after '+'  operator-linebreak
+   65:21   error  There should be no line break before or after '+'  operator-linebreak
+   66:20   error  There should be no line break before or after '+'  operator-linebreak
+   67:27   error  There should be no line break before or after '+'  operator-linebreak
+   68:17   error  There should be no line break before or after '+'  operator-linebreak
+   69:14   error  There should be no line break before or after '+'  operator-linebreak
+   74:97   error  There should be no line break before or after '+'  operator-linebreak
+   75:44   error  There should be no line break before or after '+'  operator-linebreak
+   76:40   error  There should be no line break before or after '+'  operator-linebreak
+   77:50   error  There should be no line break before or after '+'  operator-linebreak
+   78:22   error  There should be no line break before or after '+'  operator-linebreak
+   79:15   error  There should be no line break before or after '+'  operator-linebreak
+   80:38   error  There should be no line break before or after '+'  operator-linebreak
+   81:17   error  There should be no line break before or after '+'  operator-linebreak
+   82:15   error  There should be no line break before or after '+'  operator-linebreak
+   87:99   error  There should be no line break before or after '+'  operator-linebreak
+   88:44   error  There should be no line break before or after '+'  operator-linebreak
+   89:40   error  There should be no line break before or after '+'  operator-linebreak
+   90:50   error  There should be no line break before or after '+'  operator-linebreak
+   91:22   error  There should be no line break before or after '+'  operator-linebreak
+   92:15   error  There should be no line break before or after '+'  operator-linebreak
+   93:38   error  There should be no line break before or after '+'  operator-linebreak
+   94:17   error  There should be no line break before or after '+'  operator-linebreak
+   95:15   error  There should be no line break before or after '+'  operator-linebreak
+  100:46   error  There should be no line break before or after '+'  operator-linebreak
+  101:18   error  There should be no line break before or after '+'  operator-linebreak
+  102:48   error  There should be no line break before or after '+'  operator-linebreak
+  103:25   error  There should be no line break before or after '+'  operator-linebreak
+  104:20   error  There should be no line break before or after '+'  operator-linebreak
+  105:16   error  There should be no line break before or after '+'  operator-linebreak
+  106:18   error  There should be no line break before or after '+'  operator-linebreak
+  107:17   error  There should be no line break before or after '+'  operator-linebreak
+  108:13   error  There should be no line break before or after '+'  operator-linebreak
+  109:14   error  There should be no line break before or after '+'  operator-linebreak
+  117:54   error  There should be no line break before or after '+'  operator-linebreak
+  118:31   error  There should be no line break before or after '+'  operator-linebreak
+  119:16   error  There should be no line break before or after '+'  operator-linebreak
+  120:28   error  There should be no line break before or after '+'  operator-linebreak
+  121:19   error  There should be no line break before or after '+'  operator-linebreak
+  122:13   error  There should be no line break before or after '+'  operator-linebreak
+  123:14   error  There should be no line break before or after '+'  operator-linebreak
+  128:58   error  There should be no line break before or after '+'  operator-linebreak
+  129:24   error  There should be no line break before or after '+'  operator-linebreak
+  130:20   error  There should be no line break before or after '+'  operator-linebreak
+  131:21   error  There should be no line break before or after '+'  operator-linebreak
+  132:21   error  There should be no line break before or after '+'  operator-linebreak
+  133:16   error  There should be no line break before or after '+'  operator-linebreak
+  134:35   error  There should be no line break before or after '+'  operator-linebreak
+  135:28   error  There should be no line break before or after '+'  operator-linebreak
+  136:19   error  There should be no line break before or after '+'  operator-linebreak
+  137:16   error  There should be no line break before or after '+'  operator-linebreak
+  142:48   error  There should be no line break before or after '+'  operator-linebreak
+  143:13   error  There should be no line break before or after '+'  operator-linebreak
+  144:14   error  There should be no line break before or after '+'  operator-linebreak
+  151:151  error  There should be no line break before or after '+'  operator-linebreak
+  152:16   error  There should be no line break before or after '+'  operator-linebreak
+  153:18   error  There should be no line break before or after '+'  operator-linebreak
+  154:17   error  There should be no line break before or after '+'  operator-linebreak
+  155:14   error  There should be no line break before or after '+'  operator-linebreak
+  160:74   error  There should be no line break before or after '+'  operator-linebreak
+  161:18   error  There should be no line break before or after '+'  operator-linebreak
+  162:34   error  There should be no line break before or after '+'  operator-linebreak
+  163:13   error  There should be no line break before or after '+'  operator-linebreak
+  164:16   error  There should be no line break before or after '+'  operator-linebreak
+  165:15   error  There should be no line break before or after '+'  operator-linebreak
+  170:78   error  There should be no line break before or after '+'  operator-linebreak
+  177:84   error  There should be no line break before or after '+'  operator-linebreak
+  178:20   error  There should be no line break before or after '+'  operator-linebreak
+  179:24   error  There should be no line break before or after '+'  operator-linebreak
+  180:19   error  There should be no line break before or after '+'  operator-linebreak
+  181:13   error  There should be no line break before or after '+'  operator-linebreak
+  182:46   error  There should be no line break before or after '+'  operator-linebreak
+  183:19   error  There should be no line break before or after '+'  operator-linebreak
+  190:127  error  There should be no line break before or after '+'  operator-linebreak
+  191:27   error  There should be no line break before or after '+'  operator-linebreak
+  192:22   error  There should be no line break before or after '+'  operator-linebreak
+  193:22   error  There should be no line break before or after '+'  operator-linebreak
+  194:14   error  There should be no line break before or after '+'  operator-linebreak
+  195:22   error  There should be no line break before or after '+'  operator-linebreak
+  196:28   error  There should be no line break before or after '+'  operator-linebreak
+  201:80   error  There should be no line break before or after '+'  operator-linebreak
+  202:18   error  There should be no line break before or after '+'  operator-linebreak
+  203:33   error  There should be no line break before or after '+'  operator-linebreak
+  204:18   error  There should be no line break before or after '+'  operator-linebreak
+  205:17   error  There should be no line break before or after '+'  operator-linebreak
+  206:24   error  There should be no line break before or after '+'  operator-linebreak
+  207:22   error  There should be no line break before or after '+'  operator-linebreak
+  208:17   error  There should be no line break before or after '+'  operator-linebreak
+  213:84   error  There should be no line break before or after '+'  operator-linebreak
+  214:32   error  There should be no line break before or after '+'  operator-linebreak
+  215:17   error  There should be no line break before or after '+'  operator-linebreak
+  216:21   error  There should be no line break before or after '+'  operator-linebreak
+  217:20   error  There should be no line break before or after '+'  operator-linebreak
+  218:16   error  There should be no line break before or after '+'  operator-linebreak
+  219:20   error  There should be no line break before or after '+'  operator-linebreak
+  220:31   error  There should be no line break before or after '+'  operator-linebreak
+  225:50   error  There should be no line break before or after '+'  operator-linebreak
+  226:43   error  There should be no line break before or after '+'  operator-linebreak
+  227:17   error  There should be no line break before or after '+'  operator-linebreak
+  228:20   error  There should be no line break before or after '+'  operator-linebreak
+  229:16   error  There should be no line break before or after '+'  operator-linebreak
+  230:20   error  There should be no line break before or after '+'  operator-linebreak
+  231:31   error  There should be no line break before or after '+'  operator-linebreak
+  236:62   error  There should be no line break before or after '+'  operator-linebreak
+  237:17   error  There should be no line break before or after '+'  operator-linebreak
+  238:21   error  There should be no line break before or after '+'  operator-linebreak
+  239:20   error  There should be no line break before or after '+'  operator-linebreak
+  240:16   error  There should be no line break before or after '+'  operator-linebreak
+  241:20   error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/FormAutofillHeuristics.jsm
+  569:83  error  There should be no line break before or after '+'  operator-linebreak
+  570:24  error  There should be no line break before or after '+'  operator-linebreak
+  571:17  error  There should be no line break before or after '+'  operator-linebreak
+  572:17  error  There should be no line break before or after '+'  operator-linebreak
+  577:83  error  There should be no line break before or after '+'  operator-linebreak
+  578:24  error  There should be no line break before or after '+'  operator-linebreak
+  579:17  error  There should be no line break before or after '+'  operator-linebreak
+  580:17  error  There should be no line break before or after '+'  operator-linebreak
+  585:85  error  There should be no line break before or after '+'  operator-linebreak
+  586:24  error  There should be no line break before or after '+'  operator-linebreak
+  587:17  error  There should be no line break before or after '+'  operator-linebreak
+  588:17  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/Sanitizer.jsm
+  110:62  error  There should be no line break before or after ':'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/chrome/test/unit/test_resolve_uris.js
+  23:18  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/test/helper_diff.js
+  107:18  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/test/browser_rules_authored.js
+  22:53  error  There should be no line break before or after '+'  operator-linebreak
+  24:62  error  There should be no line break before or after '+'  operator-linebreak
+  26:57  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/shared/test/browser_styleinspector_csslogic-content-stylesheets.js
+  65:76  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/memory/utils.js
+  328:9  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/src/components/SecurityPanel.js
+   92:36  error  There should be no line break before or after '?'  operator-linebreak
+   94:23  error  There should be no line break before or after ':'  operator-linebreak
+  102:86  error  There should be no line break before or after '?'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/src/components/Toolbar.js
+  119:7  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/components/WaterfallTree.js
+  32:40  error  There should be no line break before or after '||'  operator-linebreak
+  34:38  error  There should be no line break before or after '||'  operator-linebreak
+  36:56  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/reducers/messages.js
+  794:7   error  There should be no line break before or after '||'  operator-linebreak
+  796:7   error  There should be no line break before or after '||'  operator-linebreak
+  798:7   error  There should be no line break before or after '||'  operator-linebreak
+  800:7   error  There should be no line break before or after '||'  operator-linebreak
+  802:7   error  There should be no line break before or after '||'  operator-linebreak
+  804:7   error  There should be no line break before or after '||'  operator-linebreak
+  907:39  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/emulation/touch-simulator.js
+  313:28  error  There should be no line break before or after '||'  operator-linebreak
+  314:43  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/highlighters/shapes.js
+  2726:54  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/object/utils.js
+  192:29  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/styles.js
+  1060:74  error  There should be no line break before or after '&&'  operator-linebreak
+  1064:58  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/thread.js
+  955:10  error  There should be no line break before or after ':'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_blackboxing-01.js
+  130:6  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_blackboxing-02.js
+  61:6  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_blackboxing-03.js
+  60:6  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_blackboxing-04.js
+  58:6  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_blackboxing-05.js
+  61:6  error  There should be no line break before or after '+'  operator-linebreak
+  62:6  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-01.js
+  48:67  error  There should be no line break before or after '+'  operator-linebreak
+  49:25  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-02.js
+  34:87  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-03.js
+  65:65  error  There should be no line break before or after '+'  operator-linebreak
+  66:23  error  There should be no line break before or after '+'  operator-linebreak
+  67:26  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-04.js
+  43:72  error  There should be no line break before or after '+'  operator-linebreak
+  44:26  error  There should be no line break before or after '+'  operator-linebreak
+  45:26  error  There should be no line break before or after '+'  operator-linebreak
+  46:14  error  There should be no line break before or after '+'  operator-linebreak
+  47:22  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-05.js
+  50:72  error  There should be no line break before or after '+'  operator-linebreak
+  51:26  error  There should be no line break before or after '+'  operator-linebreak
+  52:28  error  There should be no line break before or after '+'  operator-linebreak
+  53:26  error  There should be no line break before or after '+'  operator-linebreak
+  54:14  error  There should be no line break before or after '+'  operator-linebreak
+  55:22  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-06.js
+  50:72  error  There should be no line break before or after '+'  operator-linebreak
+  51:31  error  There should be no line break before or after '+'  operator-linebreak
+  52:33  error  There should be no line break before or after '+'  operator-linebreak
+  53:30  error  There should be no line break before or after '+'  operator-linebreak
+  54:32  error  There should be no line break before or after '+'  operator-linebreak
+  55:30  error  There should be no line break before or after '+'  operator-linebreak
+  56:18  error  There should be no line break before or after '+'  operator-linebreak
+  57:23  error  There should be no line break before or after '+'  operator-linebreak
+  58:16  error  There should be no line break before or after '+'  operator-linebreak
+  59:21  error  There should be no line break before or after '+'  operator-linebreak
+  60:14  error  There should be no line break before or after '+'  operator-linebreak
+  61:22  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-07.js
+  50:72  error  There should be no line break before or after '+'  operator-linebreak
+  51:21  error  There should be no line break before or after '+'  operator-linebreak
+  52:14  error  There should be no line break before or after '+'  operator-linebreak
+  53:29  error  There should be no line break before or after '+'  operator-linebreak
+  54:26  error  There should be no line break before or after '+'  operator-linebreak
+  55:28  error  There should be no line break before or after '+'  operator-linebreak
+  56:26  error  There should be no line break before or after '+'  operator-linebreak
+  57:14  error  There should be no line break before or after '+'  operator-linebreak
+  58:22  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-08.js
+  50:102  error  There should be no line break before or after '+'  operator-linebreak
+  51:41   error  There should be no line break before or after '+'  operator-linebreak
+  52:43   error  There should be no line break before or after '+'  operator-linebreak
+  53:41   error  There should be no line break before or after '+'  operator-linebreak
+  59:95   error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-09.js
+  49:106  error  There should be no line break before or after '+'  operator-linebreak
+  50:41   error  There should be no line break before or after '+'  operator-linebreak
+  51:47   error  There should be no line break before or after '+'  operator-linebreak
+  52:44   error  There should be no line break before or after '+'  operator-linebreak
+  53:40   error  There should be no line break before or after '+'  operator-linebreak
+  54:29   error  There should be no line break before or after '+'  operator-linebreak
+  55:37   error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-10.js
+  66:95  error  There should be no line break before or after '+'  operator-linebreak
+  67:41  error  There should be no line break before or after '+'  operator-linebreak
+  68:54  error  There should be no line break before or after '+'  operator-linebreak
+  69:36  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-11.js
+  68:95  error  There should be no line break before or after '+'  operator-linebreak
+  69:74  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-12.js
+  37:102  error  There should be no line break before or after '+'  operator-linebreak
+  38:41   error  There should be no line break before or after '+'  operator-linebreak
+  39:43   error  There should be no line break before or after '+'  operator-linebreak
+  40:41   error  There should be no line break before or after '+'  operator-linebreak
+  41:29   error  There should be no line break before or after '+'  operator-linebreak
+  42:37   error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-13.js
+  77:102  error  There should be no line break before or after '+'  operator-linebreak
+  78:41   error  There should be no line break before or after '+'  operator-linebreak
+  79:29   error  There should be no line break before or after '+'  operator-linebreak
+  80:37   error  There should be no line break before or after '+'  operator-linebreak
+  81:34   error  There should be no line break before or after '+'  operator-linebreak
+  82:37   error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-14.js
+  74:102  error  There should be no line break before or after '+'  operator-linebreak
+  75:41   error  There should be no line break before or after '+'  operator-linebreak
+  76:29   error  There should be no line break before or after '+'  operator-linebreak
+  77:37   error  There should be no line break before or after '+'  operator-linebreak
+  78:34   error  There should be no line break before or after '+'  operator-linebreak
+  79:37   error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-15.js
+  71:6  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_breakpoint-19.js
+  19:8  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_conditional_breakpoint-01.js
+  60:35  error  There should be no line break before or after '+'  operator-linebreak
+  61:36  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_conditional_breakpoint-02.js
+  57:35  error  There should be no line break before or after '+'  operator-linebreak
+  58:36  error  There should be no line break before or after '+'  operator-linebreak
+  59:36  error  There should be no line break before or after '+'  operator-linebreak
+  60:28  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_conditional_breakpoint-03.js
+  55:35  error  There should be no line break before or after '+'  operator-linebreak
+  56:36  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-03.js
+  71:7  error  Parsing error: 'with' in strict mode
+
+  69 |       var a;
+  70 |       var r = number;
+> 71 |       with (Math) {
+     |       ^
+  72 |         a = PI * r * r;
+  73 |         debugger;
+  74 |       }
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-04.js
+  83:7  error  Parsing error: 'with' in strict mode
+
+  81 |       var a, obj = { one: 1, two: 2 };
+  82 |       var r = number;
+> 83 |       with (Math) {
+     |       ^
+  84 |         a = PI * r * r;
+  85 |         with (obj) {
+  86 |           var foo = two * PI;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_listsources-01.js
+  55:90  error  There should be no line break before or after '+'  operator-linebreak
+  56:35  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_logpoint-01.js
+  57:35  error  There should be no line break before or after '+'  operator-linebreak
+  58:42  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_logpoint-02.js
+  57:35  error  There should be no line break before or after '+'  operator-linebreak
+  58:36  error  There should be no line break before or after '+'  operator-linebreak
+  59:42  error  There should be no line break before or after '+'  operator-linebreak
+  60:32  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/css/lexer.js
+  1209:25  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/fronts/inspector/rule-rewriter.js
+  312:11  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/docshell/test/chrome/docshell_helpers.js
+  33:27  error  There should be no line break before or after '='  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/base/test/unit/test_xml_serializer.js
+  304:65  error  There should be no line break before or after '+'  operator-linebreak
+  305:52  error  There should be no line break before or after '+'  operator-linebreak
+  306:51  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_noopener.js
+  29:24  error  Parsing error: Unexpected reserved word 'private'
+
+  27 | const NOOPENER_NEWPROC_PREF = "dom.noopener.newprocess.enabled";
+  28 | 
+> 29 | async function doTests(private, container) {
+     |                        ^
+  30 |   let alwaysNewWindow = SpecialPowers.getIntPref(OPEN_NEWWINDOW_PREF) == OPEN_NEWWINDOW;
+  31 | 
+  32 |   let window = await BrowserTestUtils.openNewBrowserWindow({ private });
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/gfx/layers/apz/test/mochitest/apz_test_native_event_utils.js
+  134:6  error  There should be no line break before or after ':'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/intl/l10n/Fluent.jsm
+  946:12  error  There should be no line break before or after '?'  operator-linebreak
+  949:12  error  There should be no line break before or after ':'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/intl/l10n/FluentSyntax.jsm
+   577:38  error  There should be no line break before or after '||'  operator-linebreak
+   719:41  error  There should be no line break before or after '||'  operator-linebreak
+   720:40  error  There should be no line break before or after '||'  operator-linebreak
+   721:40  error  There should be no line break before or after '||'  operator-linebreak
+   741:11  error  There should be no line break before or after '||'  operator-linebreak
+   742:11  error  There should be no line break before or after '||'  operator-linebreak
+  1367:8   error  There should be no line break before or after '?'   operator-linebreak
+  1371:8   error  There should be no line break before or after ':'   operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Array.js
+  935:1  error  Parsing error: Unexpected character '#'
+
+  933 |         R = "";
+  934 |     } else {
+> 935 | #if EXPOSE_INTL_API
+      | ^
+  936 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  937 | #else
+  938 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/intl/CommonFunctions.js
+  7:1  error  Parsing error: Unexpected character '#'
+
+   5 | /* Portions Copyright Norbert Lindenberg 2011-2012. */
+   6 | 
+>  7 | #ifdef DEBUG
+     | ^
+   8 | #define assertIsValidAndCanonicalLanguageTag(locale, desc) \
+   9 |     do { \
+  10 |         let localeObj = parseLanguageTag(locale); \
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExp.js
+  590:1  error  Parsing error: Unexpected character '#'
+
+  588 | //   * global flag is true
+  589 | //   * replaceValue is a string without "$"
+> 590 | #define FUNC_NAME RegExpGlobalReplaceOpt
+      | ^
+  591 | #include "RegExpGlobalReplaceOpt.h.js"
+  592 | #undef FUNC_NAME
+  593 |
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpGlobalReplaceOpt.h.js
+  22:1  error  Parsing error: Unexpected character '#'
+
+  20 | //   * global flag is true
+  21 | function FUNC_NAME(rx, S, lengthS, replaceValue, flags
+> 22 | #ifdef SUBSTITUTION
+     | ^
+  23 |                    , firstDollarIndex
+  24 | #endif
+  25 | #ifdef ELEMBASE
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpLocalReplaceOpt.h.js
+  20:1  error  Parsing error: Unexpected character '#'
+
+  18 | //   * global flag is false
+  19 | function FUNC_NAME(rx, S, lengthS, replaceValue
+> 20 | #ifdef SUBSTITUTION
+     | ^
+  21 |                    , firstDollarIndex
+  22 | #endif
+  23 |                   )
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/String.js
+  795:1  error  Parsing error: Unexpected character '#'
+
+  793 |     var options = arguments.length > 3 ? arguments[3] : undefined;
+  794 | /* eslint-disable no-unreachable */
+> 795 | #if EXPOSE_INTL_API
+      | ^
+  796 |     return callFunction(String_localeCompare, str1, str2, locales, options);
+  797 | #else
+  798 |     return callFunction(std_String_localeCompare, str1, str2, locales, options);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedArray.js
+  1328:1  error  Parsing error: Unexpected character '#'
+
+  1326 |     // Omit the 'if' clause in step 6, since typed arrays can't have undefined
+  1327 |     // or null elements.
+> 1328 | #if EXPOSE_INTL_API
+       | ^
+  1329 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  1330 | #else
+  1331 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedObject.js
+  1:2  error  Parsing error: Unexpected character '#'
+
+> 1 | #include "TypedObjectConstants.h"
+    |  ^
+  2 | 
+  3 | ///////////////////////////////////////////////////////////////////////////
+  4 | // Getters and setters for various slots
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Utilities.js
+  25:1  error  Parsing error: Unexpected character '#'
+
+  23 | */
+  24 | 
+> 25 | #include "SelfHostingDefines.h"
+     | ^
+  26 | #include "TypedObjectConstants.h"
+  27 | 
+  28 | // Assertions and debug printing, defined here instead of in the header above
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/shell/ModuleLoader.js
+  57:1  error  Parsing error: Unexpected token
+
+  55 |         let isRelative = ReflectApply(StringPrototypeStartsWith, name, ["./"])
+  56 |                       || ReflectApply(StringPrototypeStartsWith, name, ["../"])
+> 57 | #ifdef XP_WIN
+     | ^
+  58 |                       || ReflectApply(StringPrototypeStartsWith, name, [".\\"])
+  59 |                       || ReflectApply(StringPrototypeStartsWith, name, ["..\\"])
+  60 | #endif
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/mobile/android/components/SessionStore.js
+  963:35  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/modules/libpref/test/unit_ipc/test_user_default_prefs.js
+  12:125  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/dns/mdns/libmdns/fallback/MulticastDNS.jsm
+  749:46  error  There should be no line break before or after '&&'  operator-linebreak
+  750:43  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/test/httpserver/httpd.js
+  790:40  error  There should be no line break before or after '+'  operator-linebreak
+  792:59  error  There should be no line break before or after '+'  operator-linebreak
+  794:66  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_cert_blocklist.js
+   66:15  error  There should be no line break before or after '+'  operator-linebreak
+   85:10  error  There should be no line break before or after '+'  operator-linebreak
+   99:10  error  There should be no line break before or after '+'  operator-linebreak
+  108:10  error  There should be no line break before or after '+'  operator-linebreak
+  126:10  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_certviewer_invalid_oids.js
+  38:60  error  There should be no line break before or after '+'  operator-linebreak
+  41:57  error  There should be no line break before or after '+'  operator-linebreak
+  44:57  error  There should be no line break before or after '+'  operator-linebreak
+  47:59  error  There should be no line break before or after '+'  operator-linebreak
+  50:59  error  There should be no line break before or after '+'  operator-linebreak
+  53:53  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/addons.js
+  771:154  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/util.js
+   80:88  error  There should be no line break before or after '+'   operator-linebreak
+   81:33  error  There should be no line break before or after '+'   operator-linebreak
+   82:43  error  There should be no line break before or after '+'   operator-linebreak
+  643:17  error  There should be no line break before or after '='   operator-linebreak
+  645:57  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/xpcshell/head.js
+  1150:8  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/antitracking/test/browser/browser_referrerDefaultPolicy.js
+  5:29  error  Parsing error: Unexpected reserved word 'private'
+
+  3 | /* import-globals-from ../../../../../browser/base/content/test/general/head.js */
+  4 | 
+> 5 | async function testOnWindow(private, expectedReferrer) {
+    |                             ^
+  6 |   info("Creating a new " + (private ? "private" : "normal") + " window");
+  7 |   let win = await BrowserTestUtils.openNewBrowserWindow({private});
+  8 |   let browser = win.gBrowser;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/ExtensionStorageSync.jsm
+  1055:110  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/osfile/modules/osfile_shared_allthreads.jsm
+  542:9  error  There should be no line break before or after '||'  operator-linebreak
+  543:9  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/InsecurePasswordUtils.jsm
+  77:81  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/LoginManagerParent.jsm
+  353:132  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_search_engine_alias.js
+  145:12  error  Parsing error: Unexpected reserved word 'private'
+
+  143 | 
+  144 |   // Search in both a non-private and private context.
+> 145 |   for (let private of [false, true]) {
+      |            ^
+  146 |     let searchParam = "enable-actions";
+  147 |     if (private) {
+  148 |       searchParam += " private-window";
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/processsingleton/CustomElementsListener.jsm
+  16:9  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/search/SearchService.jsm
+  1802:50  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/thumbnails/PageThumbs.jsm
+  391:21  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/tests/unit/test_hashcompleter.js
+  144:40  error  There should be no line break before or after '+'  operator-linebreak
+  145:25  error  There should be no line break before or after '+'  operator-linebreak
+  146:40  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/aboutTelemetry.js
+  1191:16  error  There should be no line break before or after '+'  operator-linebreak
+  1192:16  error  There should be no line break before or after '+'  operator-linebreak
+  1193:16  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/contentAreaUtils.js
+  409:10  error  There should be no line break before or after '?'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/Deprecated.jsm
+  68:140  error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/Http.jsm
+  36:57  error  There should be no line break before or after '|'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/PopupNotifications.jsm
+  241:124  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_GMPInstallManager.js
+  282:88   error  There should be no line break before or after '+'  operator-linebreak
+  284:309  error  There should be no line break before or after '+'  operator-linebreak
+  286:317  error  There should be no line break before or after '+'  operator-linebreak
+  288:320  error  There should be no line break before or after '+'  operator-linebreak
+  290:320  error  There should be no line break before or after '+'  operator-linebreak
+  292:320  error  There should be no line break before or after '+'  operator-linebreak
+  294:320  error  There should be no line break before or after '+'  operator-linebreak
+  431:88   error  There should be no line break before or after '+'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_Services.js
+  10:32  error  Parsing error: Unexpected reserved word 'interface'
+
+   8 | // Globals
+   9 | 
+> 10 | function checkService(service, interface) {
+     |                                ^
+  11 |   info("Checking that Services." + service + " is an " + interface);
+  12 |   Assert.ok(service in Services);
+  13 |   Assert.ok(Services[service] instanceof interface);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/internal/LightweightThemePersister.jsm
+  113:123  error  There should be no line break before or after '||'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/internal/XPIDatabase.jsm
+  1786:133  error  There should be no line break before or after '&&'  operator-linebreak
+  1789:40   error  There should be no line break before or after '&&'  operator-linebreak
+  1793:102  error  There should be no line break before or after '&&'  operator-linebreak
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/lib/rules/reject-importGlobalProperties.js
+  37:51  error  There should be no line break before or after '&&'  operator-linebreak
+
+✖ 408 problems (408 errors, 0 warnings)
+

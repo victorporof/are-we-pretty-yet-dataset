@@ -1,0 +1,1273 @@
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/tests/browser/e10s/browser_treeupdate_ariaowns.js
+   34:5  error  There should be no linebreak before ']'  array-bracket-newline
+   61:5  error  There should be no linebreak before ']'  array-bracket-newline
+   78:5  error  There should be no linebreak before ']'  array-bracket-newline
+  100:5  error  There should be no linebreak before ']'  array-bracket-newline
+  116:5  error  There should be no linebreak before ']'  array-bracket-newline
+  129:5  error  There should be no linebreak before ']'  array-bracket-newline
+  143:5  error  There should be no linebreak before ']'  array-bracket-newline
+  154:5  error  There should be no linebreak before ']'  array-bracket-newline
+  188:5  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/tests/browser/e10s/browser_treeupdate_cssoverflow.js
+  51:14  error  There should be no linebreak after '['   array-bracket-newline
+  53:5   error  There should be no linebreak before ']'  array-bracket-newline
+  62:14  error  There should be no linebreak after '['   array-bracket-newline
+  64:5   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/tests/browser/e10s/browser_treeupdate_gencontent.js
+  52:16  error  There should be no linebreak after '['   array-bracket-newline
+  53:20  error  There should be no linebreak after '['   array-bracket-newline
+  57:9   error  There should be no linebreak before ']'  array-bracket-newline
+  67:16  error  There should be no linebreak after '['   array-bracket-newline
+  68:20  error  There should be no linebreak after '['   array-bracket-newline
+  72:9   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/tests/browser/e10s/browser_treeupdate_visibility.js
+  23:14  error  There should be no linebreak after '['  array-bracket-newline
+  24:18  error  There should be no linebreak after '['  array-bracket-newline
+  25:20  error  There should be no linebreak after '['  array-bracket-newline
+  27:18  error  There should be no linebreak after '['  array-bracket-newline
+  28:20  error  There should be no linebreak after '['  array-bracket-newline
+  42:14  error  There should be no linebreak after '['  array-bracket-newline
+  43:18  error  There should be no linebreak after '['  array-bracket-newline
+  45:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/browser-contentblocking.js
+  446:24  error  There should be no linebreak after '['   array-bracket-newline
+  451:3   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/captivePortal/browser_CaptivePortalWatcher_1.js
+  5:17  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/captivePortal/browser_CaptivePortalWatcher.js
+  12:39  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/favicons/browser_icon_discovery.js
+  22:12  error  There should be no linebreak after '['  array-bracket-newline
+  54:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/general/browser_e10s_chrome_process.js
+  106:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/general/browser_offlineQuotaNotification.js
+  43:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_startup_content.js
+  63:25  error  There should be no linebreak after '['  array-bracket-newline
+  97:27  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_startup.js
+  39:5   error  There should be no linebreak before ']'  array-bracket-newline
+  75:22  error  There should be no linebreak after '['   array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_urlbar_keyed_search_legacy.js
+  38:5  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_urlbar_keyed_search.js
+  16:37  error  There should be no linebreak after '['   array-bracket-newline
+  44:5   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_urlbar_search_legacy.js
+  39:5  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/performance/browser_urlbar_search.js
+  40:5   error  There should be no linebreak before ']'  array-bracket-newline
+  44:38  error  There should be no linebreak after '['   array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_2.js
+  14:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_3.js
+  15:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_4.js
+  14:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_5.js
+  16:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_accesskey.js
+  20:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_checkbox.js
+  37:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_keyboard.js
+  15:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_learnmore.js
+  14:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_no_anchors.js
+  14:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_selection_required.js
+  24:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/referrer/head.js
+  25:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/static/browser_all_files_referenced.js
+   58:17  error  There should be no linebreak after '['  array-bracket-newline
+  187:36  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/static/browser_parsable_css.js
+   12:17  error  There should be no linebreak after '['  array-bracket-newline
+  105:25  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/sync/browser_contextmenu_sendpage.js
+  9:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/sync/browser_contextmenu_sendtab.js
+  13:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webextensions/browser_extension_update_background_noprompt.js
+  20:41  error  There should be no linebreak after '['  array-bracket-newline
+  41:41  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webextensions/browser_extension_update_background.js
+   41:41  error  There should be no linebreak after '['  array-bracket-newline
+   63:41  error  There should be no linebreak after '['  array-bracket-newline
+  190:74  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webextensions/browser_update_interactive_noprompt.js
+  4:41  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webextensions/head.js
+  384:41  error  There should be no linebreak after '['  array-bracket-newline
+  481:70  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/attribution/test/xpcshell/test_AttributionCode.js
+  29:24  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/contextualidentity/test/browser/browser_aboutURLs.js
+  11:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/enterprisepolicies/Policies.jsm
+  158:20  error  There should be no linebreak after '['  array-bracket-newline
+  164:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/enterprisepolicies/tests/browser/browser_policies_simple_pref_policies.js
+  17:24  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/ExtensionPopups.jsm
+  516:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_browserAction_pageAction_icon.js
+  32:23  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_commands_onCommand.js
+  8:24  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_contextMenus_targetUrlPatterns.js
+  13:26  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_devtools_inspectedWindow.js
+  173:25  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_menus_errors.js
+  12:40  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_tabs_cookieStoreId.js
+  13:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_tabs_executeScript_runAt.js
+  54:40  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_tabs_removeCSS.js
+  9:17  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_windows_create_cookieStoreId.js
+  112:34  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/extensions/test/browser/browser_ext_windows_create_tabId.js
+  107:38  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/360seProfileMigrator.jsm
+  182:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/IEProfileMigrator.jsm
+  234:56  error  There should be no linebreak after '['  array-bracket-newline
+  252:56  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/MSMigrationUtils.jsm
+  139:82  error  There should be no linebreak after '['  array-bracket-newline
+  153:72  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/tests/unit/test_IE7_passwords.js
+  109:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/payments/res/components/address-option.js
+  88:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/payments/res/components/basic-card-option.js
+  63:5  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/payments/res/containers/address-picker.js
+  51:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/places/tests/browser/browser_bookmark_titles.js
+  7:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/connection.js
+  12:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/main.js
+  74:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/privacy.js
+   49:20  error  There should be no linebreak after '['  array-bracket-newline
+  129:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_browser_languages_subdialog.js
+  553:27  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_connection_dnsoverhttps.js
+  137:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_contentblocking.js
+  72:7  error  Parsing error: Unexpected reserved word 'private'
+
+  70 |   let menu = doc.querySelector("#trackingProtectionMenu");
+  71 |   let always = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=always]");
+> 72 |   let private = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=private]");
+     |       ^
+  73 |   menu.selectedItem = always;
+  74 |   ok(!private.selected, "The Only in private windows item should not be selected");
+  75 |   ok(always.selected, "The Always item should be selected");
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_hometab_restore_defaults.js
+   4:41  error  There should be no linebreak after '['  array-bracket-newline
+  45:41  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/privatebrowsing/test/browser/browser_privatebrowsing_windowtitle.js
+  67:20  error  Parsing error: Unexpected reserved word 'private'
+
+  65 |   }
+  66 | 
+> 67 |   function openWin(private) {
+     |                    ^
+  68 |     return BrowserTestUtils.openNewBrowserWindow({ private });
+  69 |   }
+  70 |   await testTabTitle((await openWin(false)), "about:blank", false, page_without_title);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/search/test/browser/browser_searchEngine_behaviors.js
+  64:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/SessionStore.jsm
+   61:18  error  There should be no linebreak after '['  array-bracket-newline
+   90:32  error  There should be no linebreak after '['  array-bracket-newline
+  102:34  error  There should be no linebreak after '['  array-bracket-newline
+  112:33  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_354894_perwindowpb.js
+  140:7  error  Parsing error: Unexpected reserved word 'private'
+
+  138 |   }
+  139 | 
+> 140 |   let private = options.private || false;
+      |       ^
+  141 |   let newWin = await promiseNewWindowLoaded({ private });
+  142 | 
+  143 |   await injectTestTabs(newWin);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_394759_purge.js
+  39:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_491577.js
+  11:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_607016.js
+  21:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_662743.js
+  16:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_formdata_cc.js
+  14:26  error  There should be no linebreak after '['  array-bracket-newline
+  28:28  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_remoteness_flip_on_restore.js
+  164:26  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_tabs_in_urlbar.js
+  17:41  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/translation/test/unit/test_cld2.js
+  259:20  error  There should be no linebreak after '['   array-bracket-newline
+  374:1   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/uitour/UITour.jsm
+  1382:38  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/tests/browser/browser_urlbarCopying.js
+  32:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/urlbar/UrlbarPrefs.jsm
+  27:38  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/content/autofillEditForms.js
+  278:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/FormAutofillHeuristics.jsm
+   981:25  error  There should be no linebreak after '['   array-bracket-newline
+  1081:3   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/FormAutofillNameUtils.jsm
+   84:35  error  There should be no linebreak after '['   array-bracket-newline
+  163:3   error  There should be no linebreak before ']'  array-bracket-newline
+  168:3   error  There should be no linebreak before ']'  array-bracket-newline
+  187:3   error  There should be no linebreak before ']'  array-bracket-newline
+  194:3   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/FormAutofillUtils.jsm
+  282:5  error  There should be no linebreak before ']'  array-bracket-newline
+  808:9  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/ProfileAutoCompleteResult.jsm
+  222:5  error  There should be no linebreak before ']'  array-bracket-newline
+  256:7  error  There should be no linebreak before ']'  array-bracket-newline
+  309:5  error  There should be no linebreak before ']'  array-bracket-newline
+  352:7  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/test_multiple_section.js
+  17:9  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_BestBuy.js
+  14:8   error  There should be no linebreak after '['  array-bracket-newline
+  16:8   error  There should be no linebreak after '['  array-bracket-newline
+  22:8   error  There should be no linebreak after '['  array-bracket-newline
+  30:8   error  There should be no linebreak after '['  array-bracket-newline
+  36:23  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_CDW.js
+  28:94  error  There should be no linebreak after '['   array-bracket-newline
+  34:7   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_CostCo.js
+  38:23  error  There should be no linebreak after '['   array-bracket-newline
+  45:7   error  There should be no linebreak before ']'  array-bracket-newline
+  47:7   error  There should be no linebreak before ']'  array-bracket-newline
+  83:8   error  There should be no linebreak after '['   array-bracket-newline
+  88:7   error  There should be no linebreak before ']'  array-bracket-newline
+  89:8   error  There should be no linebreak after '['   array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_HomeDepot.js
+  12:96  error  There should be no linebreak after '['   array-bracket-newline
+  24:9   error  There should be no linebreak before ']'  array-bracket-newline
+  25:9   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_Macys.js
+  26:88  error  There should be no linebreak after '['   array-bracket-newline
+  33:7   error  There should be no linebreak before ']'  array-bracket-newline
+  37:23  error  There should be no linebreak after '['   array-bracket-newline
+  40:7   error  There should be no linebreak before ']'  array-bracket-newline
+  41:8   error  There should be no linebreak after '['   array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_NewEgg.js
+  22:7  error  There should be no linebreak before ']'  array-bracket-newline
+  33:7  error  There should be no linebreak before ']'  array-bracket-newline
+  41:7  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_OfficeDepot.js
+  46:22  error  There should be no linebreak after '['   array-bracket-newline
+  48:7   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_QVC.js
+   7:23  error  There should be no linebreak after '['   array-bracket-newline
+  13:7   error  There should be no linebreak before ']'  array-bracket-newline
+  13:10  error  There should be no linebreak after '['   array-bracket-newline
+  18:7   error  There should be no linebreak before ']'  array-bracket-newline
+  22:23  error  There should be no linebreak after '['   array-bracket-newline
+  28:7   error  There should be no linebreak before ']'  array-bracket-newline
+  28:10  error  There should be no linebreak after '['   array-bracket-newline
+  33:7   error  There should be no linebreak before ']'  array-bracket-newline
+  34:7   error  There should be no linebreak before ']'  array-bracket-newline
+  39:8   error  There should be no linebreak after '['   array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_Sears.js
+   9:7   error  There should be no linebreak after '['   array-bracket-newline
+  11:7   error  There should be no linebreak before ']'  array-bracket-newline
+  12:7   error  There should be no linebreak after '['   array-bracket-newline
+  25:7   error  There should be no linebreak before ']'  array-bracket-newline
+  26:7   error  There should be no linebreak after '['   array-bracket-newline
+  40:7   error  There should be no linebreak before ']'  array-bracket-newline
+  41:7   error  There should be no linebreak after '['   array-bracket-newline
+  43:7   error  There should be no linebreak before ']'  array-bracket-newline
+  44:7   error  There should be no linebreak after '['   array-bracket-newline
+  46:7   error  There should be no linebreak before ']'  array-bracket-newline
+  51:8   error  There should be no linebreak after '['   array-bracket-newline
+  58:8   error  There should be no linebreak after '['   array-bracket-newline
+  68:8   error  There should be no linebreak after '['   array-bracket-newline
+  79:7   error  There should be no linebreak before ']'  array-bracket-newline
+  79:10  error  There should be no linebreak after '['   array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_Staples.js
+   7:22  error  There should be no linebreak after '['   array-bracket-newline
+  15:7   error  There should be no linebreak before ']'  array-bracket-newline
+  30:7   error  There should be no linebreak before ']'  array-bracket-newline
+  36:7   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/heuristics/third_party/test_Walmart.js
+  11:7  error  There should be no linebreak before ']'  array-bracket-newline
+  17:7  error  There should be no linebreak before ']'  array-bracket-newline
+  27:9  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/test_autofillFormFields.js
+  296:31  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/test_sync.js
+  501:47  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/test/unit/test_transformFields.js
+   14:35  error  There should be no linebreak after '['  array-bracket-newline
+  193:37  error  There should be no linebreak after '['  array-bracket-newline
+  524:39  error  There should be no linebreak after '['  array-bracket-newline
+  592:41  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/BrowserUsageTelemetry.jsm
+  57:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/PageActions.jsm
+    14:1   error  There should be no linebreak before ']'  array-bracket-newline
+  1090:23  error  There should be no linebreak after '['   array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/test/browser/browser_UsageTelemetry_content.js
+  27:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/test/browser/browser_UsageTelemetry_urlbar_extension.js
+  61:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/test/browser/browser_UsageTelemetry_urlbar_places.js
+  69:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/test/browser/browser_UsageTelemetry_urlbar_remotetab.js
+  63:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/webrtcUI.jsm
+  441:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/WindowsJumpLists.jsm
+  86:16  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/caps/tests/mochitest/browser_checkloaduri.js
+  40:50  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/chrome/test/unit/test_no_remote_registration.js
+  35:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging-new/src/components/connect/ConnectPage.js
+  197:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_addons_debug_popup.js
+  193:25  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_real_usb_runtime_page_runtime_info.js
+  31:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging/test/browser_addons_debug_webextension_popup.js
+  187:30  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/aboutdebugging/test/head.js
+  346:29  error  There should be no linebreak after '['  array-bracket-newline
+  397:28  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/accessibility/accessibility-startup.js
+  89:9  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/framework/gDevTools.jsm
+   47:26  error  There should be no linebreak after '['  array-bracket-newline
+  104:33  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/animation/actions/index.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/boxmodel/actions/index.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/changes/actions/index.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/changes/test/browser_changes_declaration_edit_value.js
+  25:33  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/computed/computed.js
+  1260:29  error  There should be no linebreak after '['   array-bracket-newline
+  1262:1   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/extensions/actions/index.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/flexbox/actions/index.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/fonts/actions/index.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/grids/actions/index.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/markup.js
+  736:31  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/test/browser_markup_events_01.js
+  15:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/test/browser_markup_events_02.js
+  15:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/test/browser_markup_events_03.js
+  15:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/test/browser_markup_events_04.js
+  15:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/test/browser_markup_events_object_listener.js
+  16:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/actions/index.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/test/browser_rules_highlight-used-fonts.js
+  69:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/rules/test/browser_rules_mark_overridden_07.js
+  47:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/test/browser_inspector_search-01.js
+  58:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/memory/components/tree-map/draw.js
+  86:11  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/test/browser_net_cause_redirect.js
+  12:29  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/test/browser_net_filter-01.js
+  33:83  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/test/browser_net_filter-02.js
+  21:83  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/test/browser_net_filter-04.js
+  21:83  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/webpack.config.js
+  27:18  error  There should be no linebreak after '['  array-bracket-newline
+  59:14  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_jit-graph-data.js
+  88:23  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_perf-utils-allocations-to-samples.js
+  63:5  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_tree-model-08.js
+  65:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_tree-model-10.js
+  37:3  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/test/unit/test_tree-model-11.js
+  24:3  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/responsive.html/actions/index.js
+  17:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/responsive.html/browser/tunnel.js
+   46:40  error  There should be no linebreak after '['  array-bracket-newline
+  394:28  error  There should be no linebreak after '['  array-bracket-newline
+  413:28  error  There should be no linebreak after '['  array-bracket-newline
+  444:36  error  There should be no linebreak after '['  array-bracket-newline
+  466:36  error  There should be no linebreak after '['  array-bracket-newline
+  486:33  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/inplace-editor.js
+  1679:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/node-attribute-parser.js
+  133:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/sourceeditor/test/browser_editor_find_again.js
+  169:23  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/sourceeditor/test/browser_editor_goto_line.js
+  31:23  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/test/unit/test_parseDeclarations.js
+  16:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/test/unit/test_parsePseudoClassesAndAttributes.js
+  16:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/test/unit/test_unicode-url.js
+   15:19  error  There should be no linebreak after '['  array-bracket-newline
+  135:24  error  There should be no linebreak after '['  array-bracket-newline
+  162:24  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/storage/test/browser_storage_cookies_delete_all.js
+   74:20  error  There should be no linebreak after '['  array-bracket-newline
+   98:20  error  There should be no linebreak after '['  array-bracket-newline
+  115:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/storage/test/browser_storage_delete_all.js
+  62:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/storage/test/browser_storage_search.js
+  17:21  error  There should be no linebreak after '['  array-bracket-newline
+  73:32  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/components/GripMessageBody.js
+  91:31  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/test/mochitest/browser_jsterm_await_paused.js
+  67:28  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/test/store/filters.test.js
+  362:28  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webconsole/test/store/hidden-messages.test.js
+  142:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/inspector/walker.js
+  872:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/utils/event-breakpoints.js
+  56:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/browser/browser_storage_updates.js
+  7:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_frameactor-04.js
+  32:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-03.js
+  71:7  error  Parsing error: 'with' in strict mode
+
+  69 |       var a;
+  70 |       var r = number;
+> 71 |       with (Math) {
+     |       ^
+  72 |         a = PI * r * r;
+  73 |         debugger;
+  74 |       }
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-04.js
+  83:7  error  Parsing error: 'with' in strict mode
+
+  81 |       var a, obj = { one: 1, two: 2 };
+  82 |       var r = number;
+> 83 |       with (Math) {
+     |       ^
+  84 |         a = PI * r * r;
+  85 |         with (obj) {
+  86 |           var foo = two * PI;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/css/lexer.js
+  204:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/heapsnapshot/tests/unit/test_getCensusIndividuals_01.js
+  29:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/plural-form.js
+  48:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/startup/DevToolsStartup.jsm
+  72:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/base/test/unit/test_js_dev_error_interceptor.js
+  9:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/cache/test/mochitest/test_caches.js
+  31:15  error  There should be no linebreak after '['  array-bracket-newline
+  59:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/helpers.js
+  84:7  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_cursor_mutation.js
+  10:27  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_defaultStorageUpgrade.js
+  15:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_idbSubdirUpgrade.js
+  10:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_metadata2Restore.js
+  15:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_metadataRestore.js
+  15:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_open_empty_db.js
+  10:17  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_schema23upgrade.js
+  10:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/indexedDB/test/unit/test_storagePersistentUpgrade.js
+  10:22  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/localstorage/test/unit/test_snapshotting.js
+  32:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/manifest/ManifestFinder.jsm
+  61:24  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/manifest/test/browser_ManifestObtainer_obtain.js
+  10:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_largeAllocation_non_win32.js
+   9:10  error  There should be no linebreak after '['  array-bracket-newline
+  26:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_largeAllocation_win32.js
+  7:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_localStorage_e10s.js
+  250:10  error  There should be no linebreak after '['  array-bracket-newline
+  301:33  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_localStorage_snapshotting_e10s.js
+   95:10  error  There should be no linebreak after '['   array-bracket-newline
+  148:3   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_noopener.js
+  29:24  error  Parsing error: Unexpected reserved word 'private'
+
+  27 | const NOOPENER_NEWPROC_PREF = "dom.noopener.newprocess.enabled";
+  28 | 
+> 29 | async function doTests(private, container) {
+     |                        ^
+  30 |   let alwaysNewWindow = SpecialPowers.getIntPref(OPEN_NEWWINDOW_PREF) == OPEN_NEWWINDOW;
+  31 | 
+  32 |   let window = await BrowserTestUtils.openNewBrowserWindow({ private });
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/helper_largeAllocation.js
+  61:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/gfx/layers/apz/test/mochitest/apz_test_utils.js
+  734:14  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Array.js
+  935:1  error  Parsing error: Unexpected character '#'
+
+  933 |         R = "";
+  934 |     } else {
+> 935 | #if EXPOSE_INTL_API
+      | ^
+  936 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  937 | #else
+  938 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/intl/CommonFunctions.js
+  7:1  error  Parsing error: Unexpected character '#'
+
+   5 | /* Portions Copyright Norbert Lindenberg 2011-2012. */
+   6 | 
+>  7 | #ifdef DEBUG
+     | ^
+   8 | #define assertIsValidAndCanonicalLanguageTag(locale, desc) \
+   9 |     do { \
+  10 |         let localeObj = parseLanguageTag(locale); \
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExp.js
+  590:1  error  Parsing error: Unexpected character '#'
+
+  588 | //   * global flag is true
+  589 | //   * replaceValue is a string without "$"
+> 590 | #define FUNC_NAME RegExpGlobalReplaceOpt
+      | ^
+  591 | #include "RegExpGlobalReplaceOpt.h.js"
+  592 | #undef FUNC_NAME
+  593 |
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpGlobalReplaceOpt.h.js
+  22:1  error  Parsing error: Unexpected character '#'
+
+  20 | //   * global flag is true
+  21 | function FUNC_NAME(rx, S, lengthS, replaceValue, flags
+> 22 | #ifdef SUBSTITUTION
+     | ^
+  23 |                    , firstDollarIndex
+  24 | #endif
+  25 | #ifdef ELEMBASE
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpLocalReplaceOpt.h.js
+  20:1  error  Parsing error: Unexpected character '#'
+
+  18 | //   * global flag is false
+  19 | function FUNC_NAME(rx, S, lengthS, replaceValue
+> 20 | #ifdef SUBSTITUTION
+     | ^
+  21 |                    , firstDollarIndex
+  22 | #endif
+  23 |                   )
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/String.js
+  795:1  error  Parsing error: Unexpected character '#'
+
+  793 |     var options = arguments.length > 3 ? arguments[3] : undefined;
+  794 | /* eslint-disable no-unreachable */
+> 795 | #if EXPOSE_INTL_API
+      | ^
+  796 |     return callFunction(String_localeCompare, str1, str2, locales, options);
+  797 | #else
+  798 |     return callFunction(std_String_localeCompare, str1, str2, locales, options);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedArray.js
+  1328:1  error  Parsing error: Unexpected character '#'
+
+  1326 |     // Omit the 'if' clause in step 6, since typed arrays can't have undefined
+  1327 |     // or null elements.
+> 1328 | #if EXPOSE_INTL_API
+       | ^
+  1329 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  1330 | #else
+  1331 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedObject.js
+  1:2  error  Parsing error: Unexpected character '#'
+
+> 1 | #include "TypedObjectConstants.h"
+    |  ^
+  2 | 
+  3 | ///////////////////////////////////////////////////////////////////////////
+  4 | // Getters and setters for various slots
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Utilities.js
+  25:1  error  Parsing error: Unexpected character '#'
+
+  23 | */
+  24 | 
+> 25 | #include "SelfHostingDefines.h"
+     | ^
+  26 | #include "TypedObjectConstants.h"
+  27 | 
+  28 | // Assertions and debug printing, defined here instead of in the header above
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/shell/ModuleLoader.js
+  57:1  error  Parsing error: Unexpected token
+
+  55 |         let isRelative = ReflectApply(StringPrototypeStartsWith, name, ["./"])
+  56 |                       || ReflectApply(StringPrototypeStartsWith, name, ["../"])
+> 57 | #ifdef XP_WIN
+     | ^
+  58 |                       || ReflectApply(StringPrototypeStartsWith, name, [".\\"])
+  59 |                       || ReflectApply(StringPrototypeStartsWith, name, ["..\\"])
+  60 | #endif
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/mobile/android/chrome/content/aboutLogins.js
+  425:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/mobile/android/components/BrowserCLH.js
+  68:15  error  There should be no linebreak after '['   array-bracket-newline
+  79:11  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/mobile/android/modules/FxAccountsWebChannel.jsm
+  244:30  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/dns/mdns/libmdns/fallback/DNSPacket.jsm
+  28:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/test/httpserver/test/test_registerdirectory.js
+  48:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_certDB_import_pkcs12.js
+  24:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_constructX509FromBase64.js
+  43:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_content_signing.js
+  226:24  error  There should be no linebreak after '['  array-bracket-newline
+  251:19  error  There should be no linebreak after '['  array-bracket-newline
+  257:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_hmac.js
+  68:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sdr_preexisting_with_password.js
+  63:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sdr_preexisting.js
+  184:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sdr_upgraded_with_password.js
+  75:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sdr.js
+  35:3  error  There should be no linebreak before ']'  array-bracket-newline
+  93:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_signed_apps.js
+  126:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/test_sss_readstate_garbage.js
+  92:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/common/tests/unit/test_hawkrequest.js
+   43:3  error  There should be no linebreak before ']'  array-bracket-newline
+  149:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/crypto/modules/jwcrypto.jsm
+  288:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/crypto/tests/unit/test_crypto_service.js
+  12:30  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/fxaccounts/FxAccounts.jsm
+  339:33  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/passwords.js
+  15:31  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/tps/test_addon_wipe.js
+  30:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_addons_store.js
+  398:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_bookmark_duping.js
+  551:20  error  There should be no linebreak after '['  array-bracket-newline
+  597:16  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_bookmark_repair_responder.js
+  338:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/storage/test/unit/test_statement_wrapper_automatically.js
+  146:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/storage/test/unit/test_vacuum.js
+  300:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/taskcluster/docker/periodic-updates/scripts/getHSTSPreloadList.js
+  298:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/capabilities.js
+  390:11  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/components/marionette.js
+  62:35  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/test/unit/test_action.js
+  595:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/talos/talos/tests/devtools/addon/content/damp-tests.js
+  128:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/talos/talos/tests/tart/addon/content/tart.js
+  470:13  error  There should be no linebreak after '['  array-bracket-newline
+  477:16  error  There should be no linebreak after '['  array-bracket-newline
+  600:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/antitracking/test/browser/browser_referrerDefaultPolicy.js
+  5:29  error  Parsing error: Unexpected reserved word 'private'
+
+  3 | /* import-globals-from ../../../../../browser/base/content/test/general/head.js */
+  4 | 
+> 5 | async function testOnWindow(private, expectedReferrer) {
+    |                             ^
+  6 |   info("Creating a new " + (private ? "private" : "normal") + " window");
+  7 |   let win = await BrowserTestUtils.openNewBrowserWindow({private});
+  8 |   let browser = win.gBrowser;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/asyncshutdown/nsAsyncShutdown.jsm
+  213:4  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/asyncshutdown/tests/xpcshell/test_converters.js
+  30:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/crashes/tests/xpcshell/test_crash_manager.js
+  495:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/downloads/test/unit/test_DownloadHistory.js
+  111:23  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/parent/ext-cookies.js
+  15:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_background_runtime_connect_params.js
+  32:34  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_contentScripts_register.js
+  295:29  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_permission_warnings.js
+  121:23  error  There should be no linebreak after '['  array-bracket-newline
+  134:23  error  There should be no linebreak after '['  array-bracket-newline
+  172:57  error  There should be no linebreak after '['  array-bracket-newline
+  257:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_runtime_sendMessage_errors.js
+  9:21  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_storage_sync_crypto.js
+  75:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_userScripts.js
+  486:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/mediasniffer/test/unit/test_mediasniffer_ext.js
+  19:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/mediasniffer/test/unit/test_mediasniffer.js
+  18:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/mozintl/mozIntl.jsm
+  337:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/normandy/test/browser/browser_actions_PreferenceRolloutAction.js
+  97:36  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/normandy/test/browser/browser_RecipeRunner.js
+  336:5  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/osfile/modules/osfile_shared_allthreads.jsm
+  63:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/osfile/tests/xpcshell/test_file_URL_conversion.js
+  68:3  error  There should be no linebreak before ']'  array-bracket-newline
+  78:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/LoginTestUtils.jsm
+  133:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/unit/test_dedupeLogins.js
+  47:5  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/test/unit/test_isOriginMatching.js
+  8:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/PlacesDBUtils.jsm
+  209:29  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/history/test_async_history_api.js
+  997:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/migration/test_current_from_v43.js
+  9:41  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_abstime-annotation-domain.js
+  45:16  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_abstime-annotation-uri.js
+  44:16  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_onlyBookmarked.js
+  19:16  error  There should be no linebreak after '['  array-bracket-newline
+  69:28  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_querySerialization.js
+   78:23  error  There should be no linebreak after '['  array-bracket-newline
+  307:29  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_redirects.js
+  205:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_searchterms-domain.js
+  10:17  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_searchterms-uri.js
+  10:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/queries/test_sort-date-site-grouping.js
+  66:23  error  There should be no linebreak after '['   array-bracket-newline
+  73:25  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/sync/test_bookmark_observer_recorder.js
+  169:75  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/sync/test_sync_utils.js
+   442:5   error  There should be no linebreak before ']'  array-bracket-newline
+   473:5   error  There should be no linebreak before ']'  array-bracket-newline
+   498:5   error  There should be no linebreak before ']'  array-bracket-newline
+  2210:42  error  There should be no linebreak after '['   array-bracket-newline
+  2228:27  error  There should be no linebreak after '['   array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_adaptive.js
+  154:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_preloaded_sites.js
+  127:3  error  There should be no linebreak after '['  array-bracket-newline
+  135:5  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_search_engine_alias.js
+  145:12  error  Parsing error: Unexpected reserved word 'private'
+
+  143 | 
+  144 |   // Search in both a non-private and private context.
+> 145 |   for (let private of [false, true]) {
+      |            ^
+  146 |     let searchParam = "enable-actions";
+  147 |     if (private) {
+  148 |       searchParam += " private-window";
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unit/test_frecency.js
+  148:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unit/test_import_mobile_bookmarks.js
+  80:17  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/tests/unit/test_TelemetryEvents.js
+  490:14  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/tests/unit/test_UntrustedModulesPing.js
+  48:25  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/thumbnails/test/browser_thumbnails_privacy.js
+  13:18  error  There should be no linebreak after '['  array-bracket-newline
+  25:18  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/tooltiptext/tests/browser_bug581947.js
+  63:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/tests/mochitest/features.js
+  1:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/tests/unit/test_addsub.js
+  422:9  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/tests/unit/test_listmanager.js
+   5:30  error  There should be no linebreak after '['  array-bracket-newline
+  94:40  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/aboutTelemetry.js
+  159:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/tests/browser/browser_datetime_datepicker.js
+  205:43  error  There should be no linebreak after '['  array-bracket-newline
+  230:43  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/tests/chrome/file_autocomplete_with_composition.js
+  83:11  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/tests/widgets/tree_shared.js
+  941:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/forgetaboutsite/test/unit/test_removeDataFromDomain.js
+  471:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/AsyncPrefs.jsm
+  13:31  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/CharsetMenu.jsm
+  30:28  error  There should be no linebreak after '['   array-bracket-newline
+  81:1   error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/subprocess/subprocess_shared_unix.js
+   52:3  error  There should be no linebreak before ']'  array-bracket-newline
+   57:3  error  There should be no linebreak before ']'  array-bracket-newline
+   64:3  error  There should be no linebreak before ']'  array-bracket-newline
+   70:3  error  There should be no linebreak before ']'  array-bracket-newline
+   76:3  error  There should be no linebreak before ']'  array-bracket-newline
+   81:3  error  There should be no linebreak before ']'  array-bracket-newline
+   88:3  error  There should be no linebreak before ']'  array-bracket-newline
+   98:3  error  There should be no linebreak before ']'  array-bracket-newline
+  104:3  error  There should be no linebreak before ']'  array-bracket-newline
+  111:3  error  There should be no linebreak before ']'  array-bracket-newline
+  116:3  error  There should be no linebreak before ']'  array-bracket-newline
+  121:3  error  There should be no linebreak before ']'  array-bracket-newline
+  128:3  error  There should be no linebreak before ']'  array-bracket-newline
+  135:3  error  There should be no linebreak before ']'  array-bracket-newline
+  142:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/subprocess/subprocess_shared_win.js
+  194:3  error  There should be no linebreak before ']'  array-bracket-newline
+  199:3  error  There should be no linebreak before ']'  array-bracket-newline
+  207:3  error  There should be no linebreak before ']'  array-bracket-newline
+  218:3  error  There should be no linebreak before ']'  array-bracket-newline
+  224:3  error  There should be no linebreak before ']'  array-bracket-newline
+  236:3  error  There should be no linebreak before ']'  array-bracket-newline
+  244:3  error  There should be no linebreak before ']'  array-bracket-newline
+  258:3  error  There should be no linebreak before ']'  array-bracket-newline
+  266:3  error  There should be no linebreak before ']'  array-bracket-newline
+  271:3  error  There should be no linebreak before ']'  array-bracket-newline
+  282:3  error  There should be no linebreak before ']'  array-bracket-newline
+  287:3  error  There should be no linebreak before ']'  array-bracket-newline
+  302:3  error  There should be no linebreak before ']'  array-bracket-newline
+  310:3  error  There should be no linebreak before ']'  array-bracket-newline
+  315:3  error  There should be no linebreak before ']'  array-bracket-newline
+  323:3  error  There should be no linebreak before ']'  array-bracket-newline
+  332:3  error  There should be no linebreak before ']'  array-bracket-newline
+  339:3  error  There should be no linebreak before ']'  array-bracket-newline
+  344:3  error  There should be no linebreak before ']'  array-bracket-newline
+  352:3  error  There should be no linebreak before ']'  array-bracket-newline
+  358:3  error  There should be no linebreak before ']'  array-bracket-newline
+  364:3  error  There should be no linebreak before ']'  array-bracket-newline
+  375:3  error  There should be no linebreak before ']'  array-bracket-newline
+  383:3  error  There should be no linebreak before ']'  array-bracket-newline
+  390:3  error  There should be no linebreak before ']'  array-bracket-newline
+  399:3  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/browser/browser_Deprecated.js
+  34:13  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_MatchURLFilters.js
+  40:19  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_NewTabUtils.js
+  822:16  error  There should be no linebreak after '['  array-bracket-newline
+  873:16  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_Services.js
+  10:32  error  Parsing error: Unexpected reserved word 'interface'
+
+   8 | // Globals
+   9 | 
+> 10 | function checkService(service, interface) {
+     |                                ^
+  11 |   info("Checking that Services." + service + " is an " + interface);
+  12 |   Assert.ok(service in Services);
+  13 |   Assert.ok(Services[service] instanceof interface);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/AddonManager.jsm
+  3008:20  error  There should be no linebreak after '['  array-bracket-newline
+  3039:20  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/content/shortcuts.js
+  102:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/browser/browser_theme_previews.js
+  134:5  error  There should be no linebreak before ']'  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_addon_manager_telemetry_events.js
+  102:27  error  There should be no linebreak after '['  array-bracket-newline
+  289:32  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_AddonRepository_langpacks.js
+  31:14  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_blocklist_severities.js
+  82:15  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_compatoverrides.js
+  149:16  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_pluginchange.js
+  14:17  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/test_strictcompatibility.js
+   11:16  error  There should be no linebreak after '['  array-bracket-newline
+  137:29  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/lib/environments/browser-window.js
+  35:26  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/lib/rules/no-useless-run-test.js
+  51:38  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/tests/no-useless-removeEventListener.js
+  26:10  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/tests/no-useless-run-test.js
+  29:12  error  There should be no linebreak after '['  array-bracket-newline
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/xpcom/tests/unit/test_bug364285-1.js
+  10:1  error  There should be no linebreak before ']'  array-bracket-newline
+
+✖ 500 problems (500 errors, 0 warnings)
+

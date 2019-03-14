@@ -1,0 +1,813 @@
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/jsat/Utils.jsm
+  587:13  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/accessible/tests/mochitest/events.js
+  1060:5  error  Unexpected operator assignment shorthand  operator-assignment
+  1061:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/browser-gestureSupport.js
+  522:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/browser.js
+  3058:5  error  Unexpected operator assignment shorthand  operator-assignment
+  3059:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/contentSearchUI.js
+  454:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/favicons/browser_bug408415.js
+  18:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_3.js
+   38:7  error  Unexpected operator assignment shorthand  operator-assignment
+   43:7  error  Unexpected operator assignment shorthand  operator-assignment
+  269:7  error  Unexpected operator assignment shorthand  operator-assignment
+  279:7  error  Unexpected operator assignment shorthand  operator-assignment
+  280:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_4.js
+  47:7  error  Unexpected operator assignment shorthand  operator-assignment
+  55:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification_5.js
+   44:7  error  Unexpected operator assignment shorthand  operator-assignment
+   50:7  error  Unexpected operator assignment shorthand  operator-assignment
+  236:7  error  Unexpected operator assignment shorthand  operator-assignment
+  242:7  error  Unexpected operator assignment shorthand  operator-assignment
+  260:7  error  Unexpected operator assignment shorthand  operator-assignment
+  266:7  error  Unexpected operator assignment shorthand  operator-assignment
+  272:7  error  Unexpected operator assignment shorthand  operator-assignment
+  297:7  error  Unexpected operator assignment shorthand  operator-assignment
+  304:7  error  Unexpected operator assignment shorthand  operator-assignment
+  311:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/popupNotifications/browser_popupNotification.js
+  184:7  error  Unexpected operator assignment shorthand  operator-assignment
+  187:7  error  Unexpected operator assignment shorthand  operator-assignment
+  188:7  error  Unexpected operator assignment shorthand  operator-assignment
+  257:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/base/content/test/webrtc/get_user_media_content_script.js
+  59:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/BrowserContentHandler.jsm
+  637:13  error  Unexpected operator assignment shorthand  operator-assignment
+  639:13  error  Unexpected operator assignment shorthand  operator-assignment
+  647:9   error  Unexpected operator assignment shorthand  operator-assignment
+  652:9   error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/BrowserGlue.jsm
+  2136:13  error  Unexpected operator assignment shorthand  operator-assignment
+  2156:15  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/contextualidentity/test/browser/browser_broadcastchannel.js
+  77:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/content/migration.js
+  270:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/migration/MigrationUtils.jsm
+  1014:7  error  Unexpected operator assignment shorthand  operator-assignment
+  1037:5  error  Unexpected operator assignment shorthand  operator-assignment
+  1045:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/places/content/bookmarkProperties.js
+  264:11  error  Unexpected operator assignment shorthand  operator-assignment
+  268:11  error  Unexpected operator assignment shorthand  operator-assignment
+  342:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/pocket/content/panels/js/signup.js
+  98:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/preferences/in-content/tests/browser_contentblocking.js
+  72:7  error  Parsing error: Unexpected reserved word 'private'
+
+  70 |   let menu = doc.querySelector("#trackingProtectionMenu");
+  71 |   let always = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=always]");
+> 72 |   let private = doc.querySelector("#trackingProtectionMenu > menupopup > menuitem[value=private]");
+     |       ^
+  73 |   menu.selectedItem = always;
+  74 |   ok(!private.selected, "The Only in private windows item should not be selected");
+  75 |   ok(always.selected, "The Always item should be selected");
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/privatebrowsing/test/browser/browser_privatebrowsing_windowtitle.js
+  67:20  error  Parsing error: Unexpected reserved word 'private'
+
+  65 |   }
+  66 | 
+> 67 |   function openWin(private) {
+     |                    ^
+  68 |     return BrowserTestUtils.openNewBrowserWindow({ private });
+  69 |   }
+  70 |   await testTabTitle((await openWin(false)), "about:blank", false, page_without_title);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/StartupPerformance.jsm
+  189:11  error  Unexpected operator assignment shorthand  operator-assignment
+  208:15  error  Unexpected operator assignment shorthand  operator-assignment
+  212:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/sessionstore/test/browser_354894_perwindowpb.js
+  140:7  error  Parsing error: Unexpected reserved word 'private'
+
+  138 |   }
+  139 | 
+> 140 |   let private = options.private || false;
+      |       ^
+  141 |   let newWin = await promiseNewWindowLoaded({ private });
+  142 | 
+  143 |   await injectTestTabs(newWin);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/translation/BingTranslator.jsm
+  117:7  error  Unexpected operator assignment shorthand  operator-assignment
+  312:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/translation/GoogleTranslator.jsm
+  104:7  error  Unexpected operator assignment shorthand  operator-assignment
+  277:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/components/translation/YandexTranslator.jsm
+  124:7  error  Unexpected operator assignment shorthand  operator-assignment
+  307:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/formautofill/FormAutofillSync.jsm
+  194:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/extensions/pdfjs/content/PdfStreamConverter.jsm
+  148:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/AsanReporter.jsm
+  168:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/browser/modules/FaviconLoader.jsm
+  103:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/framework/toolbox-tabs-order-manager.js
+  44:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/inspector/markup/test/helper_diff.js
+  155:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/netmonitor/src/components/StatisticsPanel.js
+  257:9  error  Unexpected operator assignment shorthand  operator-assignment
+  258:9  error  Unexpected operator assignment shorthand  operator-assignment
+  259:9  error  Unexpected operator assignment shorthand  operator-assignment
+  262:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/performance/modules/logic/tree-model.js
+  259:9  error  Unexpected operator assignment shorthand  operator-assignment
+  469:5  error  Unexpected operator assignment shorthand  operator-assignment
+  470:5  error  Unexpected operator assignment shorthand  operator-assignment
+  472:7  error  Unexpected operator assignment shorthand  operator-assignment
+  476:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/responsive.html/test/browser/browser_contextual_identity.js
+  24:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/scratchpad/scratchpad.js
+  738:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/build/babel.js
+   5:12862  error  Unexpected operator assignment shorthand  operator-assignment
+   5:13307  error  Unexpected operator assignment shorthand  operator-assignment
+   5:14539  error  Unexpected operator assignment shorthand  operator-assignment
+   5:16601  error  Unexpected operator assignment shorthand  operator-assignment
+   5:18557  error  Unexpected operator assignment shorthand  operator-assignment
+   5:19523  error  Unexpected operator assignment shorthand  operator-assignment
+   5:21822  error  Unexpected operator assignment shorthand  operator-assignment
+   5:23341  error  Unexpected operator assignment shorthand  operator-assignment
+   5:23807  error  Unexpected operator assignment shorthand  operator-assignment
+   8:12163  error  Unexpected operator assignment shorthand  operator-assignment
+   8:23376  error  Unexpected operator assignment shorthand  operator-assignment
+  10:8059   error  Unexpected operator assignment shorthand  operator-assignment
+  20:29798  error  Unexpected operator assignment shorthand  operator-assignment
+  20:29852  error  Unexpected operator assignment shorthand  operator-assignment
+  22:7411   error  Unexpected operator assignment shorthand  operator-assignment
+  22:31840  error  Unexpected operator assignment shorthand  operator-assignment
+  23:207    error  Unexpected operator assignment shorthand  operator-assignment
+  23:2980   error  Unexpected operator assignment shorthand  operator-assignment
+  23:3299   error  Unexpected operator assignment shorthand  operator-assignment
+  24:6323   error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/widgets/BarGraphWidget.js
+  223:13  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/widgets/FlameGraph.js
+  533:7  error  Unexpected operator assignment shorthand  operator-assignment
+  543:7  error  Unexpected operator assignment shorthand  operator-assignment
+  560:7  error  Unexpected operator assignment shorthand  operator-assignment
+  561:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/widgets/MountainGraphWidget.js
+  162:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/shared/widgets/VariablesView.jsm
+  1495:5   error  Unexpected operator assignment shorthand  operator-assignment
+  3593:11  error  Unexpected operator assignment shorthand  operator-assignment
+  3610:7   error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/storage/ui.js
+  1142:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webide/content/webide.js
+  956:7  error  Unexpected operator assignment shorthand  operator-assignment
+  963:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/client/webide/modules/app-validator.js
+   72:7  error  Unexpected operator assignment shorthand  operator-assignment
+  222:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/accessibility/worker.js
+  33:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/inspector/css-logic.js
+  348:9  error  Unexpected operator assignment shorthand  operator-assignment
+  921:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/actors/network-monitor/network-response-listener.js
+  180:5  error  Unexpected operator assignment shorthand  operator-assignment
+  185:9  error  Unexpected operator assignment shorthand  operator-assignment
+  500:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-03.js
+  71:7  error  Parsing error: 'with' in strict mode
+
+  69 |       var a;
+  70 |       var r = number;
+> 71 |       with (Math) {
+     |       ^
+  72 |         a = PI * r * r;
+  73 |         debugger;
+  74 |       }
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/server/tests/unit/test_framebindings-04.js
+  83:7  error  Parsing error: 'with' in strict mode
+
+  81 |       var a, obj = { one: 1, two: 2 };
+  82 |       var r = number;
+> 83 |       with (Math) {
+     |       ^
+  84 |         a = PI * r * r;
+  85 |         with (obj) {
+  86 |           var foo = two * PI;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/client/connection-manager.js
+  158:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/css/color.js
+  1190:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/css/lexer.js
+  589:7  error  Unexpected operator assignment shorthand  operator-assignment
+  601:7  error  Unexpected operator assignment shorthand  operator-assignment
+  603:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/fronts/inspector/rule-rewriter.js
+  346:7  error  Unexpected operator assignment shorthand  operator-assignment
+  376:5  error  Unexpected operator assignment shorthand  operator-assignment
+  402:9  error  Unexpected operator assignment shorthand  operator-assignment
+  410:7  error  Unexpected operator assignment shorthand  operator-assignment
+  418:7  error  Unexpected operator assignment shorthand  operator-assignment
+  425:9  error  Unexpected operator assignment shorthand  operator-assignment
+  432:7  error  Unexpected operator assignment shorthand  operator-assignment
+  511:5  error  Unexpected operator assignment shorthand  operator-assignment
+  513:7  error  Unexpected operator assignment shorthand  operator-assignment
+  515:5  error  Unexpected operator assignment shorthand  operator-assignment
+  567:5  error  Unexpected operator assignment shorthand  operator-assignment
+  572:7  error  Unexpected operator assignment shorthand  operator-assignment
+  574:5  error  Unexpected operator assignment shorthand  operator-assignment
+  635:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/heapsnapshot/census-tree-node.js
+  530:5  error  Unexpected operator assignment shorthand  operator-assignment
+  531:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/heapsnapshot/CensusUtils.js
+  303:5  error  Unexpected operator assignment shorthand  operator-assignment
+  306:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/layout/utils.js
+  877:3  error  Unexpected operator assignment shorthand  operator-assignment
+  878:3  error  Unexpected operator assignment shorthand  operator-assignment
+  879:3  error  Unexpected operator assignment shorthand  operator-assignment
+  880:3  error  Unexpected operator assignment shorthand  operator-assignment
+  881:3  error  Unexpected operator assignment shorthand  operator-assignment
+  882:3  error  Unexpected operator assignment shorthand  operator-assignment
+  883:3  error  Unexpected operator assignment shorthand  operator-assignment
+  884:3  error  Unexpected operator assignment shorthand  operator-assignment
+  894:5  error  Unexpected operator assignment shorthand  operator-assignment
+  895:5  error  Unexpected operator assignment shorthand  operator-assignment
+  896:5  error  Unexpected operator assignment shorthand  operator-assignment
+  897:5  error  Unexpected operator assignment shorthand  operator-assignment
+  898:5  error  Unexpected operator assignment shorthand  operator-assignment
+  899:5  error  Unexpected operator assignment shorthand  operator-assignment
+  900:5  error  Unexpected operator assignment shorthand  operator-assignment
+  901:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/performance/recording-utils.js
+   91:5  error  Unexpected operator assignment shorthand  operator-assignment
+  123:5  error  Unexpected operator assignment shorthand  operator-assignment
+  125:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/transport/packets.js
+  186:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/transport/stream-utils.js
+  136:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/transport/transport.js
+  409:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/devtools/shared/webconsole/throttle.js
+  137:7  error  Unexpected operator assignment shorthand  operator-assignment
+  140:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/ipc/tests/browser_JSWindowActor.js
+  173:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/media/IdpSandbox.jsm
+  58:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/dom/tests/browser/browser_noopener.js
+  29:24  error  Parsing error: Unexpected reserved word 'private'
+
+  27 | const NOOPENER_NEWPROC_PREF = "dom.noopener.newprocess.enabled";
+  28 | 
+> 29 | async function doTests(private, container) {
+     |                        ^
+  30 |   let alwaysNewWindow = SpecialPowers.getIntPref(OPEN_NEWWINDOW_PREF) == OPEN_NEWWINDOW;
+  31 | 
+  32 |   let window = await BrowserTestUtils.openNewBrowserWindow({ private });
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/gfx/layers/layerviewer/layerTreeView.js
+  422:11  error  Unexpected operator assignment shorthand  operator-assignment
+  423:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/intl/l10n/FluentSyntax.jsm
+  477:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Array.js
+  935:1  error  Parsing error: Unexpected character '#'
+
+  933 |         R = "";
+  934 |     } else {
+> 935 | #if EXPOSE_INTL_API
+      | ^
+  936 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  937 | #else
+  938 |         R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/intl/CommonFunctions.js
+  7:1  error  Parsing error: Unexpected character '#'
+
+   5 | /* Portions Copyright Norbert Lindenberg 2011-2012. */
+   6 | 
+>  7 | #ifdef DEBUG
+     | ^
+   8 | #define assertIsValidAndCanonicalLanguageTag(locale, desc) \
+   9 |     do { \
+  10 |         let localeObj = parseLanguageTag(locale); \
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExp.js
+  590:1  error  Parsing error: Unexpected character '#'
+
+  588 | //   * global flag is true
+  589 | //   * replaceValue is a string without "$"
+> 590 | #define FUNC_NAME RegExpGlobalReplaceOpt
+      | ^
+  591 | #include "RegExpGlobalReplaceOpt.h.js"
+  592 | #undef FUNC_NAME
+  593 |
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpGlobalReplaceOpt.h.js
+  22:1  error  Parsing error: Unexpected character '#'
+
+  20 | //   * global flag is true
+  21 | function FUNC_NAME(rx, S, lengthS, replaceValue, flags
+> 22 | #ifdef SUBSTITUTION
+     | ^
+  23 |                    , firstDollarIndex
+  24 | #endif
+  25 | #ifdef ELEMBASE
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/RegExpLocalReplaceOpt.h.js
+  20:1  error  Parsing error: Unexpected character '#'
+
+  18 | //   * global flag is false
+  19 | function FUNC_NAME(rx, S, lengthS, replaceValue
+> 20 | #ifdef SUBSTITUTION
+     | ^
+  21 |                    , firstDollarIndex
+  22 | #endif
+  23 |                   )
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Sorting.js
+   95:9   error  Unexpected operator assignment shorthand  operator-assignment
+  151:21  error  Unexpected operator assignment shorthand  operator-assignment
+  154:17  error  Unexpected operator assignment shorthand  operator-assignment
+  160:13  error  Unexpected operator assignment shorthand  operator-assignment
+  188:17  error  Unexpected operator assignment shorthand  operator-assignment
+  190:17  error  Unexpected operator assignment shorthand  operator-assignment
+  195:13  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/String.js
+  795:1  error  Parsing error: Unexpected character '#'
+
+  793 |     var options = arguments.length > 3 ? arguments[3] : undefined;
+  794 | /* eslint-disable no-unreachable */
+> 795 | #if EXPOSE_INTL_API
+      | ^
+  796 |     return callFunction(String_localeCompare, str1, str2, locales, options);
+  797 | #else
+  798 |     return callFunction(std_String_localeCompare, str1, str2, locales, options);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedArray.js
+  1328:1  error  Parsing error: Unexpected character '#'
+
+  1326 |     // Omit the 'if' clause in step 6, since typed arrays can't have undefined
+  1327 |     // or null elements.
+> 1328 | #if EXPOSE_INTL_API
+       | ^
+  1329 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement, locales, options));
+  1330 | #else
+  1331 |     var R = ToString(callContentFunction(firstElement.toLocaleString, firstElement));
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/TypedObject.js
+  1:2  error  Parsing error: Unexpected character '#'
+
+> 1 | #include "TypedObjectConstants.h"
+    |  ^
+  2 | 
+  3 | ///////////////////////////////////////////////////////////////////////////
+  4 | // Getters and setters for various slots
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/builtin/Utilities.js
+  25:1  error  Parsing error: Unexpected character '#'
+
+  23 | */
+  24 | 
+> 25 | #include "SelfHostingDefines.h"
+     | ^
+  26 | #include "TypedObjectConstants.h"
+  27 | 
+  28 | // Assertions and debug printing, defined here instead of in the header above
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/js/src/shell/ModuleLoader.js
+  57:1  error  Parsing error: Unexpected token
+
+  55 |         let isRelative = ReflectApply(StringPrototypeStartsWith, name, ["./"])
+  56 |                       || ReflectApply(StringPrototypeStartsWith, name, ["../"])
+> 57 | #ifdef XP_WIN
+     | ^
+  58 |                       || ReflectApply(StringPrototypeStartsWith, name, [".\\"])
+  59 |                       || ReflectApply(StringPrototypeStartsWith, name, ["..\\"])
+  60 | #endif
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/mobile/android/chrome/geckoview/GeckoViewSelectionActionChild.js
+  178:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/mobile/android/components/FilePicker.js
+  83:9  error  Unexpected operator assignment shorthand  operator-assignment
+  84:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/dns/mdns/libmdns/fallback/DataReader.jsm
+  41:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/test/httpserver/httpd.js
+  1411:9  error  Unexpected operator assignment shorthand  operator-assignment
+  4529:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/netwerk/test/httpserver/test/test_async_response_sending.js
+  554:9  error  Unexpected operator assignment shorthand  operator-assignment
+  576:9  error  Unexpected operator assignment shorthand  operator-assignment
+  828:9  error  Unexpected operator assignment shorthand  operator-assignment
+  865:9  error  Unexpected operator assignment shorthand  operator-assignment
+  887:9  error  Unexpected operator assignment shorthand  operator-assignment
+  926:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/remote/server/Transport.jsm
+  451:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/security/manager/ssl/tests/unit/head_psm.js
+  399:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/common/modules-testing/logging.js
+  21:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/common/rest.js
+  475:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/common/utils.js
+  321:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/fxaccounts/tests/xpcshell/test_accounts_device_registration.js
+  145:5  error  Unexpected operator assignment shorthand  operator-assignment
+  155:5  error  Unexpected operator assignment shorthand  operator-assignment
+  160:5  error  Unexpected operator assignment shorthand  operator-assignment
+  205:5  error  Unexpected operator assignment shorthand  operator-assignment
+  210:5  error  Unexpected operator assignment shorthand  operator-assignment
+  218:5  error  Unexpected operator assignment shorthand  operator-assignment
+  263:5  error  Unexpected operator assignment shorthand  operator-assignment
+  273:5  error  Unexpected operator assignment shorthand  operator-assignment
+  281:5  error  Unexpected operator assignment shorthand  operator-assignment
+  328:5  error  Unexpected operator assignment shorthand  operator-assignment
+  333:5  error  Unexpected operator assignment shorthand  operator-assignment
+  348:5  error  Unexpected operator assignment shorthand  operator-assignment
+  395:5  error  Unexpected operator assignment shorthand  operator-assignment
+  403:5  error  Unexpected operator assignment shorthand  operator-assignment
+  408:5  error  Unexpected operator assignment shorthand  operator-assignment
+  557:5  error  Unexpected operator assignment shorthand  operator-assignment
+  562:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/fxaccounts/tests/xpcshell/test_oauth_tokens.js
+  136:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/addons.js
+  719:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/bookmarks.js
+  1318:11  error  Unexpected operator assignment shorthand  operator-assignment
+  1340:7   error  Unexpected operator assignment shorthand  operator-assignment
+  1411:7   error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/clients.js
+   911:5  error  Unexpected operator assignment shorthand  operator-assignment
+  1106:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/extension-storage.js
+  85:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/forms.js
+  244:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/history.js
+  492:7  error  Unexpected operator assignment shorthand  operator-assignment
+  522:9  error  Unexpected operator assignment shorthand  operator-assignment
+  532:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/passwords.js
+  372:9  error  Unexpected operator assignment shorthand  operator-assignment
+  386:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/prefs.js
+  282:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/engines/tabs.js
+  353:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/modules/record.js
+   898:5  error  Unexpected operator assignment shorthand  operator-assignment
+   899:5  error  Unexpected operator assignment shorthand  operator-assignment
+  1022:5  error  Unexpected operator assignment shorthand  operator-assignment
+  1023:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_engine.js
+  89:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_fxa_node_reassignment.js
+  219:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_node_reassignment.js
+  140:3  error  Unexpected operator assignment shorthand  operator-assignment
+  381:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_score_triggers.js
+  103:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tests/unit/test_syncengine_sync.js
+  285:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/services/sync/tps/extensions/tps/resource/tps.jsm
+  1009:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/storage/test/unit/test_storage_aggregates.js
+  32:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/driver.js
+  485:13  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/packets.js
+  189:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/stream-utils.js
+  135:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/marionette/transport.js
+  449:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/mochitest/browser-test.js
+  1257:7  error  Unexpected operator assignment shorthand  operator-assignment
+  1259:5  error  Unexpected operator assignment shorthand  operator-assignment
+  1263:5  error  Unexpected operator assignment shorthand  operator-assignment
+  1275:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/modules/CoverageUtils.jsm
+  63:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/talos/talos/pageloader/chrome/report.js
+  164:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/testing/talos/talos/pageloader/chrome/tscroll.js
+  150:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/aboutmemory/content/aboutMemory.js
+   779:5  error  Unexpected operator assignment shorthand  operator-assignment
+  1048:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/antitracking/test/browser/browser_referrerDefaultPolicy.js
+  5:29  error  Parsing error: Unexpected reserved word 'private'
+
+  3 | /* import-globals-from ../../../../../browser/base/content/test/general/head.js */
+  4 | 
+> 5 | async function testOnWindow(private, expectedReferrer) {
+    |                             ^
+  6 |   info("Creating a new " + (private ? "private" : "normal") + " window");
+  7 |   let win = await BrowserTestUtils.openNewBrowserWindow({private});
+  8 |   let browser = win.gBrowser;
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/autocomplete/tests/unit/test_finalCompleteValueSelectedIndex.js
+  16:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/captivedetect/CaptiveDetect.jsm
+  27:3  error  Unexpected operator assignment shorthand  operator-assignment
+  29:3  error  Unexpected operator assignment shorthand  operator-assignment
+  31:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/extensions/test/xpcshell/test_ext_proxy_socks.js
+  406:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/normandy/vendor/ReactDOM.js
+  18:51134  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/passwordmgr/LoginManagerPrompter.jsm
+  53:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/BookmarkHTMLUtils.jsm
+  672:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/Bookmarks.jsm
+  961:19  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/migration/test_current_from_v47.js
+  69:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/tests/unifiedcomplete/test_search_engine_alias.js
+  145:12  error  Parsing error: Unexpected reserved word 'private'
+
+  143 | 
+  144 |   // Search in both a non-private and private context.
+> 145 |   for (let private of [false, true]) {
+      |            ^
+  146 |     let searchParam = "enable-actions";
+  147 |     if (private) {
+  148 |       searchParam += " private-window";
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/places/UnifiedComplete.jsm
+  707:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/reader/AboutReader.jsm
+  541:5  error  Unexpected operator assignment shorthand  operator-assignment
+  558:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/search/SearchService.jsm
+  296:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/app/TelemetrySend.jsm
+   147:9  error  Unexpected operator assignment shorthand  operator-assignment
+  1116:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/other/GCTelemetry.jsm
+  67:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/pings/CoveragePing.jsm
+  105:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/telemetry/tests/unit/head.js
+  144:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/UrlClassifierHashCompleter.jsm
+  465:7  error  Unexpected operator assignment shorthand  operator-assignment
+  761:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/url-classifier/UrlClassifierLib.jsm
+  160:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/components/utils/mozjexl.js
+  1:6929  error  Unexpected operator assignment shorthand  operator-assignment
+  1:8639  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/about.js
+  29:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/aboutSupport.js
+  1079:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/widgets/richlistbox.js
+   73:7  error  Unexpected operator assignment shorthand  operator-assignment
+  579:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/content/widgets/tree.js
+  1066:9  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/Geometry.jsm
+   42:5  error  Unexpected operator assignment shorthand  operator-assignment
+   43:5  error  Unexpected operator assignment shorthand  operator-assignment
+   48:5  error  Unexpected operator assignment shorthand  operator-assignment
+   49:5  error  Unexpected operator assignment shorthand  operator-assignment
+   54:5  error  Unexpected operator assignment shorthand  operator-assignment
+   55:5  error  Unexpected operator assignment shorthand  operator-assignment
+  105:5  error  Unexpected operator assignment shorthand  operator-assignment
+  110:5  error  Unexpected operator assignment shorthand  operator-assignment
+  167:5  error  Unexpected operator assignment shorthand  operator-assignment
+  168:5  error  Unexpected operator assignment shorthand  operator-assignment
+  169:5  error  Unexpected operator assignment shorthand  operator-assignment
+  170:5  error  Unexpected operator assignment shorthand  operator-assignment
+  247:5  error  Unexpected operator assignment shorthand  operator-assignment
+  248:5  error  Unexpected operator assignment shorthand  operator-assignment
+  249:5  error  Unexpected operator assignment shorthand  operator-assignment
+  250:5  error  Unexpected operator assignment shorthand  operator-assignment
+  328:5  error  Unexpected operator assignment shorthand  operator-assignment
+  329:5  error  Unexpected operator assignment shorthand  operator-assignment
+  330:5  error  Unexpected operator assignment shorthand  operator-assignment
+  331:5  error  Unexpected operator assignment shorthand  operator-assignment
+  340:5  error  Unexpected operator assignment shorthand  operator-assignment
+  341:5  error  Unexpected operator assignment shorthand  operator-assignment
+  342:5  error  Unexpected operator assignment shorthand  operator-assignment
+  343:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/NewTabUtils.jsm
+  662:5  error  Unexpected operator assignment shorthand  operator-assignment
+  666:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/ResponsivenessMonitor.jsm
+  20:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/secondscreen/RokuApp.jsm
+  40:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/secondscreen/SimpleServiceDiscovery.jsm
+  352:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/subprocess/subprocess_common.jsm
+  352:5  error  Unexpected operator assignment shorthand  operator-assignment
+  405:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/modules/tests/xpcshell/test_Services.js
+  10:32  error  Parsing error: Unexpected reserved word 'interface'
+
+   8 | // Globals
+   9 | 
+> 10 | function checkService(service, interface) {
+     |                                ^
+  11 |   info("Checking that Services." + service + " is an " + interface);
+  12 |   Assert.ok(service in Services);
+  13 |   Assert.ok(Services[service] instanceof interface);
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/downloads/HelperAppDlg.jsm
+  426:7  error  Unexpected operator assignment shorthand  operator-assignment
+  430:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/internal/AddonUpdateChecker.jsm
+  234:5  error  Unexpected operator assignment shorthand  operator-assignment
+  236:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/internal/ProductAddonChecker.jsm
+  105:5  error  Unexpected operator assignment shorthand  operator-assignment
+  107:5  error  Unexpected operator assignment shorthand  operator-assignment
+  109:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/internal/XPIInstall.jsm
+  1932:9  error  Unexpected operator assignment shorthand  operator-assignment
+  1953:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/LightweightThemeManager.jsm
+  300:5  error  Unexpected operator assignment shorthand  operator-assignment
+  302:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/browser/browser_webapi.js
+  54:1  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/browser/head.js
+  1128:5   error  Unexpected operator assignment shorthand  operator-assignment
+  1131:7   error  Unexpected operator assignment shorthand  operator-assignment
+  1142:5   error  Unexpected operator assignment shorthand  operator-assignment
+  1156:7   error  Unexpected operator assignment shorthand  operator-assignment
+  1160:7   error  Unexpected operator assignment shorthand  operator-assignment
+  1164:9   error  Unexpected operator assignment shorthand  operator-assignment
+  1169:7   error  Unexpected operator assignment shorthand  operator-assignment
+  1173:9   error  Unexpected operator assignment shorthand  operator-assignment
+  1234:11  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/extensions/test/xpcshell/head_system_addons.js
+  166:3  error  Unexpected operator assignment shorthand  operator-assignment
+  167:3  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/toolkit/mozapps/update/UpdateService.jsm
+  3300:7  error  Unexpected operator assignment shorthand  operator-assignment
+  3302:7  error  Unexpected operator assignment shorthand  operator-assignment
+
+/Users/victorporof/Work/are-we-pretty-yet-cli/.clone/tools/lint/eslint/eslint-plugin-mozilla/lib/processors/xbl-bindings.js
+  86:5  error  Unexpected operator assignment shorthand  operator-assignment
+
+✖ 350 problems (350 errors, 0 warnings)
+

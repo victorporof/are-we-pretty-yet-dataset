@@ -1,0 +1,11 @@
+ devtools/client/shared/build/babel.js                 | 50 +++++++++++++++++++++++++-------------------------
+ devtools/server/tests/unit/test_frameactor_wasm-01.js |  6 +++---
+ devtools/server/tests/unit/test_wasm_source-01.js     |  6 +++---
+ devtools/shared/css/lexer.js                          |  4 ++--
+ js/src/builtin/Sorting.js                             | 32 ++++++++++++++++----------------
+ toolkit/components/normandy/vendor/PropTypes.js       |  2 +-
+ toolkit/components/normandy/vendor/React.js           |  4 ++--
+ toolkit/components/normandy/vendor/ReactDOM.js        |  6 +++---
+ toolkit/components/normandy/vendor/classnames.js      |  2 +-
+ toolkit/components/utils/mozjexl.js                   |  2 +-
+ 10 files changed, 57 insertions(+), 57 deletions(-)

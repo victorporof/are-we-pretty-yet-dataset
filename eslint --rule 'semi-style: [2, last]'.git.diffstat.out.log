@@ -1,0 +1,3 @@
+ browser/components/payments/test/browser/head.js |  5 ++---
+ devtools/client/shared/build/babel.js            | 20 ++++++++++----------
+ 2 files changed, 12 insertions(+), 13 deletions(-)

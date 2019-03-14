@@ -1,0 +1,26 @@
+ mobile/android/chrome/geckoview/GeckoViewContentChild.js                | 12 ++++++------
+ mobile/android/chrome/geckoview/GeckoViewMediaChild.js                  | 10 +++++-----
+ mobile/android/chrome/geckoview/GeckoViewNavigationChild.js             | 12 ++++++------
+ mobile/android/chrome/geckoview/GeckoViewProgressChild.js               | 20 ++++++++++----------
+ mobile/android/chrome/geckoview/GeckoViewScrollChild.js                 |  6 +++---
+ mobile/android/chrome/geckoview/GeckoViewSelectionActionChild.js        | 14 +++++++-------
+ mobile/android/chrome/geckoview/GeckoViewSettingsChild.js               |  8 ++++----
+ mobile/android/chrome/geckoview/geckoview.js                            |  8 ++++----
+ mobile/android/components/geckoview/GeckoViewExternalAppService.js      |  4 ++--
+ mobile/android/components/geckoview/GeckoViewStartup.js                 |  6 +++---
+ mobile/android/modules/geckoview/ContentCrashHandler.jsm                |  2 +-
+ mobile/android/modules/geckoview/GeckoViewAutoFill.jsm                  | 18 +++++++++---------
+ mobile/android/modules/geckoview/GeckoViewConsole.jsm                   |  2 +-
+ mobile/android/modules/geckoview/GeckoViewContent.jsm                   | 20 ++++++++++----------
+ mobile/android/modules/geckoview/GeckoViewContentBlocking.jsm           |  6 +++---
+ mobile/android/modules/geckoview/GeckoViewMedia.jsm                     |  2 +-
+ mobile/android/modules/geckoview/GeckoViewModule.jsm                    | 12 ++++++------
+ mobile/android/modules/geckoview/GeckoViewNavigation.jsm                | 20 ++++++++++----------
+ mobile/android/modules/geckoview/GeckoViewProgress.jsm                  | 16 ++++++++--------
+ mobile/android/modules/geckoview/GeckoViewRemoteDebugger.jsm            | 14 +++++++-------
+ mobile/android/modules/geckoview/GeckoViewSettings.jsm                  |  6 +++---
+ mobile/android/modules/geckoview/GeckoViewWebExtension.jsm              |  2 +-
+ mobile/android/modules/geckoview/LoadURIDelegate.jsm                    |  2 +-
+ toolkit/components/telemetry/geckoview/GeckoViewTelemetryController.jsm | 14 +++++++-------
+ toolkit/modules/tests/xpcshell/test_Log.js                              | 14 +++++++-------
+ 25 files changed, 125 insertions(+), 125 deletions(-)

@@ -1,0 +1,15 @@
+ browser/components/payments/content/paymentDialogWrapper.js                   |  2 +-
+ devtools/client/inspector/markup/test/browser_markup_tag_edit_07.js           |  4 ++--
+ devtools/client/inspector/markup/test/helper_diff.js                          |  2 +-
+ devtools/client/inspector/shared/test/browser_styleinspector_output-parser.js |  6 +++---
+ devtools/client/shared/build/babel.js                                         | 50 +++++++++++++++++++++++++-------------------------
+ devtools/server/actors/inspector/walker.js                                    | 12 ++++++------
+ devtools/shared/l10n.js                                                       |  4 ++--
+ devtools/shared/plural-form.js                                                | 36 ++++++++++++++++++------------------
+ dom/asmjscache/test/file_slow.js                                              | 20 ++++++++++----------
+ toolkit/components/normandy/vendor/PropTypes.js                               |  2 +-
+ toolkit/components/normandy/vendor/React.js                                   |  4 ++--
+ toolkit/components/normandy/vendor/ReactDOM.js                                |  6 +++---
+ toolkit/components/normandy/vendor/classnames.js                              |  2 +-
+ toolkit/components/utils/mozjexl.js                                           |  2 +-
+ 14 files changed, 76 insertions(+), 76 deletions(-)

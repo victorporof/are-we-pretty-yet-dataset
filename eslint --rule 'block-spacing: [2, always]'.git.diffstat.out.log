@@ -1,0 +1,8 @@
+ devtools/client/shared/build/babel.js            | 50 +++++++++++++++++++++++++-------------------------
+ toolkit/components/normandy/vendor/PropTypes.js  |  2 +-
+ toolkit/components/normandy/vendor/React.js      |  4 ++--
+ toolkit/components/normandy/vendor/ReactDOM.js   |  6 +++---
+ toolkit/components/normandy/vendor/classnames.js |  2 +-
+ toolkit/components/utils/mozjexl.js              |  2 +-
+ toolkit/modules/tests/xpcshell/test_Log.js       | 10 +++++-----
+ 7 files changed, 38 insertions(+), 38 deletions(-)
